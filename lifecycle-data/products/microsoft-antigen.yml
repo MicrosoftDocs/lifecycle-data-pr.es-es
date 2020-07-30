@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Antigen
+  description: Microsoft Antigen sigue la Directiva de ciclo de vida fijo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 74b4c26a7bc5ff2ca5747a7dc50d91825ee5cd2c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "840898"
+name: Microsoft Antigen
+summary: >+
+  Microsoft Antigen sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+
+
+  Esto se aplica a las siguientes ediciones: 9,0 para Exchange, Administrador corporativo 9,0, para puertas de enlace SMTP, administrador de correo no deseado
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/17/2006
+  end: 04/08/2014
+  extendedEnd: 12/31/2015
+releases:
+- version: Original Release
+  startDate: 07/17/2006
+  endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> La guía básica para los productos de seguridad en la marca Forefront ha cambiado.Este producto se ha discontinuado a partir del 31 de diciembre de 2015.\n\n## <a name=\"editions\"></a>Ediciones \n* 9,0 para Exchange\n* Administrador corporativo 9,0\n* para puertas de enlace SMTP\n* Administrador de correo no deseado"

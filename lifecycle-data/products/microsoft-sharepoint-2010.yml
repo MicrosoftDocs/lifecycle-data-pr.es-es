@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SharePoint 2010 (para sitios de Internet)
+  description: Microsoft SharePoint 2010 (para sitios de Internet) sigue la Directiva de ciclo de vida fijo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "840781"
+name: Microsoft SharePoint 2010 (para sitios de Internet)
+summary: >+
+  Microsoft SharePoint 2010 (para sitios de Internet) sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+
+
+  Esto se aplica a las siguientes ediciones: para Internet sites Enterprise, para Internet sites Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/15/2010
+  end: 10/13/2015
+  extendedEnd: 04/13/2021
+releases:
+- version: Original Release
+  startDate: 06/15/2010
+  endDate: 04/13/2021
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Documentación del producto](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Documentación para desarrolladores](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> La fecha de finalización del soporte técnico de este producto se ha ampliado desde el 13 de octubre de 2020 hasta el 13 de abril de 2021.\n\n## <a name=\"editions\"></a>Ediciones \n* para Internet sites Enterprise\n* para Internet sites Standard"

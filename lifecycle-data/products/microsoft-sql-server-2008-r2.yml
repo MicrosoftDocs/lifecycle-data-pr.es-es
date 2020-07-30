@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SQL Server 2008 R2
+  description: Microsoft SQL Server 2008 R2 sigue la Directiva de ciclo de vida fijo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: fab744b0945bef274e20d81e4c86df2c1e7f69d6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "840359"
+name: Microsoft SQL Server 2008 R2
+summary: >+
+  Microsoft SQL Server 2008 R2 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+
+
+  Esto se aplica a las siguientes ediciones: Datacenter, Developer, Enterprise, Express, Express with Advanced Services, para sistemas incrustados, Standard, Standard Edition for Small Business, Web, Workgroup
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 07/20/2010
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Service Pack 3
+  startDate: 07/07/2014
+  endDate: 07/09/2019
+- version: Service Pack 2
+  startDate: 07/26/2012
+  endDate: 10/13/2015
+- version: Service Pack 1
+  startDate: 07/12/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 07/20/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Opciones de fin de soporte de SQL Server](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Opciones de fin de soporte para SQL Server 2008 y Windows Server 2008](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Programa de actualización de seguridad ampliado (ESU)](/lifecycle/faq/extended-security-updates)\n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Las actualizaciones de seguridad extendidas (ESU) están disponibles para las ediciones Datacenter, Standard, Enterprise y Embedded de este producto, durante un máximo de tres años más allá del final del soporte técnico.\n> [!NOTE]\n> Solo para IA64, se admitirá SP2 hasta 7/9/2019. Vea el blog de SQL Release Services para obtener más información.\n\n## <a name=\"editions\"></a>Ediciones \n* Centro de datos\n* Programador\n* Empresa\n* Exprés\n* Express con Advanced Services\n* para sistemas incrustados\n* Standard\n* Standard Edition para pequeñas empresas\n* Web\n* Grupo"
