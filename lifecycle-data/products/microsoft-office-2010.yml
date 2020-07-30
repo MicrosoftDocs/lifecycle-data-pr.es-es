@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2010
+  description: Microsoft Office 2010 sigue la Directiva de ciclo de vida fijo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 38b07316aaa247313848fcb558d54d4dad2d9c37
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "840479"
+name: Microsoft Office 2010
+summary: >+
+  Microsoft Office 2010 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+
+
+  Esto se aplica a las siguientes ediciones: eAcademy, Home and Business, Home and Student, personal, Professional, Professional Academic, Professional Plus, Professional Plus Home use Program, Standard, Starter
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Service Pack 2
+  startDate: 07/23/2013
+  endDate: 10/13/2020
+- version: Service Pack 1
+  startDate: 06/28/2011
+  endDate: 10/14/2014
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Plan de desarrollo de Office 2010 fin de soporte](/DeployOffice/office-2010-end-support-roadmap)\n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* eAcademy\n* Hogar y Pequeña Empresa \n* Hogar y Estudiantes \n* Personal\n* Professional\n* Professional Académico\n* Professional Plus\n* Programa de uso doméstico de profesionales más\n* Standard\n* Kits"
