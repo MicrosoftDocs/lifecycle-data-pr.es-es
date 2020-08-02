@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2003 Web Components para el sistema Microsoft Office 2007
+  description: Los componentes Web de Microsoft Office 2003 para el sistema Microsoft Office 2007 siguen la Directiva de ciclo de vida del componente.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 82cc956a80008bea8b985ccf8b1b6c3c4927b4c7
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "840239"
+name: Microsoft Office 2003 Web Components para el sistema Microsoft Office 2007
+summary: >+
+  Los componentes Web de Microsoft Office 2003 para el sistema Microsoft Office 2007 siguen la Directiva de ciclo de vida del [componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+
+
+products:
+- office
+policyType: component
+supportDates:
+  start: 01/27/2007
+  end: 10/10/2017
+releases:
+- version: Original Release
+  startDate: 01/27/2007
+  endDate: 10/10/2017
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](/office/troubleshoot/support/office-2007-not-support)"
