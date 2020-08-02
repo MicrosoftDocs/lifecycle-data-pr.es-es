@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SharePoint Server 2010
+  description: Microsoft SharePoint Server 2010 sigue la Directiva de ciclo de vida fijo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 71adef7342f1471a67bd170430b3470dc6ea1a87
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "840216"
+name: Microsoft SharePoint Server 2010
+summary: >+
+  Microsoft SharePoint Server 2010 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+
+
+  Esto se aplica a las siguientes ediciones: servicios de Access, todos los aplicables, servicios de Excel, performance Point Services
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 04/13/2021
+releases:
+- version: Service Pack 2
+  startDate: 07/23/2013
+  endDate: 04/13/2021
+- version: Service Pack 1
+  startDate: 06/28/2011
+  endDate: 10/14/2014
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Extensión de compatibilidad](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Guía de migración](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> La fecha de finalización del soporte técnico de este producto se ha ampliado desde el 13 de octubre de 2020 hasta el 13 de abril de 2021.\n\n## <a name=\"editions\"></a>Ediciones \n* Servicios de Access\n* Todo aplicable\n* Servicios de Excel\n* Servicios de punto de rendimiento"

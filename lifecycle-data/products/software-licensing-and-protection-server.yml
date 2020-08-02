@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Servidor de licencias de software y protección
+  description: El servidor de licencias y protección de software sigue la Directiva de ciclo de vida fijo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "840206"
+name: Servidor de licencias de software y protección
+summary: >
+  El servidor de licencias y protección de software sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+
+
+  Esto se aplica a las siguientes ediciones: Enterprise, Standard
+
+
+  > [!IMPORTANT]
+
+  > Debido al desinversión del servidor de licencias de software y protección (SLPS), el soporte técnico de Microsoft SLPS hasta el 24 de septiembre de 2009.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2007
+  end: 09/24/2009
+  extendedEnd: 09/24/2009
+releases:
+- version: Original Release
+  startDate: 12/30/2007
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Servidor de licencias de software y protección (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Empresa\n* Standard"
