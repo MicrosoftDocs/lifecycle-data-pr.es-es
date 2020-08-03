@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008
+  description: Windows Server 2008 sigue la Directiva de ciclo de vida fijo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841045"
+name: Windows Server 2008
+summary: >
+  Windows Server 2008 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+
+
+  Esto se aplica a las siguientes ediciones: Datacenter, Datacenter sin Hyper-V, Enterprise, Enterprise sin Hyper-V, para sistemas basados en Itanium, Foundation, Standard, Standard sin Hyper-V, Web
+
+
+  > [!IMPORTANT]
+
+  > La compatibilidad con este producto ha finalizado. Consulte la guía de migración a continuación.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/06/2008
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 05/06/2008
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](https://aka.ms/AA1ovn4)\n* [Información de actualización del servidor](/windows-server/upgrade/upgrade-overview)\n* [Programa de actualización de seguridad ampliado (ESU)](/lifecycle/faq/extended-security-updates)\n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Las actualizaciones de seguridad extendidas (ESU) están disponibles a través de programas de licencias por volumen específicos para las ediciones Datacenter, Standard, Enterprise y Embedded de esta edición de producto, durante un máximo de tres años más allá del final del soporte técnico. Póngase en contacto con su partner de Microsoft o su equipo de cuentas para obtener más información. \n\nLiberar-------------------------------fecha de inicio----fecha de finalización\n\nActualización de seguridad ampliada año 3---01/11/2022---01/10/2023\n\nActualización de seguridad ampliada año 2---01/12/2021---01/11/2022\n\nActualización de seguridad ampliada año 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundation se ha lanzado el 21 de mayo de 2009\n\n## <a name=\"editions\"></a>Ediciones \n* Centro de datos\n* Centro de recursos sin Hyper-V\n* Empresa\n* Enterprise sin Hyper-V\n* para sistemas basados en Itanium\n* Foundation\n* Standard\n* Estándar sin Hyper-V\n* Web"

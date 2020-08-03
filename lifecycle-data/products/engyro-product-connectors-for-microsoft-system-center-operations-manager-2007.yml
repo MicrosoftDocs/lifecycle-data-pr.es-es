@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Conectores de productos de Engyro para Microsoft System Center Operations Manager 2007
+  description: Los conectores de productos de Engyro para Microsoft System Center Operations Manager 2007 siguen la Directiva de ciclo de vida fijo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 434c323cabe12823036a8bc7854aa026253d65a9
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841192"
+name: Conectores de productos de Engyro para Microsoft System Center Operations Manager 2007
+summary: >
+  Los conectores de productos de Engyro para Microsoft System Center Operations Manager 2007 siguen la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > La compatibilidad con este producto ha finalizado.
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 10/01/2007
+  end: 07/10/2012
+  extendedEnd: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 10/01/2007
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](https://blogs.technet.microsoft.com/momteam/2017/01/10/engyro-product-connector-support-ending-this-year/)"
