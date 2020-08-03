@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: BizTalk Server 2009
+  description: BizTalk Server 2009 sigue la Directiva de ciclo de vida fijo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 89280d62397e3c5dbfaaf332c7f8618eb2713d0d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841091"
+name: BizTalk Server 2009
+summary: >
+  BizTalk Server 2009 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+
+
+  Esto se aplica a las siguientes ediciones: Branch, Developer, Enterprise, Standard
+
+
+  > [!IMPORTANT]
+
+  > La compatibilidad con este producto ha finalizado. Consulte la guía de migración a continuación.
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 06/21/2009
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 06/21/2009
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Información de versión](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Rama\n* Programador\n* Empresa\n* Standard"
