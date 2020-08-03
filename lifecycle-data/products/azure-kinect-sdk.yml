@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SDK de Kinect de Azure
+  description: El SDK de Azure Kinect sigue la Directiva moderna del ciclo de vida.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cdaabc601933637a3d23f3738a98995a2966a5b5
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "872393"
+name: SDK de Kinect de Azure
+summary: >+
+  El SDK de Azure Kinect sigue la directiva [moderna](/lifecycle/policies/modern) del ciclo de vida.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 06/27/2019
+releases:
+- version: Original Release
+  startDate: 06/27/2019
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Información de servicio](https://github.com/microsoft/Azure-Kinect-Sensor-SDK/blob/develop/microsoft-support.md)"

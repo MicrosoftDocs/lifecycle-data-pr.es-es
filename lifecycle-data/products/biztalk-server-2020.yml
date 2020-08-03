@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: BizTalk Server 2020
+  description: BizTalk Server 2020 sigue la Directiva de ciclo de vida fijo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 857d430f637df64f0a3dd3be4e8da07bb840592d
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "872379"
+name: BizTalk Server 2020
+summary: >+
+  BizTalk Server 2020 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+
+
+  Esto se aplica a las siguientes ediciones: Branch, Developer, Enterprise, Standard
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 02/01/2020
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 02/01/2020
+  endDate: 01/09/2029
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Información del producto](/biztalk/install-and-config-guides/biztalk-server-2020-whats-new-and-installation)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Rama\n* Programador\n* Empresa\n* Standard"

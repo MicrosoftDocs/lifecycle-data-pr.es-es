@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 para aplicaciones de participación del cliente, versión 9.0.2 (actualización local)
+  description: Dynamics 365 for Customer Engagement Apps, version 9.0.2 (actualización local) sigue la Directiva de ciclo de vida fijo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 11e70e4e8ef3fb18ab06a385fbe4d9a434121ac6
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "872374"
+name: Dynamics 365 para aplicaciones de participación del cliente, versión 9.0.2 (actualización local)
+summary: >+
+  Dynamics 365 for Customer Engagement Apps, version 9.0.2 (actualización local) sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 10/31/2018
+  end: 01/09/2024
+  extendedEnd: 01/13/2026
+releases:
+- version: Original Release (ver 9.0)
+  startDate: 10/31/2018
+  endDate: 01/13/2026
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Información de soporte técnico](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)"

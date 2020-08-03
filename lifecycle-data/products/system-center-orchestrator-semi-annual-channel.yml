@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Canal semianual de System Center Orchestrator
+  description: El canal semianual de System Center Orchestrator sigue la Directiva moderna del ciclo de vida.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9b854c8bacdf528bc85b87d07b03664a62fd04c2
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "872479"
+name: Canal semianual de System Center Orchestrator
+summary: >
+  El canal semianual de System Center Orchestrator sigue la directiva [moderna](/lifecycle/policies/modern) del ciclo de vida.
+
+
+
+  > [!IMPORTANT]
+
+  > La compatibilidad ha finalizado. Consulte la guía de migración a continuación.
+products:
+- msc
+policyType: modern-on-prem
+supportDates:
+  start: 02/08/2018
+  end: 01/24/2020
+releases:
+- version: Version 1807
+  startDate: 07/24/2018
+  endDate: 01/24/2020
+- version: Version 1801
+  startDate: 02/08/2018
+  endDate: 08/08/2019
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](/system-center/orchestrator/upgrade-orch?view=sc-orch-2019)"
