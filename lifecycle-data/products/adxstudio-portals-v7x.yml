@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Adxstudio portales V7. x
+  description: Adxstudio portales V7. x sigue la Directiva de ciclo de vida fijo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 31e5f05143bc1b8c2436858f605645a602450a2e
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863511"
+name: Adxstudio portales V7. x
+summary: >
+  Adxstudio portales V7. x sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > La compatibilidad con este producto está sujeta a los términos de su adquisición y ha finalizado. Consulte la guía de migración a continuación.
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 09/29/2015
+  extendedEnd: 08/01/2018
+releases:
+- version: v7.x
+  startDate: 09/29/2015
+  endDate: 08/01/2018
+- version: v.6x or prior
+  startDate: 09/29/2015
+  endDate: 04/12/2016
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](https://cloudblogs.microsoft.com/dynamics365/it/2017/09/14/changes-coming-for-legacy-adxstudio-portals-v7/?source=crm)"

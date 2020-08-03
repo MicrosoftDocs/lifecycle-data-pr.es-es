@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Sistema de plataforma de nube
+  description: El sistema de plataforma de nube sigue la Directiva de ciclo de vida fijo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 931caf3fc06338dfa6ec97f0a7bc079c9be6a4a9
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863613"
+name: Sistema de plataforma de nube
+summary: >+
+  El sistema de plataforma de nube sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+
+
+products:
+- azure
+policyType: fixed
+supportDates:
+  start: 01/29/2015
+  end: 04/14/2020
+  extendedEnd: 07/12/2022
+releases:
+- version: Original Release
+  startDate: 01/29/2015
+  endDate: 07/12/2022
+content: "\n\n> [!NOTE]\n> La compatibilidad con el sistema de plataforma de nube se extiende como se muestra a fin de proporcionar a todos los clientes la escala de tiempo de transición estándar del ciclo de vida.\n> [!NOTE]\n> Sistema estándar de plataforma de nube lanzado el 18 de septiembre de 2017."

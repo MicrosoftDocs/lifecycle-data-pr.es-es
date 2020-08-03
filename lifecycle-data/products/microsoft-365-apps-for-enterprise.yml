@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Aplicaciones de Microsoft 365 para empresas
+  description: Las aplicaciones de Microsoft 365 para empresas siguen la Directiva moderna del ciclo de vida.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5ba40811a13f29fa2677ddd6dfa56571327df7be
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863486"
+name: Aplicaciones de Microsoft 365 para empresas
+summary: >+
+  Las aplicaciones de Microsoft 365 para empresas siguen la directiva [moderna](/lifecycle/policies/modern) del ciclo de vida.
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 09/22/2015
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Matriz de soporte de configuración de Office](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)\n* [Requisitos del sistema](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Información de servicio](/DeployOffice/change-management-for-office-365-clients)\n\n> [!NOTE]\n> Este producto se llamaba anteriormente Office 365 ProPlus."

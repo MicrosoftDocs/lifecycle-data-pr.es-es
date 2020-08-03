@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics AX 2012 R3
+  description: Dynamics AX 2012 R3 sigue la Directiva de ciclo de vida fijo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d321f6b8d10b4c1acf17eb7645030cca46f4f611
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863606"
+name: Dynamics AX 2012 R3
+summary: >+
+  Dynamics AX 2012 R3 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 08/01/2014
+  end: 10/12/2021
+  extendedEnd: 01/10/2023
+releases:
+- version: Original Release
+  startDate: 08/01/2014
+  endDate: 01/10/2023
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Programa de migración de Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Información adicional del ciclo de vida](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/upgrade-overview-2012)\n\n> [!NOTE]\n> Se ha ampliado el soporte estándar y extendido tal y como se muestra."

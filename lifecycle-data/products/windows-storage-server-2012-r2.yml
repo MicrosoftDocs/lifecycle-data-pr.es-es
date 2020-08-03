@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Storage Server 2012 R2
+  description: Windows Storage Server 2012 R2 sigue la Directiva de ciclo de vida fijo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4a27e9c473e898353e7d8d5f47cf6e19274320d8
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863739"
+name: Windows Storage Server 2012 R2
+summary: >+
+  Windows Storage Server 2012 R2 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+
+
+  Esto se aplica a las siguientes ediciones: Essentials, Standard, Workgroup
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/25/2013
+  end: 10/09/2018
+  extendedEnd: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 11/25/2013
+  endDate: 10/10/2023
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> El soporte estándar y ampliado para este producto se ha ampliado para proporcionar a los clientes la escala de tiempo de transición del ciclo de vida estándar.\n> [!NOTE]\n> La fecha de inicio de la edición Essentials es el 25 de septiembre de 2014. \n\n## <a name=\"editions\"></a>Ediciones \n* Essentials\n* Standard\n* Grupo"

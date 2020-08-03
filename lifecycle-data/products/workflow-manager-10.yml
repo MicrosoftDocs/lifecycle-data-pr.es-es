@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Administrador de flujos de trabajo 1.0
+  description: El administrador de flujos de trabajo 1,0 sigue la Directiva de ciclo de vida fijo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 36a97aaf2df469316f169e8cb1582ce8efbae7ed
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863624"
+name: Administrador de flujos de trabajo 1.0
+summary: >+
+  El administrador de flujos de trabajo 1,0 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+
+
+  Esto se aplica a las siguientes ediciones: Client
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 10/18/2012
+  end: 01/09/2018
+  extendedEnd: 01/10/2023
+releases:
+- version: Original Release
+  startDate: 10/18/2012
+  endDate: 01/10/2023
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Información de mantenimiento de SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [Información de mantenimiento de SharePoint 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Cuando el administrador de flujos de trabajo es un componente de SharePoint Server 2016 o SharePoint Server 2013, se admitirá de acuerdo con las fechas de finalización de soporte de la versión respectiva de SharePoint Server.\n\n## <a name=\"editions\"></a>Ediciones \n* Client"
