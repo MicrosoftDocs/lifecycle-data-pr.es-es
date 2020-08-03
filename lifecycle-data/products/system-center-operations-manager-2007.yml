@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: System Center Operations Manager 2007
+  description: System Center Operations Manager 2007 sigue la Directiva de ciclo de vida fijo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8efa21f33b388d13bbe5ca14c03dc2275d9d5b78
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "840720"
+name: System Center Operations Manager 2007
+summary: "System Center Operations Manager 2007 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> La compatibilidad con este producto ha finalizado. Consulte la guía de migración a continuación. \n"
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 06/23/2007
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Service Pack 1
+  startDate: 02/22/2008
+  endDate: 07/09/2019
+- version: Original Release
+  startDate: 06/23/2007
+  endDate: 04/14/2009
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)"
