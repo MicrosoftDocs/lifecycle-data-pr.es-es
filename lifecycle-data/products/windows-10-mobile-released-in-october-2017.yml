@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 Mobile, lanzado en octubre de 2017
+  description: Windows 10 Mobile, lanzado en octubre de 2017 sigue la Directiva de ciclo de vida fijo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8b985e9de8f67c71a0a81c907664499b3cd303e2
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "872431"
+name: Windows 10 Mobile, lanzado en octubre de 2017
+summary: >
+  Windows 10 Mobile, lanzado en octubre de 2017 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > La compatibilidad con este producto ha finalizado.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/17/2017
+  end: 12/10/2019
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 10/17/2017
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Preguntas más frecuentes del ciclo de vida del sistema operativo](/lifecycle/faq/device-operating-systems)\n* [El soporte técnico de Windows 10 Mobile terminó el 10 de diciembre de 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"
