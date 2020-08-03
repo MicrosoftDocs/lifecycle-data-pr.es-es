@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Commerce Server 2007
+  description: Microsoft Commerce Server 2007 sigue la Directiva de ciclo de vida fijo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 456c3a4b3430312ba8c2a1e949f1c5b7bb820ee9
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "840846"
+name: Microsoft Commerce Server 2007
+summary: >
+  Microsoft Commerce Server 2007 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+
+
+  Esto se aplica a las siguientes ediciones: developer, Enterprise, Standard
+
+
+  > [!IMPORTANT]
+
+  > La compatibilidad con este producto ha finalizado.
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 06/16/2006
+  end: 07/12/2011
+  extendedEnd: 07/12/2016
+releases:
+- version: Service Pack 2
+  startDate: 05/29/2008
+  endDate: 07/12/2016
+- version: Service Pack 1
+  startDate: 06/22/2007
+  endDate: 07/14/2009
+- version: Original Release
+  startDate: 06/16/2006
+  endDate: 07/08/2008
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Programador\n* Empresa\n* Standard"
