@@ -2,13 +2,13 @@
 metadata:
   title: Windows Analytics
   description: Windows Analytics sigue la Directiva moderna del ciclo de vida.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4e35970134232ac66d6cae3e03ce5f0dcb3ceb0b
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 08/11/2020
+  ms.openlocfilehash: 01c42583edc132faefab6ccf17e3f25cd6e2ce9b
+  ms.sourcegitcommit: d4ec29fd0c57053cfa2254d1bb08c610bb5e6817
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "872405"
+  ms.lasthandoff: 08/11/2020
+  ms.locfileid: "887873"
 name: Windows Analytics
 summary: >
   Windows Analytics sigue la directiva [moderna](/lifecycle/policies/modern) del ciclo de vida.
@@ -23,8 +23,9 @@ products:
 policyType: modern-on-prem
 supportDates:
   start: 03/02/2017
+  end: 01/31/2020
 releases:
 - version: Original Release
   startDate: 03/02/2017
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"
+content: "\n## <a name=\"links\"></a>Links \n* [Guía de migración](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"
