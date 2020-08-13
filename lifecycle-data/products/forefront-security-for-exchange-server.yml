@@ -2,13 +2,13 @@
 metadata:
   title: Forefront Security para Exchange Server
   description: Forefront Security para Exchange Server sigue la Directiva de ciclo de vida fijo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0c3d1542acc20b211ef41984c07656ca0f74be61
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 0053b2aaf2be3d4c6ecbc29a6396bade882e16dc
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "840929"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893738"
 name: Forefront Security para Exchange Server
 summary: >
   Forefront Security para Exchange Server sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
@@ -23,6 +23,7 @@ products:
 policyType: fixed
 supportDates:
   start: 03/08/2007
+  end: 12/31/2015
   extendedEnd: 12/31/2015
 releases:
 - version: Service Pack 2
@@ -34,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](https://www.microsoft.com/security/business/explore/cybersecurity)"
+content: "\n## <a name=\"links\"></a>Links \n* [Guía de migración](https://www.microsoft.com/security/business/explore/cybersecurity)"

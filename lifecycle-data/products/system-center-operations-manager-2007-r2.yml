@@ -2,13 +2,13 @@
 metadata:
   title: System Center Operations Manager 2007 R2
   description: System Center Operations Manager 2007 R2 sigue la Directiva de ciclo de vida fijo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1ab9c0a078bf449f1b4118876bcc435d642215fd
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 8276b2ba221fb3c6c05948ac9712c3e10c9a1628
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "840186"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "892517"
 name: System Center Operations Manager 2007 R2
 summary: "System Center Operations Manager 2007 R2 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> La compatibilidad con este producto ha finalizado. Consulte la guía de migración a continuación. \n"
 products:
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 08/20/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"
+content: "\n## <a name=\"links\"></a>Links \n* [Guía de migración](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"
