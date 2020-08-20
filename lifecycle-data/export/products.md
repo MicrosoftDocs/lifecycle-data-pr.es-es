@@ -1,13 +1,13 @@
 ---
 title: Exportación de datos del ciclo de vida
 description: Exportar información del ciclo de vida del producto
-ms.date: 08/19/2020
-ms.openlocfilehash: a9831c67fa9c42ad557eb3d02d4a7c71621b92d2
-ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+ms.date: 08/20/2020
+ms.openlocfilehash: c0a2c57e9fa1ee15ab6a05e56affe6a27d5ed163
+ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "903671"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "905229"
 ---
 # <a name="lifecycle-data-export"></a>Exportación de datos del ciclo de vida
 
