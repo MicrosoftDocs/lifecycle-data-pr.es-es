@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 Home y Pro
-  description: Windows 10 Home y Pro sigue la Directiva moderna del ciclo de vida.
+  description: Windows 10 Home y Pro se rige por la Directiva de ciclo de vida moderno.
   ms.date: 07/30/2020
   ms.openlocfilehash: 9d3ad5a10e7df75162cbff42701d451e1299e3c4
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879227"
 name: Windows 10 Home y Pro
 summary: >
-  Windows 10 Home y Pro sigue la directiva [moderna](/lifecycle/policies/modern) del ciclo de vida.
+  Windows 10 Home y Pro se rige por la Directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
 
 
-  Esto se aplica a las siguientes ediciones: Página principal, Pro, Pro for Education, Pro for Workstations, Professional
+  Esto se cumple en las siguientes ediciones: Home, Pro, Pro for Education, Pro for Workstations y Professional
 
 
   > [!IMPORTANT]
 
-  > Microsoft seguirá admitiendo al menos un canal semianual de Windows 10 hasta el 14 de octubre de 2025.
+  > Microsoft seguirá proporcionado soporte técnico como mínimo a un canal semianual de Windows 10 hasta el 14 de octubre de 2025.
 products:
 - windows
 policyType: modern-on-prem
@@ -57,4 +57,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Windows como servicio (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Hoja de hechos del ciclo de vida de Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Preguntas más frecuentes sobre el ciclo de vida: productos Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro para estación de trabajo lanzado por primera vez con la versión 1703\n> [!NOTE]\n> A no ser que se haya aplazado, las actualizaciones de características del canal semianual de Windows 10 posteriores pueden instalarse antes de la fecha de finalización de la fecha de soporte estándar.\n\n## <a name=\"editions\"></a>Ediciones \n* Inicio\n* Activo\n* Pro for Education\n* Pro para estaciones de trabajo\n* Professional"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Hoja de datos del ciclo de vida de Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Preguntas frecuentes sobre el ciclo de vida: productos de Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation fue publicado por primera vez con la versión 1703\n> [!NOTE]\n> A menos que se aplacen, las actualizaciones de características subsiguientes del canal semianual de Windows 10 se pueden instalar antes de la fecha de finalización de soporte estándar indicada.\n\n## <a name=\"editions\"></a>Ediciones \n* Home\n* Pro\n* Pro for Education\n* Pro for Workstations\n* Professional"

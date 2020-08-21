@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2013
-  description: Visual Studio 2013 sigue la Directiva de ciclo de vida fijo.
+  description: Visual Studio 2013 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863807"
 name: Visual Studio 2013
 summary: >+
-  Visual Studio 2013 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Visual Studio 2013 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se aplica a las siguientes ediciones: Agents, All, Community, Express for Web, Express for Windows, Express for Windows Desktop, IntelliTrace Collector, Modeling SDK, biblioteca MFC multibyte, Premium, Professional, administración de versiones, herramientas remotas, SDK, Shell (integrado), Shell (aislado), Team Explorer, test Professional, Ultimate, Visual C++ Redistributable, extensiones de herramientas
+  Esto está disponible para las siguientes ediciones: Agents, Todo, Community, Express para Web, Express para Windows, Express para escritorio de Windows, IntelliTrace Collector, SDK de modelado, Multibyte MFC Library, Premium, Professional, Release Management, Herramientas remotas, SDK, Shell (integrado), Shell (aislado), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable y extensiones de Web Tools
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Información de servicio](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Gelifica\n* Todo\n* Comunidad\n* Express para Web\n* Express para Windows\n* Express para escritorio de Windows\n* Recopilador de IntelliTrace\n* SDK de modelado\n* Biblioteca MFC multibyte\n* Premium\n* Professional\n* Administración de versiones\n* Herramientas remotas\n* SDK\n* Shell (integrado)\n* Shell (aislado)\n* Explorador de equipos\n* Test Professional\n* Cual\n* Paquete redistribuible de Visual C++\n* Extensiones de herramientas web"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Información de mantenimiento](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Agents\n* todas\n* Community\n* Express para Web\n* Express para Windows\n* Express para escritorio de Windows\n* IntelliTrace Collector\n* SDK de modelado\n* Multibyte MFC Library\n* Premium\n* Professional\n* Release Management\n* Herramientas remotas\n* SDK\n* Shell (integrado)\n* Shell (aislado)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Extensiones de Web Tools"

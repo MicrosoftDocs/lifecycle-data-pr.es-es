@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Configuration Manager 2007 R3
-  description: Microsoft System Center Configuration Manager 2007 R3 sigue la Directiva de ciclo de vida fijo.
+  description: Microsoft System Center Configuration Manager 2007 R3 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: cffcc1c2bb51fc5023fe6ad29d62132141ffedb2
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863765"
 name: Microsoft System Center Configuration Manager 2007 R3
 summary: >
-  Microsoft System Center Configuration Manager 2007 R3 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft System Center Configuration Manager 2007 R3 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > La compatibilidad con este producto ha finalizado. Consulte la guía de migración a continuación.
+  > El soporte técnico para este producto ha finalizado. Consulte las instrucciones de migración a continuación.
 products:
 - msc
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 12/19/2010
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Instrucciones de migración adicionales](/mem/configmgr/core/migration/planning-for-migration)"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Instrucciones de migración adicionales](/mem/configmgr/core/migration/planning-for-migration)"

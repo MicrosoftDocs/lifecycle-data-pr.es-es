@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2013
-  description: Microsoft Office 2013 sigue la Directiva de ciclo de vida fijo.
+  description: Microsoft Office 2013 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863781"
 name: Microsoft Office 2013
 summary: >+
-  Microsoft Office 2013 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft Office 2013 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se aplica a las siguientes ediciones: Home and Business, Home and Student, Professional, Professional Plus, Professional Plus Home use Program, Standard, Web Apps Server
+  Esto se cumple en las siguientes ediciones: Hogar y Empresa, Hogar y Estudiantes, Profesional, Profesional Plus, Programa para el uso en el hogar Profesional Plus, Estándar y Servidor Web Apps
 
 products:
 - office
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1 no se aplica a la edición de Web Apps Server. \n\n## <a name=\"editions\"></a>Ediciones \n* Hogar y Pequeña Empresa \n* Hogar y Estudiantes \n* Professional\n* Professional Plus\n* Programa de uso doméstico de profesionales más\n* Standard\n* Servidor de aplicaciones Web"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1 no se incluye en la edición de Servidor Web Apps. \n\n## <a name=\"editions\"></a>Ediciones \n* Hogar y Empresa\n* Hogar y Estudiantes\n* Professional\n* Professional Plus\n* Programa para el uso en el hogar Profesional Plus\n* Estándar\n* Web Apps Server"

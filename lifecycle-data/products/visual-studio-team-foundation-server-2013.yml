@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2013
-  description: Visual Studio Team Foundation Server 2013 sigue la Directiva de ciclo de vida fijo.
+  description: Visual Studio Team Foundation Server 2013 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863716"
 name: Visual Studio Team Foundation Server 2013
 summary: >+
-  Visual Studio Team Foundation Server 2013 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Visual Studio Team Foundation Server 2013 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se aplica a las siguientes ediciones: todos, administración de versiones
+  Esto está disponible para las siguientes ediciones: Todos y Release Management
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Información del producto](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Información de servicio](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> En el caso del servidor de administración de versiones para TFS 2013, se admitirá la actualización 4 según las instrucciones de Directiva hasta 4/9/2024.\n\n## <a name=\"editions\"></a>Ediciones \n* Todo\n* Administración de versiones"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Información de producto](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Información de mantenimiento](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Para Release Management Server para TFS 2013, la actualización 4 recibirá soporte según las directrices de directiva hasta el 9/4/2024.\n\n## <a name=\"editions\"></a>Ediciones \n* todas\n* Release Management"

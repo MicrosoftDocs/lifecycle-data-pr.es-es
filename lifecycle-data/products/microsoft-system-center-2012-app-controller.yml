@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Controlador de aplicaciones de Microsoft System Center 2012
-  description: El controlador de aplicaciones de Microsoft System Center 2012 sigue la Directiva de ciclo de vida fijo.
+  title: Microsoft System Center 2012 App Controller
+  description: Microsoft System Center 2012 App Controller se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 955c3d74c044c24548fc2173c8d454e739b25505
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863552"
-name: Controlador de aplicaciones de Microsoft System Center 2012
+name: Microsoft System Center 2012 App Controller
 summary: >+
-  El controlador de aplicaciones de Microsoft System Center 2012 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft System Center 2012 App Controller se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Información de System Center](/system-center/#pivot=components&panel=components-all)\n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 consta de componentes: Configuration Manager Data Protection Manager Operations Manager Orchestrator Service Manager Services Management Automation Service Provider Service Provider Foundation"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Información de System Center](/system-center/#pivot=components&panel=components-all)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 consta de los siguientes componentes: Configuration Manager, Data Protection Manager, Operations Manager, Orchestrator Service Manager, Service Management Automation, Virtual Machine Manager y Service Provider Foundation"
