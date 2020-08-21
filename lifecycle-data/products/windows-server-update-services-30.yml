@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server Update Services 3,0
-  description: Windows Server Update Services 3,0 sigue la Directiva de ciclo de vida fijo.
+  title: Servicios de actualización de Windows Server 3.0
+  description: Windows Server Update Services 3.0 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841043"
-name: Windows Server Update Services 3,0
+name: Servicios de actualización de Windows Server 3.0
 summary: >
-  Windows Server Update Services 3,0 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Windows Server Update Services 3.0 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > La compatibilidad ha finalizado. Consulte la guía de migración a continuación.
+  > El soporte técnico ha finalizado. Consulte las instrucciones de migración a continuación.
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> La compatibilidad se ha ampliado de 7/11/2017 a 1/14/2020."
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> El soporte técnico se ha extendido del 11/7/2017 al 14/1/2020."

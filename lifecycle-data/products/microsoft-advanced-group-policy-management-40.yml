@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Administración avanzada de directivas de grupo de Microsoft 4,0
-  description: Microsoft Advanced Group Policy Management 4,0 sigue la Directiva de ciclo de vida fijo.
+  title: Administración avanzada de directivas para grupo de Microsoft 4.0
+  description: La Administración avanzada de directivas de grupo de Microsoft 4.0 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ee2407b159ab7e8573aa39ebff7de6fd8002bde
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "840901"
-name: Administración avanzada de directivas de grupo de Microsoft 4,0
+name: Administración avanzada de directivas para grupo de Microsoft 4.0
 summary: >+
-  Microsoft Advanced Group Policy Management 4,0 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  La Administración avanzada de directivas de grupo de Microsoft 4.0 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2009
   endDate: 04/08/2014
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Experiencia de información de MDOP](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Experiencia de información de MDOP](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)"

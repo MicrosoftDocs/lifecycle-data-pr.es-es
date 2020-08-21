@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team System 2008
-  description: Visual Studio Team System 2008 sigue la Directiva de ciclo de vida fijo.
+  description: Visual Studio Team System 2008 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 38c593193296d428c6e0f74bb2e039ac2fa8f3d7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "840705"
 name: Visual Studio Team System 2008
 summary: >
-  Visual Studio Team System 2008 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Visual Studio Team System 2008 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se aplica a las siguientes ediciones: ALL, Architecture, Database, Development, Team Explorer, Team test Load Agent
+  Esto se cumple en las siguientes ediciones: Todos, Architecture, Database, Development, Team Explorer y Team Test Load Agent
 
 
   > [!IMPORTANT]
 
-  > La compatibilidad ha finalizado. Consulte la guía de migración a continuación.
+  > El soporte técnico ha finalizado. Consulte las instrucciones de migración a continuación.
 products:
 - vs
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Guía de migración](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Todo\n* Arquitectura\n* Database\n* Desarrollo\n* Explorador de equipos\n* Agente de carga de Team test"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Instrucciones para la migración](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* todas\n* Arquitectura\n* Database\n* Desarrollo\n* Team Explorer\n* Team Test Load Agent"

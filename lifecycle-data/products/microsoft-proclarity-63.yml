@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft ProClarity 6,3
-  description: Microsoft ProClarity 6,3 sigue la Directiva de ciclo de vida fijo.
+  title: Microsoft ProClarity 6.3
+  description: Microsoft ProClarity 6.3 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 317529e1a142906f2aebd67ada9a28a32a680b2a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "840221"
-name: Microsoft ProClarity 6,3
+name: Microsoft ProClarity 6.3
 summary: >+
-  Microsoft ProClarity 6,3 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft ProClarity 6.3 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se aplica a las siguientes ediciones: el servidor de Analytics, el profesional de escritorio y el visor de SharePoint
+  Esto se cumple en las siguientes ediciones: Analytics Server, Desktop Professional y SharePoint Viewer
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2007
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Servidor de análisis\n* Escritorio profesional\n* Visor de SharePoint"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Analytics Server\n* Desktop Professional\n* SharePoint Viewer"

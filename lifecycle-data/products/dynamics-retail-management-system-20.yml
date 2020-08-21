@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Sistema de administración minorista de Dynamics 2,0
-  description: El sistema de administración minorista de Dynamics 2,0 sigue la Directiva de ciclo de vida fijo.
+  title: Dynamics Retail Management System 2.0
+  description: Dynamics Retail Management System 2.0 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: e587a27011a62b298f9003be9805c2e01b146057
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "840511"
-name: Sistema de administración minorista de Dynamics 2,0
+name: Dynamics Retail Management System 2.0
 summary: >+
-  El sistema de administración minorista de Dynamics 2,0 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Dynamics Retail Management System 2.0 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se aplica a las siguientes ediciones: Headquarters, Store Operations
+  Esto está disponible para las siguientes ediciones: Headquarters y Store Operations
 
 products:
 - dynamics
@@ -39,4 +39,4 @@ releases:
 - version: Service Pack 1
   startDate: 07/31/2007
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Sede\n* Operaciones de almacén"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Headquarters\n* Store Operations"
