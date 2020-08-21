@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Configuration Manager 2007
-  description: El administrador de configuración de Microsoft System Center 2007 sigue la Directiva de ciclo de vida fijo.
+  description: Microsoft System Center Configuration Manager 2007 se rige por la Directiva de ciclo de vida fijo
   ms.date: 07/28/2020
   ms.openlocfilehash: 796670fd93547cc79f69c544085070efb0116650
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "840769"
 name: Microsoft System Center Configuration Manager 2007
 summary: >
-  El administrador de configuración de Microsoft System Center 2007 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft System Center Configuration Manager 2007 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > La compatibilidad con este producto ha finalizado. Consulte la guía de migración a continuación.
+  > El soporte técnico para este producto ha finalizado. Consulte las instrucciones de migración a continuación.
 products:
 - msc
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 11/29/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Información del producto](/mem/configmgr/core/understand/introduction)\n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Información del producto](/mem/configmgr/core/understand/introduction)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)"

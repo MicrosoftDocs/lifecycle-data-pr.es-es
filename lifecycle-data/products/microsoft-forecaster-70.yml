@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forecaster 7,0
-  description: Microsoft Forecaster 7,0 sigue la Directiva de ciclo de vida fijo.
+  title: Microsoft Forecaster 7.0
+  description: Microsoft Forecaster 7.0 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "840823"
-name: Microsoft Forecaster 7,0
+name: Microsoft Forecaster 7.0
 summary: >+
-  Microsoft Forecaster 7,0 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft Forecaster 7.0 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> La compatibilidad con Forecaster finaliza en la fecha indicada a menos que se distribuya como un componente de un producto Dynamics. Cuando se distribuye con un producto Dynamics, las fechas del ciclo de vida de Dynamics invalidan la fecha del pronóstico."
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> El soporte para Forecaster finaliza en la fecha indicada, a menos que se distribuya como un componente de un producto de Dynamics. Cuando se distribuya con un producto de Dynamics, las fechas del ciclo de vida de Dynamics reemplazan a la fecha de Forecaster."

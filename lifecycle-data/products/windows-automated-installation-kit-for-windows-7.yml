@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Kit de instalación automatizada de Windows para Windows 7
-  description: El kit de instalación automatizada de Windows para Windows 7 sigue la Directiva de ciclo de vida fijo.
+  description: Windows Automated Installation Kit para Windows 7 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: aef3eea94538c8956abb01f8b3e681e9932d18a5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "840176"
 name: Kit de instalación automatizada de Windows para Windows 7
 summary: >
-  El kit de instalación automatizada de Windows para Windows 7 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Windows Automated Installation Kit para Windows 7 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > La compatibilidad con este producto ha finalizado.
+  > El soporte técnico para este producto ha finalizado.
 products:
 - windows
 policyType: fixed-mainstream-only

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Intelligent Application Gateway 2007
-  description: La puerta de enlace de Microsoft Intelligent Application 2007 sigue la Directiva de ciclo de vida fijo.
+  description: Microsoft Intelligent Application Gateway 2007 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6e5cc4784788d27433b7525f6a900cbc1e9f0713
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "840911"
 name: Microsoft Intelligent Application Gateway 2007
 summary: >
-  La puerta de enlace de Microsoft Intelligent Application 2007 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft Intelligent Application Gateway 2007 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > La compatibilidad con este producto ha finalizado. Consulte la guía de migración a continuación.
+  > El soporte técnico para este producto ha finalizado. Consulte las instrucciones de migración a continuación.
 products:
 - microsoft-servers
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2007
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Plan de desarrollo de Microsoft Intelligent Application Gateway 2007](/archive/blogs/testtesttestbug/important-changes-to-the-forefront-product-line)\n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Plan de desarrollo de Microsoft Intelligent Application Gateway 2007](/archive/blogs/testtesttestbug/important-changes-to-the-forefront-product-line)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)"
