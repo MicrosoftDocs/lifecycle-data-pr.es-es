@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2017
-  description: Visual Studio 2017 sigue la Directiva de ciclo de vida fijo.
+  description: Visual Studio 2017 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 28e7d911a453418021aba3ecfa7e96ca8c5ed73f
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872421"
 name: Visual Studio 2017
 summary: >+
-  Visual Studio 2017 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Visual Studio 2017 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se aplica a las siguientes ediciones: agentes, herramientas de compilación, comunidad, empresa, cliente de comentarios, para Mac, recopilador de IntelliTrace independiente, herramientas de rendimiento, profesionales, herramientas remotas, explorador de equipos, prueba profesional, paquete redistribuible de Visual C++
+  Esto está disponible para las siguientes ediciones: Agents, Build Tools, Community, Enterprise, Feedback Client, para Mac, Recopilador independiente de IntelliTrace, Herramientas de rendimiento, Professional, Herramientas remotas, Team Explorer, Test Professional y Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 15.0
   startDate: 03/07/2017
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Anuncio](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Información de servicio](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Gelifica\n* Herramientas de compilación\n* Comunidad\n* Empresa\n* Cliente de comentarios\n* para Mac\n* Recopilador independiente de IntelliTrace\n* Herramientas de rendimiento\n* Professional\n* Herramientas remotas\n* Explorador de equipos\n* Test Professional\n* Paquete redistribuible de Visual C++"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Anuncio](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Información de mantenimiento](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Agents\n* Build Tools\n* Community\n* Enterprise\n* Feedback Client\n* para Mac\n* Recopilador independiente de IntelliTrace\n* Herramientas de rendimiento\n* Professional\n* Herramientas remotas\n* Team Explorer\n* Test Professional\n* Visual C++ Redistributable"

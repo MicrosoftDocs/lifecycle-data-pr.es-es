@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2015
-  description: Visual Studio Team Foundation Server 2015 sigue la Directiva de ciclo de vida fijo.
+  description: Visual Studio Team Foundation Server 2015 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7ff7e78930b60209ffb1bee2ba4da54aa6504027
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863806"
 name: Visual Studio Team Foundation Server 2015
 summary: >+
-  Visual Studio Team Foundation Server 2015 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Visual Studio Team Foundation Server 2015 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se aplica a las siguientes ediciones: ALL
+  Esto está disponible para las siguientes ediciones: todas
 
 products:
 - vs
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Información de servicio](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Información de producto-Azure dev OPS](/azure/devops/server/whats-new?view=azure-devops)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Todo"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Información de mantenimiento](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Información del producto: Azure Dev Ops](/azure/devops/server/whats-new?view=azure-devops)\n\n\n## <a name=\"editions\"></a>Ediciones \n* todas"

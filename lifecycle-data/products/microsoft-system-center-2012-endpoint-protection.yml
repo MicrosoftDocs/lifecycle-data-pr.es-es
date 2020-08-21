@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 de protección de extremos
-  description: Microsoft System Center 2012 Endpoint Protection sigue la Directiva de ciclo de vida fijo.
+  title: Microsoft System Center 2012 Endpoint Protection
+  description: Microsoft System Center 2012 Endpoint Protection se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 831df2c41a088376f7cb34fb117163dc45ade4ed
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863549"
-name: Microsoft System Center 2012 de protección de extremos
+name: Microsoft System Center 2012 Endpoint Protection
 summary: >+
-  Microsoft System Center 2012 Endpoint Protection sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft System Center 2012 Endpoint Protection se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se aplica a las siguientes ediciones: para Mac
+  Esto se cumple en las siguientes ediciones: para Mac
 
 products:
 - msc
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Información de servicio](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Guía de migración](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Documentación de System Center](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> Los clientes deben estar al día de la última actualización de la plataforma antimalware para que sea totalmente compatible.\n\n## <a name=\"editions\"></a>Ediciones \n* para Mac"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Información de mantenimiento](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Instrucciones para la migración](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Documentación de System Center](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> Los clientes deben mantenerse al día con la última actualización de la plataforma antimalware para recibir soporte técnico completo.\n\n## <a name=\"editions\"></a>Ediciones \n* para Mac"

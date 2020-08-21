@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization 5,0
-  description: Microsoft Application Virtualization 5,0 sigue la Directiva de ciclo de vida fijo.
+  title: Microsoft Application Virtualization 5.0
+  description: Microsoft Application Virtualization 5.0 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 537410789f17e2ca2d9308c1814f22f823288b32
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863484"
-name: Microsoft Application Virtualization 5,0
+name: Microsoft Application Virtualization 5.0
 summary: >+
-  Microsoft Application Virtualization 5,0 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft Application Virtualization 5.0 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se aplica a las siguientes ediciones: para servicios de escritorio remoto, para Terminal Services, para equipos de escritorio de Windows
+  Esto se cumple en las siguientes ediciones: for Remote Desktop Services, for Terminal Services y for Windows Desktops
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Información del producto](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* para servicios de escritorio remoto\n* para servicios de Terminal Server\n* para escritorios de Windows"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Información del producto](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* for Remote Desktop Services\n* for Terminal Services\n* para escritorios de Windows"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SQL Server 2012
-  description: Microsoft SQL Server 2012 sigue la Directiva de ciclo de vida fijo.
+  description: Microsoft SQL Server 2012 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 28bafe1de891ae8c50f7ef276817ede7a380c8b1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863431"
 name: Microsoft SQL Server 2012
 summary: >+
-  Microsoft SQL Server 2012 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft SQL Server 2012 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se aplica a las siguientes ediciones: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, para sistemas incrustados, Standard y Web
+  Esto se cumple en las siguientes ediciones: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, para Embedded Systems, Standard y Web
 
 products:
 - sql-server
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Inteligencia empresarial\n* Programador\n* Empresa\n* Enterprise Core\n* Exprés\n* para sistemas incrustados\n* Standard\n* Web"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* para Embedded Systems\n* Estándar\n* Web"
