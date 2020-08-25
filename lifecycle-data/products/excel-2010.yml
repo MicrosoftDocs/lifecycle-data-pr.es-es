@@ -2,19 +2,19 @@
 metadata:
   title: Excel 2010
   description: Excel 2010 sigue la Directiva de ciclo de vida fijo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: b87f39a5d41d37ea9ea0c6f9e9871319d92b89c9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/24/2020
+  ms.openlocfilehash: bc8805039d86091798248251f13a1af772825198
+  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "840941"
+  ms.lasthandoff: 08/25/2020
+  ms.locfileid: "908490"
 name: Excel 2010
 summary: >+
   Excel 2010 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
 
 
-  Esto se aplica a las siguientes ediciones: Inicio y estudiantes, estándar
+  Esto se aplica a las siguientes ediciones: particular y de estudiantes, móviles, estándar
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](/DeployOffice/office-2010-end-support-roadmap)\n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Hogar y Estudiantes \n* Standard"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](/DeployOffice/office-2010-end-support-roadmap)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Hogar y Estudiantes\n* Móvil\n* Estándar"
