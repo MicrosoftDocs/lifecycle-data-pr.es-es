@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Mediaroom
+  description: Microsoft Mediaroom sigue la Directiva de ciclo de vida fijo.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 811ad478d76a023e8bfc6d610114e84b209529db
+  ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907308"
+name: Microsoft Mediaroom
+summary: >+
+  Microsoft Mediaroom sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+
+
+  Esto se aplica a las siguientes ediciones: servicios de aplicación 1,0, cliente 2,0, cliente 2,1, servidor 2,0, servidor 2,1
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 08/03/2010
+releases:
+- version: Original Release
+  startDate: 08/03/2010
+content: "\n\n> [!NOTE]\n> Ericsson adquirió productos Mediaroom de Microsoft en 2013. Para obtener más información, consulte el [comunicado de prensa](http://www.ericsson.com/news/1691160). Para los clientes que necesiten soporte técnico, vaya [aquí](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx).\n> [!NOTE]\n> Microsoft Mediaroom Client 2,1 se ha lanzado el 27 de diciembre de 2011. \n\n## <a name=\"editions\"></a>Ediciones \n* Servicios de aplicación 1,0\n* Cliente 2,0\n* Cliente 2,1\n* Servidor 2,0\n* Servidor 2,1"
