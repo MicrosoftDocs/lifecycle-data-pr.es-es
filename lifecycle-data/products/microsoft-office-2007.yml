@@ -2,19 +2,19 @@
 metadata:
   title: Microsoft Office 2007
   description: Microsoft Office 2007 se rige por la Directiva de ciclo de vida fijo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 5a73d67d99002146bfa145d66037a0bb9080f684
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/19/2020
+  ms.openlocfilehash: c0763a56b447d205c916b2580626e636114ee67f
+  ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "840480"
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "904746"
 name: Microsoft Office 2007
 summary: >+
   Microsoft Office 2007 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto está disponible para las siguientes ediciones: Basic, Enterprise, Hogar y Estudiantes, Professional, Professional Plus, Small Business, Standard y Ultimate
+  Esto está disponible para las siguientes ediciones: Basic, Enterprise, Hogar y Estudiantes, Multi Language Pack, Professional, Professional Plus, Small Business, Standard y Ultimate
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Basic\n* Enterprise\n* Hogar y Estudiantes\n* Professional\n* Professional Plus\n* Pequeña Empresa\n* Estándar\n* Ultimate"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Basic\n* Enterprise\n* Hogar y Estudiantes\n* Multi Language Pack\n* Professional\n* Professional Plus\n* Pequeña Empresa\n* Estándar\n* Ultimate"

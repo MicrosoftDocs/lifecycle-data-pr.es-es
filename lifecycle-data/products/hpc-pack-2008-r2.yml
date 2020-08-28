@@ -2,13 +2,13 @@
 metadata:
   title: HPC Pack 2008 R2
   description: HPC Pack 2008 R2 se rige por la Directiva de ciclo de vida fijo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 85ea9272f46481e504a5c283c962a8ef7f5ace53
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: a6898a0b470490d91538f56ee8dd9d3cbe93b99f
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "840923"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893701"
 name: HPC Pack 2008 R2
 summary: >
   HPC Pack 2008 R2 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed),
