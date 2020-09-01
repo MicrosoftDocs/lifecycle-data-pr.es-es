@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Phone 8
+  description: Windows Phone 8 sigue la Directiva de ciclo de vida fijo.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 414496ab55aa39619921de70d0df779cc4403a50
+  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "940953"
+name: Windows Phone 8
+summary: >+
+  Windows Phone 8 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/14/2012
+  end: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 12/14/2012
+content: "\n\n> [!NOTE]\n> Microsoft pondrá a disposición actualizaciones para el sistema operativo, incluyendo actualizaciones de seguridad, durante un período mínimo de 36 meses a partir de la fecha de inicio del ciclo de vida. Estas actualizaciones serán incrementales y cada actualización integrará a la anterior. Los clientes tienen que instalar cada actualización publicada para seguir recibiendo soporte técnico. La distribución de estas actualizaciones incrementales puede ser controlada por el operador de telefonía móvil o el fabricante del dispositivo al que compró su teléfono, y la instalación requerirá que su teléfono tenga actualizaciones previas. La disponibilidad de las actualizaciones también variará según el país, la región y las funcionalidades de hardware."

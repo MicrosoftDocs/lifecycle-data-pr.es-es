@@ -2,13 +2,14 @@
 metadata:
   title: Codificador de Windows Media 9 series
   description: El codificador de Windows Media 9 series sigue la Directiva de ciclo de vida fijo.
-  ms.date: 08/19/2020
-  ms.openlocfilehash: 155a9a5c7b4177f6c51651324a6f5cff219d6069
-  ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
+  ms.date: 09/01/2020
+  keywords: 64 Bit,Standard
+  ms.openlocfilehash: 902d5b57d6d0e0615acf48da69f17582e84164b6
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "902908"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "940018"
 name: Codificador de Windows Media 9 series
 summary: >+
   El codificador de Windows Media 9 series sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/15/2002
   endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> El codificador de Windows Media 9 series x64 Edition lanzado el 15 de septiembre de 2005.\n\n## <a name=\"editions\"></a>Ediciones \n* Bit 64\n* Standard"
+content: "\n\n> [!NOTE]\n> El codificador de Windows Media 9 series x64 Edition lanzado el 15 de septiembre de 2005.\n\n## <a name=\"editions\"></a>Ediciones \n* 64 bits\n* Estándar"
