@@ -2,19 +2,20 @@
 metadata:
   title: 'Acelerador de Microsoft BizTalk para HL7 1,0 '
   description: El acelerador de Microsoft BizTalk para HL7 1,0 sigue la Directiva de ciclo de vida fijo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: cef326653a2bc78d5b8b20c1dfb907827cd216d3
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 727fa4605cef159b99154e6a57d40c81eab3d619
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "840883"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935171"
 name: 'Acelerador de Microsoft BizTalk para HL7 1,0 '
 summary: >+
   El acelerador de Microsoft BizTalk para HL7 1,0 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
 
 
-  Esto se aplica a las siguientes ediciones: estándar
+  Esto se cumple en las siguientes ediciones: Estándar
 
 products:
 - microsoft-servers
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Ediciones \n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Ediciones \n* Estándar"
