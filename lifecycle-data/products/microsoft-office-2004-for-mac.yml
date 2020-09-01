@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office 2004 para Mac
   description: Microsoft Office 2004 para Mac sigue la Directiva de ciclo de vida fijo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 14513bc7089568baf86dfe8f775cc25658cda7f4
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Professional,Standard,Student and Teacher
+  ms.openlocfilehash: 12b63fa73b4b6a4bfc393cc62234147382a6d46a
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "840237"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936872"
 name: Microsoft Office 2004 para Mac
 summary: >+
   Microsoft Office 2004 para Mac sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/13/2004
   endDate: 01/10/2012
-content: "\n\n\n## <a name=\"editions\"></a>Ediciones \n* Professional\n* Standard\n* Estudiante y profesor"
+content: "\n\n\n## <a name=\"editions\"></a>Ediciones \n* Professional\n* Estándar\n* Student and Teacher"
