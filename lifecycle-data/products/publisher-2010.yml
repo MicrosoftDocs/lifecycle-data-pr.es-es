@@ -2,19 +2,20 @@
 metadata:
   title: Publisher 2010
   description: Publisher 2010 sigue la Directiva de ciclo de vida fijo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: edb6c6caacc0e7d246a043d454934fe19b72fa52
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 73037ae31d902bde1b7d7f2a41fe29a4f4c101cd
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "840196"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926254"
 name: Publisher 2010
 summary: >+
   Publisher 2010 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
 
 
-  Esto se aplica a las siguientes ediciones: estándar
+  Esto se cumple en las siguientes ediciones: Estándar
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>Ediciones \n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Ediciones \n* Estándar"

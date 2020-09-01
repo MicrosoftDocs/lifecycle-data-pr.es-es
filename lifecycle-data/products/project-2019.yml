@@ -2,19 +2,20 @@
 metadata:
   title: Proyecto 2019
   description: El proyecto 2019 sigue la Directiva de ciclo de vida fijo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 45a8867c9d0b7cde39aa153cc117dfb17a180dea
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 09/01/2020
+  keywords: Professional,Standard
+  ms.openlocfilehash: 9507d81cd2cf3bd70765d9fa9f51806cf7c5d16b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "872458"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926365"
 name: Proyecto 2019
 summary: >+
   El proyecto 2019 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
 
 
-  Esto se aplica a las siguientes ediciones: Professional, Standard
+  Esto se cumple en las siguientes ediciones: Profesional y Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/24/2018
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Ediciones \n* Professional\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Ediciones \n* Professional\n* Estándar"
