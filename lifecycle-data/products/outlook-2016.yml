@@ -2,19 +2,20 @@
 metadata:
   title: Outlook 2016
   description: Outlook 2016 sigue la Directiva de ciclo de vida fijo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e6b1807eec17efde9ec1d6b168b206e63fa684e0
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 1994b8231e5d8c0b6134a3872d532ca176c27e6b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863392"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938131"
 name: Outlook 2016
 summary: >+
   Outlook 2016 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
 
 
-  Esto se aplica a las siguientes ediciones: estándar
+  Esto se cumple en las siguientes ediciones: Estándar
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/22/2015
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Ediciones \n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Ediciones \n* Estándar"

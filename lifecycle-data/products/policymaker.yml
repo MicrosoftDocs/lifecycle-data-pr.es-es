@@ -2,13 +2,14 @@
 metadata:
   title: PolicyMaker
   description: PolicyMaker sigue la Directiva de ciclo de vida fijo.
-  ms.date: 08/19/2020
-  ms.openlocfilehash: d1b7d7ac98ec91c5118023494257fde96fbf2c6f
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.date: 09/01/2020
+  keywords: Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0
+  ms.openlocfilehash: be11ae6bee427a5aa059ec56cb88f007bb5134ec
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904541"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938057"
 name: PolicyMaker
 summary: >+
   PolicyMaker sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> La compatibilidad con este producto está sujeta a los términos de su adquisición.\n\n## <a name=\"editions\"></a>Ediciones \n* Seguridad de aplicaciones\n* Edición de Outlook\n* Profesional 9,0\n* Extensión del registro 2,0\n* Administrador compartido 1,0\n* Actualización de software 1,0\n* Actualización de software 2,0\n* Estándar 1,0\n* Estándar 2,0"
+content: "\n\n> [!NOTE]\n> El soporte técnico para este producto está sujeto a los términos de su adquisición.\n\n## <a name=\"editions\"></a>Ediciones \n* Seguridad de aplicaciones\n* Edición de Outlook\n* Profesional 9,0\n* Extensión del registro 2,0\n* Administrador compartido 1,0\n* Actualización de software 1,0\n* Actualización de software 2,0\n* Estándar 1,0\n* Estándar 2,0"
