@@ -2,19 +2,20 @@
 metadata:
   title: Project 2013
   description: El proyecto 2013 sigue la Directiva de ciclo de vida fijo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4e9a8e347d9ae095408a296473f39bb5bd05f924
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Professional,Standard
+  ms.openlocfilehash: a0c7b1031c25aa1c64ea6ba3c0176ec83e4071b6
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863587"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926476"
 name: Project 2013
 summary: >+
   El proyecto 2013 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
 
 
-  Esto se aplica a las siguientes ediciones: Professional, Standard
+  Esto se cumple en las siguientes ediciones: Profesional y Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n\n## <a name=\"editions\"></a>Ediciones \n* Professional\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Ediciones \n* Professional\n* Estándar"
