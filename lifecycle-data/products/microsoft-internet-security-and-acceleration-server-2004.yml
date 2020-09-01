@@ -2,15 +2,16 @@
 metadata:
   title: Microsoft Internet Security and Acceleration Server 2004
   description: Microsoft Internet Security and Acceleration Server 2004 sigue la Directiva de ciclo de vida fijo.
-  ms.date: 08/19/2020
-  ms.openlocfilehash: c6473b773066fa46704ea1ecb65cad0453712d36
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904533"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933506"
 name: Microsoft Internet Security and Acceleration Server 2004
-summary: "Microsoft Internet Security and Acceleration Server 2004 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .\n\nEsto se aplica a las siguientes ediciones: Enterprise, Standard\n\n> [!IMPORTANT]\n> La compatibilidad con este producto ha finalizado. \n"
+summary: "Microsoft Internet Security and Acceleration Server 2004 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .\n\nEsto se cumple en las siguientes ediciones: Enterprise y Standard\n\n> [!IMPORTANT]\n> El soporte técnico para este producto ha finalizado. \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -31,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 09/08/2004
   endDate: 03/11/2006
-content: "\n## <a name=\"links\"></a>Links \n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Guía de migración](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Empresa\n* Standard"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Instrucciones para la migración](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Enterprise\n* Estándar"
