@@ -2,15 +2,16 @@
 metadata:
   title: Office Live Meeting
   description: Office Live Meeting sigue la Directiva moderna del ciclo de vida.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: c4b0ff8ddce1b4b699aae7631879845eed849bf4
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "840728"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "928918"
 name: Office Live Meeting
-summary: "Office Live Meeting sigue la directiva [moderna](/lifecycle/policies/modern) del ciclo de vida.\n\nEsto se aplica a las siguientes ediciones: estándar\n\n> [!IMPORTANT]\n> La compatibilidad con este servicio ha finalizado. Consulte la guía de migración a continuación. \n"
+summary: "Office Live Meeting sigue la directiva [moderna](/lifecycle/policies/modern) del ciclo de vida.\n\nEsto se cumple en las siguientes ediciones: Estándar\n\n> [!IMPORTANT]\n> La compatibilidad con este servicio ha finalizado. Consulte las instrucciones de migración a continuación. \n"
 products:
 - office
 policyType: modern-online
@@ -21,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 04/10/2009
   endDate: 12/31/2017
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Standard"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Estándar"
