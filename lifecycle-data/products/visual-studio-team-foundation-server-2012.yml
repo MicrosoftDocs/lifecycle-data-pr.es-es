@@ -2,19 +2,20 @@
 metadata:
   title: Visual Studio Team Foundation Server 2012
   description: Visual Studio Team Foundation Server 2012 sigue la Directiva de ciclo de vida fijo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: fd163f4af7e1f56e537990c97f59aa03cbb323c2
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: All
+  ms.openlocfilehash: 010d56498bce5718034fa1af505e985ed93f40ce
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863717"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937354"
 name: Visual Studio Team Foundation Server 2012
 summary: >+
   Visual Studio Team Foundation Server 2012 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
 
 
-  Esto se aplica a las siguientes ediciones: ALL
+  Esto está disponible para las siguientes ediciones: todas
 
 products:
 - vs
@@ -30,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/13/2015
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](/azure/devops/server/upgrade/get-started?view=azure-devops)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Todo"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](/azure/devops/server/upgrade/get-started?view=azure-devops)\n\n\n## <a name=\"editions\"></a>Ediciones \n* todas"
