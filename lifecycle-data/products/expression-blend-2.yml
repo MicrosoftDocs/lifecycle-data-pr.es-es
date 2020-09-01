@@ -2,13 +2,14 @@
 metadata:
   title: Expresión 2
   description: La expresión 2 sigue la Directiva de ciclo de vida fijo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0ff3dba3df24ff405a22bfacac75ea04ab227f90
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio,Web
+  ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "840256"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930842"
 name: Expresión 2
 summary: "La expresión 2 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .\n\nEsto se aplica a las siguientes ediciones: Blend, Design, encoder, Studio, Web\n\n> [!IMPORTANT]\n> La compatibilidad con este producto ha finalizado. \n"
 products:
