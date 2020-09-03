@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Máquina virtual de Microsoft Azure (clásica) (confirmar con Azure antes de la publicación; no hay fecha de finalización en la cuadrícula de datos)
-  description: 'Máquina virtual de Microsoft Azure (clásica) (confirmar con Azure antes de la publicación: ninguna fecha de finalización en la cuadrícula de datos) sigue la Directiva moderna del ciclo de vida.'
+  title: Microsoft Azure Virtual Machine (clásico) (confirmar con Azure antes de publicar; sin fecha de finalización en la cuadrícula de fechas)
+  description: Microsoft Azure Virtual Machine (clásico) (confirmar con Azure antes de publicar; sin fecha de finalización en la cuadrícula de fechas) se rige por la directiva de ciclo de vida moderno.
   ms.date: 07/28/2020
   ms.openlocfilehash: 62691a5a8045c8744b291cd5475ad7b6828542e8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863662"
-name: Máquina virtual de Microsoft Azure (clásica) (confirmar con Azure antes de la publicación; no hay fecha de finalización en la cuadrícula de datos)
+name: Microsoft Azure Virtual Machine (clásico) (confirmar con Azure antes de publicar; sin fecha de finalización en la cuadrícula de fechas)
 summary: >+
-  Máquina virtual de Microsoft Azure (clásica) (confirmar con Azure antes de la publicación: ninguna fecha de finalización en la cuadrícula de datos) sigue la directiva [moderna](/lifecycle/policies/modern) del ciclo de vida.
+  Microsoft Azure Virtual Machine (clásico) (confirmar con Azure antes de publicar: sin fecha de finalización en la cuadrícula de fechas) se rige por la directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 06/07/2012
   endDate: 03/01/2023
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](/azure/virtual-machines/classic-vm-deprecation)"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](/azure/virtual-machines/classic-vm-deprecation)"

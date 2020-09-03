@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Canal semianual de System Center Virtual Machine Manager
-  description: El canal semianual de System Center Virtual Machine Manager sigue la Directiva moderna del ciclo de vida.
+  title: Canal semestral de System Center Virtual Machine Manager
+  description: El canal semestral de System Center Virtual Machine Manager se rige por la directiva de ciclo de vida moderno.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8972aa6593d08e6325e8ff4d71d5fb04609caa92
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872478"
-name: Canal semianual de System Center Virtual Machine Manager
+name: Canal semestral de System Center Virtual Machine Manager
 summary: >
-  El canal semianual de System Center Virtual Machine Manager sigue la directiva [moderna](/lifecycle/policies/modern) del ciclo de vida.
+  El canal semestral de System Center Virtual Machine Manager se rige por la directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
 
 
 
   > [!IMPORTANT]
 
-  > La compatibilidad ha finalizado. Consulte la guía de migración a continuación.
+  > El soporte técnico ha finalizado. Consulte las instrucciones de migración a continuación.
 products:
 - msc
 policyType: modern-on-prem
@@ -31,4 +31,4 @@ releases:
 - version: Version 1801
   startDate: 02/08/2018
   endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](/system-center/vmm/upgrade-vmm?view=sc-vmm-2019#upgrade-to-system-center-2019---virtual-machine-manager)"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](/system-center/vmm/upgrade-vmm?view=sc-vmm-2019#upgrade-to-system-center-2019---virtual-machine-manager)"

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Forefront Security para Exchange Server
-  description: Forefront Security para Exchange Server sigue la Directiva de ciclo de vida fijo.
+  description: Forefront Security para Exchange Server se rige por la directiva de ciclo de vida fijo.
   ms.date: 08/12/2020
   ms.openlocfilehash: 0053b2aaf2be3d4c6ecbc29a6396bade882e16dc
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893738"
 name: Forefront Security para Exchange Server
 summary: >
-  Forefront Security para Exchange Server sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Forefront Security para Exchange Server se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > La guía básica para los productos de seguridad en la marca Forefront ha cambiado. Este producto se ha discontinuado a partir del 31 de diciembre de 2015.
+  > El plan de desarrollo para los productos de seguridad bajo la marca Forefront ha cambiado. Este producto se interrumpe a partir del 31 de diciembre de 2015.
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Links \n* [Guía de migración](https://www.microsoft.com/security/business/explore/cybersecurity)"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://www.microsoft.com/security/business/explore/cybersecurity)"
