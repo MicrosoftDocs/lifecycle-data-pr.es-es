@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Visual J# versión 2,0 paquete redistribuible de segunda edición
-  description: Microsoft Visual J# versión 2,0 paquete redistribuible de segunda edición sigue la Directiva de ciclo de vida fijo.
+  title: Paquete redistribuible de Microsoft Visual J# versión 2.0 Segunda edición
+  description: Microsoft Visual J# Version 2.0 Redistributable Package Second Edition (segunda edición del paquete redistribuible Microsoft Visual J# versión 2.0) se rige por la directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 13e81d8ba84a4aede4cd4df18a7e40d55de1d3dc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "840355"
-name: Microsoft Visual J# versión 2,0 paquete redistribuible de segunda edición
+name: Paquete redistribuible de Microsoft Visual J# versión 2.0 Segunda edición
 summary: >+
-  Microsoft Visual J# versión 2,0 paquete redistribuible de segunda edición sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft Visual J# Version 2.0 Redistributable Package Second Edition (segunda edición del paquete redistribuible Microsoft Visual J# versión 2.0) se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 08/27/2007
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Información de soporte técnico de Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> La compatibilidad con este producto ha finalizado. Consulte a continuación para obtener instrucciones sobre la migración."
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Información de soporte técnico de Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> El soporte técnico para este producto ha finalizado. Consulte las instrucciones de migración a continuación."

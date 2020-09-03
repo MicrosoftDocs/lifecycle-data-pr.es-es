@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft .NET Framework 3.0
-  description: Microsoft .NET Framework 3,0 sigue la Directiva de ciclo de vida fijo.
+  description: Microsoft .NET Framework 3.0 se rige por la directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: a237dbb82803402d137fc784cf184e58b604015b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "840805"
 name: Microsoft .NET Framework 3.0
 summary: >+
-  Microsoft .NET Framework 3,0 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft .NET Framework 3.0 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2006
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Preguntas más frecuentes sobre el ciclo de vida: .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Información del producto](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-30)\n\n> [!NOTE]\n> La compatibilidad con las versiones de .NET Framework 3. x anteriores a 3,5 SP1 finalizó el 12 de julio de 2011."
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Preguntas frecuentes sobre el ciclo de vida: .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Información del producto](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-30)\n\n> [!NOTE]\n> El soporte de .NET Framework 3.x versiones anteriores a 3.5 SP1 finalizó el 12 de julio de 2011."

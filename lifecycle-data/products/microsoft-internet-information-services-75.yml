@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Internet Information Services 7,5
-  description: Microsoft Internet Information Services 7,5 sigue la Directiva del ciclo de vida del componente.
+  title: Microsoft Internet Information Services 7.5
+  description: Microsoft Internet Information Services 7.5 se rige por la directiva de ciclo de vida de componentes.
   ms.date: 07/28/2020
   ms.openlocfilehash: 22b88b7209f8aea2ae47d7486d5c946008768d76
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841185"
-name: Microsoft Internet Information Services 7,5
+name: Microsoft Internet Information Services 7.5
 summary: >+
-  Microsoft Internet Information Services 7,5 sigue la Directiva del ciclo de vida del [componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Microsoft Internet Information Services 7.5 se rige por la directiva de ciclo de vida de [componentes](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/22/2009
-content: "> [!TIP]\n> Esta versión se conoce como un componente que sigue el ciclo de vida de soporte técnico de su principal producto principal, Windows 7 y Windows Server 2008 R2\n\n## <a name=\"links\"></a>Vínculos \n* [Windows Server 2008 R2](/lifecycle/products/windows-server-2008-r2)"
+content: "> [!TIP]\n> Esta versión se conoce como un componente que se rige por el ciclo de vida de soporte técnico de su producto principal, Windows 7 y Windows Server 2008 R2\n\n## <a name=\"links\"></a>Vínculos \n* [Windows Server 2008 R2](/lifecycle/products/windows-server-2008-r2)"
