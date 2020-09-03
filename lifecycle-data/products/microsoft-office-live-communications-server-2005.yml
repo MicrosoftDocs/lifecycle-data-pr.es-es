@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Live Communications Server 2005
-  description: Microsoft Office Live Communications Server 2005 sigue la Directiva de ciclo de vida fijo.
+  description: Microsoft Office Live Communications Server 2005 se rige por la directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 709969b9c25ec55bfe3538a49076f6d640003cba
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "840456"
 name: Microsoft Office Live Communications Server 2005
-summary: "Microsoft Office Live Communications Server 2005 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .\n\nEsto se aplica a las siguientes ediciones: Enterprise, Standard\n\n> [!IMPORTANT]\n> La compatibilidad con este producto ha finalizado. \n"
+summary: "Microsoft Office Live Communications Server 2005 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).\n\nEsto se cumple en las siguientes ediciones: Enterprise y Standard\n\n> [!IMPORTANT]\n> El soporte técnico para este producto ha finalizado. \n"
 products:
 - office
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/22/2005
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Empresa\n* Standard"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Enterprise\n* Estándar"

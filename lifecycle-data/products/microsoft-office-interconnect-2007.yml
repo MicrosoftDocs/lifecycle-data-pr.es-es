@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office InterConnect 2007
-  description: Microsoft Office InterConnect 2007 sigue la Directiva de ciclo de vida fijo.
+  description: Microsoft Office InterConnect 2007 se rige por la directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2930b1c5bd1db016e2228772f4a4b81678ce6f68
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "840457"
 name: Microsoft Office InterConnect 2007
 summary: >+
-  Microsoft Office InterConnect 2007 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft Office InterConnect 2007 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se aplica a las siguientes ediciones: estándar
+  Esto se cumple en las siguientes ediciones: Estándar
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Standard"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Estándar"

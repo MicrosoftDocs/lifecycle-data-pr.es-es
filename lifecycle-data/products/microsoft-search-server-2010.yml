@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Search Server 2010
-  description: Microsoft Search Server 2010 sigue la Directiva de ciclo de vida fijo.
+  description: Microsoft Search Server 2010 se rige por la directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 736253699cf6033278b0f49fbf90bd2289a1b9a6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "840783"
 name: Microsoft Search Server 2010
 summary: >+
-  Microsoft Search Server 2010 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft Search Server 2010 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se aplica a las siguientes ediciones: todo es aplicable, Express
+  Se aplica a las siguientes ediciones: aplicable a todo y Express
 
 products:
 - office
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Todo aplicable\n* Exprés"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Todos aplicables\n* Express"
