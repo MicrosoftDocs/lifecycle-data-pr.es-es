@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Administrador de servicios de Microsoft System Center 2012
-  description: El administrador de servicios de Microsoft System Center 2012 sigue la Directiva de ciclo de vida fijo.
+  title: Microsoft System Center 2012 Service Manager
+  description: Microsoft System Center 2012 Service Manager se rige por la directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 98b376f557f50d8ecdb538898e2526fa207c12bb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863410"
-name: Administrador de servicios de Microsoft System Center 2012
+name: Microsoft System Center 2012 Service Manager
 summary: >+
-  El administrador de servicios de Microsoft System Center 2012 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft System Center 2012 Service Manager se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Recursos de System Center](https://www.microsoft.com/system-center/resources)\n* [Documentación de System Center](/system-center/#pivot=components&panel=components-all)"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Recursos de System Center](https://www.microsoft.com/system-center/resources)\n* [Documentación de System Center](/system-center/#pivot=components&panel=components-all)"

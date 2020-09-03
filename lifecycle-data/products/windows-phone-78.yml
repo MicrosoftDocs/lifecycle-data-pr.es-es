@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Phone 7,8
-  description: Windows Phone 7,8 sigue la Directiva de ciclo de vida fijo.
+  title: Windows Phone 7.8
+  description: Windows Phone 7.8 se rige por la directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863798"
-name: Windows Phone 7,8
+name: Windows Phone 7.8
 summary: >
-  Windows Phone 7,8 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Windows Phone 7.8 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > La compatibilidad con este producto ha finalizado.
+  > El soporte técnico para este producto ha finalizado.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/09/2013
   endDate: 10/14/2014
-content: "\n\n> [!NOTE]\n> Microsoft pondrá a disposición las actualizaciones para el sistema operativo de su teléfono, incluidas las actualizaciones de seguridad, durante un período de dieciocho meses después de la fecha de inicio del ciclo de vida. La distribución de las actualizaciones puede estar controlada por el operador de telefonía móvil o el fabricante del teléfono desde el que compró el teléfono. La disponibilidad de la actualización también variará por país, región y capacidades de hardware."
+content: "\n\n> [!NOTE]\n> Microsoft pondrá a disposición actualizaciones para el sistema operativo en su teléfono, incluyendo actualizaciones de seguridad, durante un período de 18 meses a partir de la fecha de inicio del ciclo de vida. El operador de telefonía móvil o el fabricante al que compraste el teléfono pueden controlar la distribución de las actualizaciones. La disponibilidad de las actualizaciones también variará según el país, la región y las funcionalidades de hardware."

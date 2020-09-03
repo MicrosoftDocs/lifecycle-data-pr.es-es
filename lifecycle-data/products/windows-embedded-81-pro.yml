@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded 8,1 Pro
-  description: Windows Embedded 8,1 Pro sigue la Directiva de ciclo de vida fijo.
+  title: Windows Embedded 8.1 Pro
+  description: Windows Embedded 8.1 Pro se rige por la directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2d9ada5810dc20ee1491b24af7ee1e214dcf8678
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863802"
-name: Windows Embedded 8,1 Pro
+name: Windows Embedded 8.1 Pro
 summary: >+
-  Windows Embedded 8,1 Pro sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Windows Embedded 8.1 Pro se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2013
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Preguntas más frecuentes sobre el ciclo de vida: productos Windows](/lifecycle/faq/windows)\n* [Preguntas más frecuentes de Windows Embedded 8,1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Preguntas frecuentes sobre el ciclo de vida: productos de Windows](/lifecycle/faq/windows)\n* [Preguntas frecuentes sobre Windows Embedded 8.1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)"

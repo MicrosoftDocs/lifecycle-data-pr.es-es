@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 Mobile Enterprise, lanzado en abril de 2017
-  description: Windows 10 Mobile Enterprise, lanzado en abril de 2017 sigue la Directiva de ciclo de vida fijo.
+  description: Windows 10 Mobile Enterprise, lanzado en abril de 2017, se rige por la directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: e5723a855fe7570c41c67907aa258410c83c8ab6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872406"
 name: Windows 10 Mobile Enterprise, lanzado en abril de 2017
-summary: "Windows 10 Mobile Enterprise, lanzado en abril de 2017 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> La compatibilidad con este producto ha finalizado. \n"
+summary: "Windows 10 Mobile Enterprise, lanzado en abril de 2017, se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).\n\n\n> [!IMPORTANT]\n> El soporte técnico para este producto ha finalizado. \n"
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 04/25/2017
   endDate: 06/11/2019
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Preguntas más frecuentes del ciclo de vida del sistema operativo](/lifecycle/faq/device-operating-systems)\n* [El soporte técnico de Windows 10 Mobile terminó el 10 de diciembre de 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Preguntas frecuentes sobre el ciclo de vida del sistema operativo del dispositivo](/lifecycle/faq/device-operating-systems)\n* [La finalización del soporte para Windows 10 Mobile se produjo el 10 de diciembre de 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"
