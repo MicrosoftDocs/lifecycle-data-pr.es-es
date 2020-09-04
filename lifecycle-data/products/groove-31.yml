@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Groove 3,1
+  description: Groove 3,1 sigue la Directiva de ciclo de vida fijo.
+  ms.date: 09/03/2020
+  keywords: Enterprise Backup Service,Enterprise Data Bridge,Enterprise Relay Server,Hosted Management Services,Hosted Relay Services,Office Project,Virtual Office File Sharing,Virtual Office Professional,Web Services Development Kit
+  ms.openlocfilehash: 19dab25c567ea1b34565a675dffe9c99c6c21ba5
+  ms.sourcegitcommit: 59291eb409a67c9e002fd0e45e37aca76d599df0
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 09/03/2020
+  ms.locfileid: "950873"
+name: Groove 3,1
+summary: >+
+  Groove 3,1 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+
+
+  Esto se aplica a las siguientes ediciones: Enterprise backup Service, Enterprise Data Bridge, Enterprise Relay Server, Hosted Management Services, Hosted Relay Services, Office Project, virtual Office File Sharing, virtual Office Professional, Web Services Development Kit
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/01/2004
+  end: 04/16/2010
+releases:
+- version: Original Release
+  startDate: 07/01/2004
+  endDate: 04/16/2010
+content: "\n\n\n## <a name=\"editions\"></a>Ediciones \n* Servicio de copia de seguridad empresarial\n* Puente de datos empresariales\n* Servidor de retransmisión empresarial\n* Servicios de administración hospedados\n* Servicios de retransmisión hospedada\n* Proyecto de Office\n* Uso compartido de archivos de Office virtual\n* Virtual Office Professional\n* Kit de desarrollo de servicios Web"
