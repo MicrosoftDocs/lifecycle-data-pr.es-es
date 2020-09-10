@@ -2,13 +2,14 @@
 metadata:
   title: Software Licensing and Protection Server
   description: Software Licensing and Protection Server se rige por la directiva de ciclo de vida fijo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "840206"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001074"
 name: Software Licensing and Protection Server
 summary: >
   Software Licensing and Protection Server se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
