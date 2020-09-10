@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Search Server 2008
   description: Microsoft Search Server 2008 se rige por la directiva de ciclo de vida fijo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 8cc4d7be772a82fb4a16297daa58a2cc779aa3ab
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Express,Standard
+  ms.openlocfilehash: 897d34ffd003985cb2b60bebbc2db5d53614b443
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "840218"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "999076"
 name: Microsoft Search Server 2008
 summary: "Microsoft Search Server 2008 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).\n\nEstá disponible para las siguientes ediciones: Express y Standard\n\n> [!IMPORTANT]\n> El soporte técnico para este producto ha finalizado. \n"
 products:
