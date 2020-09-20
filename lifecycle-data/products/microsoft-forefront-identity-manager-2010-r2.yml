@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Forefront Identity Manager 2010 R2
-  description: Microsoft Forefront Identity Manager 2010 R2 sigue la Directiva de ciclo de vida fijo.
+  description: Microsoft Forefront Identity Manager 2010 R2 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 73bd6dedc5fd3618801bd75b09eda9c7bbfaf460
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863646"
 name: Microsoft Forefront Identity Manager 2010 R2
 summary: >+
-  Microsoft Forefront Identity Manager 2010 R2 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft Forefront Identity Manager 2010 R2 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2012
   endDate: 04/08/2014
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft .NET Core
-  description: Microsoft .NET Core sigue la Directiva moderna del ciclo de vida.
+  description: Microsoft .NET Core se rige por la Directiva de ciclo de vida moderno.
   ms.date: 07/28/2020
   ms.openlocfilehash: ec4cd98c7576838861d440b6f5c1856a1414d93f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863449"
 name: Microsoft .NET Core
 summary: >+
-  Microsoft .NET Core sigue la directiva [moderna](/lifecycle/policies/modern) del ciclo de vida.
+  Microsoft .NET Core se rige por la Directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/27/2016
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía básica de .NET](https://github.com/dotnet/core/blob/master/roadmap.md)\n* [Información de servicio](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [Preguntas más frecuentes sobre el ciclo de vida: núcleo .NET](/lifecycle/faq/dotnet-core)"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Plan de desarrollo de .NET](https://github.com/dotnet/core/blob/master/roadmap.md)\n* [Información de mantenimiento](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [Preguntas frecuentes del ciclo de vida: .NET Core](/lifecycle/faq/dotnet-core)"

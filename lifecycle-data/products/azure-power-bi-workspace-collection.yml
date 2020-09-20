@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Colección de áreas de trabajo de Azure Power BI
-  description: La colección de áreas de trabajo de Azure Power BI sigue la Directiva moderna del ciclo de vida.
+  description: La colección de áreas de trabajo de Azure Power BI sigue la Directiva de ciclo de vida moderno.
   ms.date: 07/28/2020
   ms.openlocfilehash: a95f325fa895563c498eca76aaa2b7978d393473
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863336"
 name: Colección de áreas de trabajo de Azure Power BI
 summary: >
-  La colección de áreas de trabajo de Azure Power BI sigue la directiva [moderna](/lifecycle/policies/modern) del ciclo de vida.
+  La colección de áreas de trabajo de Azure Power BI se rige por la Directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
 
 
 
   > [!IMPORTANT]
 
-  > La compatibilidad ha finalizado. Consulte la guía de migración a continuación.
+  > El soporte técnico ha finalizado. Consulte las instrucciones de migración a continuación.
 products:
 - sql-server
 policyType: modern-online
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 03/31/2016
   endDate: 07/30/2018
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](/power-bi/developer/embedded/migrate-from-powerbi-embedded)"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](/power-bi/developer/embedded/migrate-from-powerbi-embedded)"

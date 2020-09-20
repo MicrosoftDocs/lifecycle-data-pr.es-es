@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Word para Mac 2011
-  description: Microsoft Word para Mac 2011 sigue la Directiva de ciclo de vida fijo.
+  description: Microsoft Word para Mac 2011 se rige por la Directiva del ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: a33ce7f2ee56098ccc8b316733d42042b842a84d
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863590"
 name: Microsoft Word para Mac 2011
-summary: "Microsoft Word para Mac 2011 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> La compatibilidad con este producto ha finalizado. \n"
+summary: "Microsoft Word para Mac 2011 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).\n\n\n> [!IMPORTANT]\n> El soporte técnico para este producto ha finalizado. \n"
 products:
 - office
 policyType: fixed-mainstream-only
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> El soporte técnico estándar para Microsoft Office para Mac 2011 se amplió como se muestra a fin de proporcionar a todos los clientes la escala de tiempo de transición estándar del ciclo de vida"
+content: "\n\n> [!NOTE]\n> El soporte estándar para Microsoft Office para Mac 2011 se amplía como se muestra, con el fin de proporcionar a todos los clientes la escala de tiempo de transición del ciclo de vida estándar"

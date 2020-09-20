@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Administrador de servicios de Microsoft System Center 2012 R2
-  description: Microsoft System Center 2012 R2 Service Manager sigue la Directiva de ciclo de vida fijo.
+  title: Microsoft System Center 2012 R2 Service Manager
+  description: Microsoft System Center 2012 R2 Service Manager se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: b3c895b5725deb96794d7dbad255bd1fab5e88b6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863640"
-name: Administrador de servicios de Microsoft System Center 2012 R2
+name: Microsoft System Center 2012 R2 Service Manager
 summary: >+
-  Microsoft System Center 2012 R2 Service Manager sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft System Center 2012 R2 Service Manager se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:

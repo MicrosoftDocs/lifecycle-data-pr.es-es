@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Sistema de plataforma de nube
-  description: El sistema de plataforma de nube sigue la Directiva de ciclo de vida fijo.
+  title: Cloud Platform System
+  description: Cloud Platform System se rige por la Directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932063"
-name: Sistema de plataforma de nube
+name: Cloud Platform System
 summary: >+
-  El sistema de plataforma de nube sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Cloud Platform System se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
   Esto se cumple en las siguientes ediciones: Estándar
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> La compatibilidad con el sistema de plataforma de nube se extiende como se muestra a fin de proporcionar a todos los clientes la escala de tiempo de transición estándar del ciclo de vida.\n> [!NOTE]\n> Sistema estándar de plataforma de nube lanzado el 18 de septiembre de 2017.\n\n## <a name=\"editions\"></a>Ediciones \n* Estándar"
+content: "\n\n> [!NOTE]\n> El soporte técnico para Cloud Platform System se extiende como se muestra para proporcionar a todos los clientes la escala de tiempo de transición del ciclo de vida estándar.\n> [!NOTE]\n> Cloud Platform System Standard se lanzó el 18 de septiembre de 2017.\n\n## <a name=\"editions\"></a>Ediciones \n* Estándar"

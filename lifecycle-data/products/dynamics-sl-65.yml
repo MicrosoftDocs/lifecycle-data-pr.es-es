@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics SL 6,5
-  description: Dynamics SL 6,5 sigue la Directiva de ciclo de vida fijo.
+  description: Dynamics SL 6.5 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 08/13/2020
   ms.openlocfilehash: ced885d31eb8f3ebdd2f44741ccfdd8678329f09
   ms.sourcegitcommit: a0028eb69fe2a3bae073d91a3634475608d48de1
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "894851"
 name: Dynamics SL 6,5
 summary: >+
-  Dynamics SL 6,5 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Dynamics SL 6.5 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:
@@ -33,4 +33,4 @@ releases:
 - version: Original Relase
   startDate: 01/14/2006
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Links \n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)"
