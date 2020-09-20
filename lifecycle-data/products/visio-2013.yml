@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visio 2013
-  description: Visio 2013 sigue la Directiva de ciclo de vida fijo.
+  description: Visio 2013 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: Professional,Standard
   ms.openlocfilehash: 74796338b0a119f91226a8f57f6982000aa845e6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937835"
 name: Visio 2013
 summary: >+
-  Visio 2013 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Visio 2013 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
   Esto se cumple en las siguientes ediciones: Profesional y Standard

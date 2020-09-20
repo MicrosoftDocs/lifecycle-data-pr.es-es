@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Mobile 6,1
-  description: Windows Mobile 6,1 sigue la Directiva de ciclo de vida fijo.
+  title: Windows Mobile 6.1
+  description: Windows Mobile 6.1 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: Adaptation Kit,Professional,Standard
   ms.openlocfilehash: 97c434aaac90a1923508ffe5b1d18e735bfa4101
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939833"
-name: Windows Mobile 6,1
+name: Windows Mobile 6.1
 summary: >
-  Windows Mobile 6,1 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Windows Mobile 6.1 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se aplica a las siguientes ediciones: kit de adaptación, profesional, estándar
+  Esto se aplica a las siguientes ediciones: Kit de adaptación, Profesional y Estándar
 
 
   > [!IMPORTANT]

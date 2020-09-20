@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: InfoPath 2010
-  description: InfoPath 2010 sigue la Directiva de ciclo de vida fijo.
+  description: InfoPath 2010 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: b70d3170dfa8f1a3c2c08ae73564470d3d956b90
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936096"
 name: InfoPath 2010
 summary: >+
-  InfoPath 2010 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  InfoPath 2010 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
   Esto se cumple en las siguientes ediciones: Estándar

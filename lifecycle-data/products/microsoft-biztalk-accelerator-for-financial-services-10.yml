@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Acelerador de Microsoft BizTalk para servicios financieros 1,0
-  description: El acelerador de Microsoft BizTalk para servicios financieros 1,0 sigue la Directiva de ciclo de vida fijo.
+  title: Microsoft BizTalk Accelerator for Financial Services 1.0
+  description: Microsoft BizTalk Accelerator for Financial Services 1.0 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 4e6c4d0bd0d99808dff1c4cd2cf01f6c0ba6adf6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935356"
-name: Acelerador de Microsoft BizTalk para servicios financieros 1,0
+name: Microsoft BizTalk Accelerator for Financial Services 1.0
 summary: >+
-  El acelerador de Microsoft BizTalk para servicios financieros 1,0 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft BizTalk Accelerator for Financial Services 1.0 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
   Esto está disponible para las siguientes ediciones: Enterprise y Standard

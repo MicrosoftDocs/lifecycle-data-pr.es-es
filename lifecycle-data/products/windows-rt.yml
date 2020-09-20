@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows RT
-  description: Windows RT sigue la Directiva de ciclo de vida fijo.
+  description: Windows RT se rige por la Directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: 8.0999999999999996
   ms.openlocfilehash: 0bdab4b7a511cb789fae28d77b4846464ab5e763
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939722"
 name: Windows RT
 summary: >+
-  Windows RT sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Windows RT se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se aplica a las siguientes ediciones: 8,1
+  Esto se aplica a las siguientes ediciones: 8.1
 
 products:
 - windows
@@ -31,4 +31,4 @@ releases:
 - version: Windows RT
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Preguntas más frecuentes de Windows](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Ediciones \n* 8.1"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Preguntas frecuentes sobre Windows](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Ediciones \n* 8.1"
