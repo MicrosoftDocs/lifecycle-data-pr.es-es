@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Solution for Hosted Messaging and Collaboration 4,0
-  description: Microsoft Solution for Hosted Messaging and Collaboration 4,0 sigue la Directiva de ciclo de vida fijo.
+  title: Microsoft Solution for Hosted Messaging and Collaboration 4.0
+  description: Microsoft Solution for Hosted Messaging and Collaboration 4.0 sigue la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: d5aad6d836257bdbd054a1e385c6268769a1da05
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "840363"
-name: Microsoft Solution for Hosted Messaging and Collaboration 4,0
+name: Microsoft Solution for Hosted Messaging and Collaboration 4.0
 summary: >+
-  Microsoft Solution for Hosted Messaging and Collaboration 4,0 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft Solution for Hosted Messaging and Collaboration 4.0 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:

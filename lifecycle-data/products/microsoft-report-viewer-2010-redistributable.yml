@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Redistribuible del visor de informes de Microsoft 2010
-  description: El redistribuible del visor de informes de Microsoft 2010 sigue la Directiva de ciclo de vida fijo.
+  title: Microsoft Report Viewer Redistributable 2010
+  description: Microsoft Report Viewer Redistributable 2010 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: f4e1569165a222cc013d2d9fd58074f6cef98816
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "840219"
-name: Redistribuible del visor de informes de Microsoft 2010
+name: Microsoft Report Viewer Redistributable 2010
 summary: >+
-  El redistribuible del visor de informes de Microsoft 2010 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft Report Viewer Redistributable 2010 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:

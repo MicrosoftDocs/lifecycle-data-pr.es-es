@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Cliente de transmisión por secuencias de Internet Information Services 1,0
-  description: Internet Information Services el cliente de transmisión fluida 1,0 sigue la Directiva de ciclo de vida del componente.
+  title: Internet Information Services Smooth Streaming Client 1.0
+  description: Internet Information Services Smooth Streaming Client 1.0 sigue la Directiva de ciclo de vida de componentes.
   ms.date: 07/28/2020
   ms.openlocfilehash: cff48fdf69039eed9e23b9534c01ea004fba6696
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "840905"
-name: Cliente de transmisión por secuencias de Internet Information Services 1,0
+name: Internet Information Services Smooth Streaming Client 1.0
 summary: >+
-  Internet Information Services el cliente de transmisión fluida 1,0 sigue la Directiva de ciclo de vida del [componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Internet Information Services Smooth Streaming Client 1.0 sigue la Directiva de ciclo de vida de [componentes](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
