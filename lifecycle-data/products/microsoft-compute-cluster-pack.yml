@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Compute Cluster Pack
-  description: Microsoft Compute Cluster Pack sigue la Directiva de ciclo de vida fijo.
+  description: Microsoft Compute Cluster Pack se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: e3817378573c09880c2d9970b69e387402d0c6b1
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "840843"
 name: Microsoft Compute Cluster Pack
 summary: >
-  Microsoft Compute Cluster Pack sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft Compute Cluster Pack se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > La compatibilidad con este producto ha finalizado.
+  > El soporte técnico para este producto ha finalizado.
 products:
 - windows
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 09/06/2006
   endDate: 04/08/2008
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Directiva de Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)"

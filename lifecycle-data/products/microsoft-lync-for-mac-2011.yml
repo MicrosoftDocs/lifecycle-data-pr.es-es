@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Lync para Mac 2011
-  description: Microsoft Lync para Mac 2011 sigue la Directiva de ciclo de vida fijo.
+  description: Microsoft Lync para Mac 2011 se rige por la Directiva del ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 207ed38b1b2ea1ec21b7f89d565df627ab2e7c42
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "840241"
 name: Microsoft Lync para Mac 2011
 summary: >+
-  Microsoft Lync para Mac 2011 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft Lync para Mac 2011 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Skype Empresarial en Mac](https://www.microsoft.com/download/details.aspx?id=54108)\n\n> [!NOTE]\n> La compatibilidad con Microsoft Lync para Mac 2011 se extiende como se muestra a fin de proporcionar a todos los clientes una escala de tiempo de transición al ciclo de vida para Skype empresarial en Mac."
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Skype Empresarial para Mac](https://www.microsoft.com/download/details.aspx?id=54108)\n\n> [!NOTE]\n> La compatibilidad con Microsoft Lync para Mac 2011 se extiende como se muestra con el fin de proporcionar a todos los clientes una escala de tiempo de transición del ciclo de vida a Skype Empresarial para Mac."
