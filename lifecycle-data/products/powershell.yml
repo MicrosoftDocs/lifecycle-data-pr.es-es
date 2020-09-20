@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: PowerShell
-  description: PowerShell sigue la Directiva moderna del ciclo de vida.
+  description: PowerShell se rige por la Directiva de ciclo de vida moderno.
   ms.date: 09/02/2020
   keywords: ''
   ms.openlocfilehash: 5819d863d735920cdb08f70b8280348c152ca27c
   ms.sourcegitcommit: 33a446990607d1c24303bd86e45d4e4de34e56a5
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "945236"
 name: PowerShell
 summary: >+
-  PowerShell sigue la directiva [moderna](/lifecycle/policies/modern) del ciclo de vida.
+  PowerShell se rige por la Directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: PowerShell 6.x
   startDate: 01/19/2018
   endDate: 09/04/2020
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Información de mantenimiento](https://aka.ms/pslifecycle)\n\n> [!NOTE]\n> Consulte la información detallada sobre el ciclo de vida de PowerShell en el vínculo de información de mantenimiento."
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Información de mantenimiento](https://aka.ms/pslifecycle)\n\n> [!NOTE]\n> Consulte la información detallada del ciclo de vida de PowerShell en el vínculo de información de mantenimiento."

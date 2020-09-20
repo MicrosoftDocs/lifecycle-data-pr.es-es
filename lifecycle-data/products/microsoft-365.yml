@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft 365
-  description: Microsoft 365 sigue la Directiva moderna del ciclo de vida.
+  description: Microsoft 365 se rige por la Directiva de ciclo de vida moderno.
   ms.date: 09/01/2020
   keywords: Business,Education,Enterprise,Government
   ms.openlocfilehash: 49d1c65ad462a3ce987df621004cf7341ac4aa23
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935985"
 name: Microsoft 365
 summary: >+
-  Microsoft 365 sigue la directiva [moderna](/lifecycle/policies/modern) del ciclo de vida.
+  Microsoft 365 se rige por la Directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
 
 
-  Esto se aplica a las siguientes ediciones: Business, Education, Enterprise, Government
+  Esto se aplica a las siguientes ediciones: Empresa, Educación, Enterprise y Government
 
 products:
 - office
@@ -25,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Plan de desarrollo de Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [Requisitos del sistema](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Business\n* Education\n* Enterprise\n* Administración pública"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Plan de desarrollo de Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [Requisitos del sistema](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Business\n* Education\n* Enterprise\n* Government"
