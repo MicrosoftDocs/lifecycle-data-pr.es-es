@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Herramientas de desarrollo móvil de Dynamics
-  description: Las herramientas de desarrollo móvil de Dynamics siguen la Directiva del ciclo de vida del componente.
+  title: Herramientas para desarrollo móvil de Dynamics
+  description: Las herramientas para desarrollo móvil de Dynamics se rigen por la directiva de ciclo de vida de componentes.
   ms.date: 07/28/2020
   ms.openlocfilehash: eacb8775d2e07be3c802073e4006099af4089699
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "840519"
-name: Herramientas de desarrollo móvil de Dynamics
+name: Herramientas para desarrollo móvil de Dynamics
 summary: >+
-  Las herramientas de desarrollo móvil de Dynamics siguen la Directiva del ciclo de vida del [componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Las herramientas para desarrollo móvil de Dynamics se rigen por la directiva de ciclo de vida de [componentes](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

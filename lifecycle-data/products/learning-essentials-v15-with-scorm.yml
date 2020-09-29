@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Learning Essentials v 1.5 con SCORM
-  description: Learning Essentials v 1.5 con SCORM sigue la Directiva de ciclo de vida del componente.
+  title: Learning Essentials versión 1.5 con SCORM
+  description: Learning Essentials versión 1.5 con SCORM se rige por la directiva de ciclo de vida de componentes.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7d1881def5a4b9f675b435cc766a3594b8ad7e56
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "840900"
-name: Learning Essentials v 1.5 con SCORM
+name: Learning Essentials versión 1.5 con SCORM
 summary: >+
-  Learning Essentials v 1.5 con SCORM sigue la Directiva de ciclo de vida del [componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Learning Essentials versión 1.5 con SCORM se rige por la directiva de ciclo de vida de [componentes](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
