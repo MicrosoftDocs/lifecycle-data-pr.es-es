@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visor de informes de Microsoft 2012 en tiempo de ejecución
-  description: El tiempo de ejecución de Microsoft Report Viewer 2012 sigue la Directiva de ciclo de vida fijo.
+  title: Microsoft Report Viewer 2012 Runtime
+  description: Microsoft Report Viewer 2012 Runtime se rige por la directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0196fc49180deffdca7cde2bb35c0ab53dcb6c01
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863648"
-name: Visor de informes de Microsoft 2012 en tiempo de ejecución
+name: Microsoft Report Viewer 2012 Runtime
 summary: >+
-  El tiempo de ejecución de Microsoft Report Viewer 2012 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft Report Viewer 2012 Runtime se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:

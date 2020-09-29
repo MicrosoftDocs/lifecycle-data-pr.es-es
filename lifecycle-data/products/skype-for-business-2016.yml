@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Skype Empresarial 2016
-  description: Skype empresarial 2016 sigue la Directiva de ciclo de vida fijo.
+  description: Skype Empresarial 2016 se rige por la directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: bb612be489d44c4dbac85d1fffce7797eaef57d2
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863724"
 name: Skype Empresarial 2016
 summary: >+
-  Skype empresarial 2016 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Skype Empresarial 2016 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:
