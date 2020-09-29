@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Servidor virtual 2005
-  description: El servidor virtual 2005 sigue la Directiva de ciclo de vida fijo.
+  title: Virtual Server 2005
+  description: Virtual Server 2005 se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: Enterprise,Management Pack,Standard
   ms.openlocfilehash: 3a975f558d61c598e0b825d9402467398b348e82
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937909"
-name: Servidor virtual 2005
+name: Virtual Server 2005
 summary: >+
-  El servidor virtual 2005 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Virtual Server 2005 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se aplica a las siguientes ediciones: Enterprise, Management Pack, Standard
+  Esto se cumple en las siguientes ediciones: Enterprise, Módulo de administración y Standard
 
 products:
 - windows

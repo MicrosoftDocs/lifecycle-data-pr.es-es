@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Project 2016
-  description: El proyecto 2016 sigue la Directiva de ciclo de vida fijo.
+  description: Project 2016 se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: Professional,Standard
   ms.openlocfilehash: 5d4110f5d6f16efd84205e08dc375cdd839c3220
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926550"
 name: Project 2016
 summary: >+
-  El proyecto 2016 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Project 2016 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
   Esto se cumple en las siguientes ediciones: Profesional y Standard

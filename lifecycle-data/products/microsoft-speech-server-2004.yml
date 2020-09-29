@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Speech Server 2004
-  description: Microsoft Speech Server 2004 sigue la Directiva de ciclo de vida fijo.
+  description: Microsoft Speech Server 2004 se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 2fb4a48b2caffce89e54dac838ff7f1149886d48
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937095"
 name: Microsoft Speech Server 2004
 summary: >+
-  Microsoft Speech Server 2004 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft Speech Server 2004 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
   Esto está disponible para las siguientes ediciones: Enterprise y Standard

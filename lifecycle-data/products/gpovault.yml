@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: GPOVault
-  description: GPOVault sigue la Directiva de ciclo de vida fijo.
+  description: GPOVault se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: 1.0,2.0,Enterprise 1.0,Enterprise 2.0
   ms.openlocfilehash: 9b9051b56046f5f3605b877b3562039ea241bfe3
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936022"
 name: GPOVault
 summary: >+
-  GPOVault sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  GPOVault se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se aplica a las siguientes ediciones: 1,0, 2,0, Enterprise 1,0, Enterprise 2,0
+  Esto está disponible para las siguientes ediciones: 1.0, 2.0, Enterprise 1.0 y Enterprise 2.0
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> El soporte técnico para este producto está sujeto a los términos de su adquisición. \n\n## <a name=\"editions\"></a>Ediciones \n* 1.0\n* 2.0\n* Enterprise 1,0\n* Enterprise 2,0"
+content: "\n\n> [!NOTE]\n> El soporte técnico para este producto está sujeto a los términos de su adquisición. \n\n## <a name=\"editions\"></a>Ediciones \n* 1.0\n* 2.0\n* Enterprise 1.0\n* Enterprise 2.0"
