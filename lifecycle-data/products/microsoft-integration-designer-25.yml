@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Integration Designer 2,5
-  description: Microsoft Integration Designer 2,5 sigue la Directiva de ciclo de vida fijo.
+  title: Microsoft Integration Designer 2.5
+  description: Microsoft Integration Designer 2.5 se rige por la directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: a68b7d5749ce3c0bb47c949a59c52aff5a844dff
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "840486"
-name: Microsoft Integration Designer 2,5
+name: Microsoft Integration Designer 2.5
 summary: >+
-  Microsoft Integration Designer 2,5 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft Integration Designer 2.5 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:
