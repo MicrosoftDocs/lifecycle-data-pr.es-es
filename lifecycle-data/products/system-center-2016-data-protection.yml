@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Protección de datos de System Center 2016
-  description: La protección de datos de System Center 2016 sigue la Directiva de ciclo de vida fijo.
+  title: System Center 2016 Data Protection
+  description: System Center 2016 Data Protection se rige por la directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7b2a2ebb813f79280e3a37ee9346697f601538a4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863756"
-name: Protección de datos de System Center 2016
+name: System Center 2016 Data Protection
 summary: >+
-  La protección de datos de System Center 2016 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  System Center 2016 Data Protection se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/28/2016
   endDate: 01/11/2027
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Información del producto](/system-center/)"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Información de producto](/system-center/)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Azure Scheduler
-  description: El programador de Azure sigue la Directiva moderna del ciclo de vida.
+  description: Azure Scheduler se rige por la directiva de ciclo de vida moderno.
   ms.date: 07/28/2020
   ms.openlocfilehash: c5e6273a70a409fc5947fb69ea6103e771128747
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863328"
 name: Azure Scheduler
 summary: >+
-  El programador de Azure sigue la directiva [moderna](/lifecycle/policies/modern) del ciclo de vida.
+  Azure Scheduler se rige por la directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2014
   endDate: 09/30/2019
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Guía de migración](/azure/scheduler/migrate-from-scheduler-to-logic-apps)"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](/azure/scheduler/migrate-from-scheduler-to-logic-apps)"

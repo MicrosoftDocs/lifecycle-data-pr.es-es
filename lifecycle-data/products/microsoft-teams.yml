@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Teams
-  description: Microsoft Teams sigue la Directiva moderna del ciclo de vida.
+  description: Microsoft Teams se rige por la directiva de ciclo de vida moderno.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a95c11e5ed20489a0e571cfbab654a977a4dd1c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863764"
-name: Microsoft Teams
+name: Microsoft Teams
 summary: >+
-  Microsoft Teams sigue la directiva [moderna](/lifecycle/policies/modern) del ciclo de vida.
+  Microsoft Teams se rige por la directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2016
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Requisitos del sistema](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Información de servicio](/microsoftteams/teams-client-update)"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Requisitos del sistema](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Información de mantenimiento](/microsoftteams/teams-client-update)"

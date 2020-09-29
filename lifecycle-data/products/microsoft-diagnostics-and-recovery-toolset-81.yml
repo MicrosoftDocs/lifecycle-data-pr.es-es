@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Conjunto de herramientas de diagnóstico y recuperación de Microsoft 8,1
-  description: El conjunto de herramientas de diagnóstico y recuperación de Microsoft 8,1 sigue la Directiva de ciclo de vida fijo.
+  title: Conjunto de herramientas de diagnóstico y recuperación de Microsoft 8.1
+  description: El conjunto de herramientas de diagnóstico y recuperación de Microsoft 8.1 se rige por la directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7b9a4a5bc7ccc7e9849b0e5acaaf305a57485025
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863652"
-name: Conjunto de herramientas de diagnóstico y recuperación de Microsoft 8,1
+name: Conjunto de herramientas de diagnóstico y recuperación de Microsoft 8.1
 summary: >+
-  El conjunto de herramientas de diagnóstico y recuperación de Microsoft 8,1 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  El conjunto de herramientas de diagnóstico y recuperación de Microsoft 8.1 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:
