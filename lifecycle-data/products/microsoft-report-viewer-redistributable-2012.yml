@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Paquete redistribuible 2012 de Microsoft Report Viewer
-  description: El paquete redistribuible de visor de informes de Microsoft 2012 sigue la Directiva de ciclo de vida fijo.
+  title: Microsoft Report Viewer Redistributable 2012
+  description: Microsoft Report Viewer Redistributable 2012 se rige por la directiva de ciclo de vida fijo.
   ms.date: 08/19/2020
   ms.openlocfilehash: 851327e620d35cbb94eb2f0df86755e04c75eaac
   ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905063"
-name: Paquete redistribuible 2012 de Microsoft Report Viewer
+name: Microsoft Report Viewer Redistributable 2012
 summary: >+
-  El paquete redistribuible de visor de informes de Microsoft 2012 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft Report Viewer Redistributable 2012 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:

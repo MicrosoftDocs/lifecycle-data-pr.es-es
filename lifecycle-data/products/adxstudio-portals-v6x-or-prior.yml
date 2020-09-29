@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Adxstudio portales V6. x o anterior
-  description: Adxstudio portales V6. x o anterior sigue la Directiva de ciclo de vida fijo.
+  title: Adxstudio Portals v6.x o anterior
+  description: Adxstudio Portals v6.x o anterior se rige por la directiva de ciclo de vida fijo.
   ms.date: 08/28/2020
   ms.openlocfilehash: d30568ac94980a8ea178e1971f3841f5093514fa
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924440"
-name: Adxstudio portales V6. x o anterior
-summary: >+
-  Adxstudio portales V6. x o anterior sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
-
-
+name: Adxstudio Portals v6.x o anterior
+summary: "Adxstudio Portals v6.x o anterior se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed). \n\n\n"
 products:
 - dynamics
 policyType: fixed
@@ -24,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 09/29/2015
   endDate: 04/12/2016
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Preguntas más frecuentes sobre el ciclo de vida: adquisiciones](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> La compatibilidad con este producto está sujeta a los términos de su adquisición y ha finalizado."
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Preguntas frecuentes sobre el ciclo de vida: adquisiciones](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> El soporte técnico para este producto está sujeto a los términos de su adquisición y ha finalizado."
