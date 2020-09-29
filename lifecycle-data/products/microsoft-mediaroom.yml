@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Mediaroom
-  description: Microsoft Mediaroom sigue la Directiva de ciclo de vida fijo.
+  description: Microsoft Mediaroom se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: Application Services 1.0,Client 2.0,Client 2.1,Server 2.0,Server 2.1
   ms.openlocfilehash: 5842b1725e7c5cbc964de743111a400d2b7de2b9
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930620"
 name: Microsoft Mediaroom
 summary: >+
-  Microsoft Mediaroom sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Microsoft Mediaroom se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se aplica a las siguientes ediciones: servicios de aplicación 1,0, cliente 2,0, cliente 2,1, servidor 2,0, servidor 2,1
+  Esto está disponible para las siguientes ediciones: Application Services 1.0, Client 2.0, Client 2.1, Server 2.0 y Server 2.1
 
 products:
 - windows
@@ -25,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 08/03/2010
-content: "\n\n> [!NOTE]\n> Ericsson adquirió productos Mediaroom de Microsoft en 2013. Para obtener más información, consulte el [comunicado de prensa](http://www.ericsson.com/news/1691160). Para los clientes que necesiten soporte técnico, vaya [aquí](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx).\n> [!NOTE]\n> Microsoft Mediaroom Client 2,1 se ha lanzado el 27 de diciembre de 2011. \n\n## <a name=\"editions\"></a>Ediciones \n* Servicios de aplicación 1,0\n* Cliente 2,0\n* Cliente 2,1\n* Servidor 2,0\n* Servidor 2,1"
+content: "\n\n> [!NOTE]\n> Ericsson adquirió los productos de Microsoft Mediaroom en 2013. Para obtener más información, consulte el siguiente [comunicado de prensa](http://www.ericsson.com/news/1691160). Si es usted un cliente que necesita soporte técnico, diríjase [aquí](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx).\n> [!NOTE]\n> Microsoft Mediaroom Cliente 2.1 se lanzó el 27 de diciembre de 2011. \n\n## <a name=\"editions\"></a>Ediciones \n* Application Services 1.0\n* Client 2.0\n* Client 2.1\n* Server 2.0\n* Server 2.1"
