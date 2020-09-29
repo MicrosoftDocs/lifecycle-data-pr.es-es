@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Server 2016
-  description: SharePoint Server 2016 sigue la Directiva de ciclo de vida fijo.
+  description: SharePoint Server 2016 se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: ''
   ms.openlocfilehash: 14f1c2b997bd6d39354b686f28c341218d41abc5
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941751"
 name: SharePoint Server 2016
 summary: >+
-  SharePoint Server 2016 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  SharePoint Server 2016 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2016
   endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Información de servicio](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n\n> [!NOTE]\n> Consulte la documentación de [productos](https://docs.microsoft.com/sharepoint/sharepoint-server) y [desarrolladores](https://developer.microsoft.com/sharepoint/docs)"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Información de servicio](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n\n> [!NOTE]\n> Consulte la documentación del [producto](https://docs.microsoft.com/sharepoint/sharepoint-server) y del [desarrollador](https://developer.microsoft.com/sharepoint/docs)."

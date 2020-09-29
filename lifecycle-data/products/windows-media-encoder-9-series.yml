@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Codificador de Windows Media 9 series
-  description: El codificador de Windows Media 9 series sigue la Directiva de ciclo de vida fijo.
+  title: Windows Media Encoder 9 Series
+  description: Windows Media Encoder 9 Series se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: 64 Bit,Standard
   ms.openlocfilehash: 902d5b57d6d0e0615acf48da69f17582e84164b6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940018"
-name: Codificador de Windows Media 9 series
+name: Windows Media Encoder 9 Series
 summary: >+
-  El codificador de Windows Media 9 series sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Windows Media Encoder 9 Series se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se aplica a las siguientes ediciones: 64 bits, estándar
+  Se aplica a las siguientes ediciones: de 64 bits y Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/15/2002
   endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> El codificador de Windows Media 9 series x64 Edition lanzado el 15 de septiembre de 2005.\n\n## <a name=\"editions\"></a>Ediciones \n* 64 bits\n* Estándar"
+content: "\n\n> [!NOTE]\n> La edición de 64 bits de Windows Media Encoder 9 Series se lanzó el 15 de septiembre de 2005.\n\n## <a name=\"editions\"></a>Ediciones \n* De 64 bits\n* Estándar"

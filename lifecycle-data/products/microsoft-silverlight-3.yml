@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Silverlight 3
+  description: Microsoft Silverlight 3 se rige por la directiva de ciclo de vida fijo.
+  ms.date: 09/21/2020
+  keywords: ''
+  ms.openlocfilehash: 039ef2353f648bae64ee84b9951541e221f7ada5
+  ms.sourcegitcommit: aad3374f5e2d7399cba4e705265ade76f11419d8
+  ms.translationtype: HT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 09/21/2020
+  ms.locfileid: "1025316"
+name: Microsoft Silverlight 3
+summary: >+
+  Microsoft Silverlight 3 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+
+
+products:
+- silverlight
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/09/2009
+  end: 04/12/2011
+releases:
+- version: Original Release
+  startDate: 07/09/2009
+  endDate: 04/12/2011
+content: "\n\n> [!NOTE]\n> La compatibilidad con las herramientas finaliza como mínimo 12 meses después de la fecha de notificación."
