@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Web Server 2008
-  description: Windows Web Server 2008 sigue la Directiva de ciclo de vida fijo.
+  title: Windows Web Server 2008
+  description: Windows Web Server 2008 se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 09e6cfcf06699c4c2c31c43a04906c7f6b543979
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938908"
-name: Windows Web Server 2008
+name: Windows Web Server 2008
 summary: >+
-  Windows Web Server 2008 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Windows Web Server 2008 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se cumple en las siguientes ediciones: Estándar
+  Se aplica a las siguientes ediciones: Standard
 
 products:
 - windows
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/10/2018
-content: "\n\n> [!NOTE]\n> Según el Service Pack 2 de Windows Server 2008, este producto llegó al final del soporte técnico el 14 de enero de 2020.\n\n## <a name=\"editions\"></a>Ediciones \n* Estándar"
+content: "\n\n> [!NOTE]\n> Al igual que Windows Server 2008 Service Pack 2, el fin del soporte de este producto se produjo el 14 de enero de 2020.\n\n## <a name=\"editions\"></a>Ediciones \n* Estándar"
