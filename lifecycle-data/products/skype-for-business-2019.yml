@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype empresarial 2019
-  description: Skype empresarial 2019 sigue la Directiva de ciclo de vida fijo.
+  title: Skype Empresarial 2019
+  description: Skype Empresarial 2019 se rige por la directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0df52b63618e4bc7b7313685c975b8a89fd9ad11
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872446"
-name: Skype empresarial 2019
+name: Skype Empresarial 2019
 summary: >+
-  Skype empresarial 2019 sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Skype Empresarial 2019 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:

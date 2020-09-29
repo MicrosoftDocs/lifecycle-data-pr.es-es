@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Agente de prueba, controlador
-  description: Agente de prueba, el controlador sigue la Directiva del ciclo de vida del componente.
+  title: Test Agent y Controller
+  description: Test Agent y Controller se rigen por la directiva de ciclo de vida de componentes.
   ms.date: 08/13/2020
   ms.openlocfilehash: 7cb3e4327582e2dcb0c2d9fd448fff1aa31d6c81
   ms.sourcegitcommit: 3c6b83bda986f678312f44c1a8424e183a327d5c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 08/14/2020
   ms.locfileid: "894994"
-name: Agente de prueba, controlador
+name: Test Agent y Controller
 summary: >+
-  Agente de prueba, el controlador sigue la Directiva del ciclo de vida del [componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Test Agent y Controller se rigen por la directiva de ciclo de vida de [componentes](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

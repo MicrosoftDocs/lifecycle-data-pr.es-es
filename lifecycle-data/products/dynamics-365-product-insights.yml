@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Información sobre el producto Dynamics 365
-  description: Dynamics 365 producto Insights sigue la Directiva moderna del ciclo de vida.
+  title: Dynamics 365 Product Insights
+  description: Dynamics 365 Product Insights se rige por la directiva de ciclo de vida moderno.
   ms.date: 08/25/2020
   ms.openlocfilehash: 96ad93ad104312327e146d10a83d6b42943ab714
   ms.sourcegitcommit: d28d18dd801693302858cb5086cabb3a5d2083f3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: es-ES
   ms.lasthandoff: 08/26/2020
   ms.locfileid: "911442"
-name: Información sobre el producto Dynamics 365
+name: Dynamics 365 Product Insights
 summary: >+
-  Dynamics 365 producto Insights sigue la directiva [moderna](/lifecycle/policies/modern) del ciclo de vida.
+  Dynamics 365 Product Insights se rige por la directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
 
 
 products:
