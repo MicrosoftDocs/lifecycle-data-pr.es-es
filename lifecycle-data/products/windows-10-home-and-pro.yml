@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 Home y Pro
   description: Windows 10 Home y Pro se rige por la Directiva de ciclo de vida moderno.
-  ms.date: 09/22/2020
+  ms.date: 10/09/2020
   keywords: 
-  ms.openlocfilehash: afe3de560cc371fc307d5e1e7f831e301c3ce99f
-  ms.sourcegitcommit: 528043c09bc83880f3c1dcc3f976c4241e9ec4b7
+  ms.openlocfilehash: 095634809dda7456b4aa5cae512bbfef43253f87
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 09/22/2020
-  ms.locfileid: "1026903"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162499"
 name: Windows 10 Home y Pro
 summary: >
   Windows 10 Home y Pro se rige por la Directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
@@ -28,6 +28,9 @@ supportDates:
   start: 07/29/2015
   end: 10/14/2025
 releases:
+- version: Version 20H2
+  startDate: 10/20/2020
+  endDate: 05/10/2022
 - version: Version 2004
   startDate: 05/27/2020
   endDate: 12/14/2021
@@ -58,4 +61,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Hoja de datos del ciclo de vida de Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Preguntas frecuentes sobre el ciclo de vida: productos de Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation fue publicado por primera vez con la versión 1709.\n> [!NOTE]\n> A menos que se aplacen, las actualizaciones de características subsiguientes del canal semianual de Windows 10 se pueden instalar antes de la fecha de finalización de soporte estándar indicada.\n\n## <a name=\"editions\"></a>Ediciones \n* Home\n* Pro\n* Pro Education\n* Pro for Workstations"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Preguntas frecuentes sobre el ciclo de vida: productos de Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation fue publicado por primera vez con la versión 1709.\n> [!NOTE]\n> A menos que se aplacen, las actualizaciones de características subsiguientes del canal semianual de Windows 10 se pueden instalar antes de la fecha de finalización de soporte estándar indicada.\n\n## <a name=\"editions\"></a>Ediciones \n* Home\n* Pro\n* Pro Education\n* Pro for Workstations"
