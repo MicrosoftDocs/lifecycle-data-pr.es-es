@@ -2,13 +2,14 @@
 metadata:
   title: Skype Empresarial Online
   description: Skype Empresarial Online se rige por la Directiva de ciclo de vida moderno.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/16/2020
+  keywords: ''
+  ms.openlocfilehash: bf59d0a69fe09d791e95560ef3c69de86814a9fd
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863723"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162203"
 name: Skype Empresarial Online
 summary: >
   Skype Empresarial Online se rige por la Directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
@@ -17,7 +18,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Este servicio se retirará el 31 de julio de 2021. Consulte las instrucciones de migración a continuación.
+  > Este servicio se retirará el 31 de julio de 2021. Consulte las instrucciones de migración a continuación. Vaya [aquí](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/changes-ahead-for-cloud-connector-edition-and-hybrid-voice/ba-p/1650055) para obtener información sobre el impacto en las implementaciones de voz híbrida.
 products:
 - office
 policyType: modern-online

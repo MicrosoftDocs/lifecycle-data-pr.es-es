@@ -2,14 +2,14 @@
 metadata:
   title: Windows Server
   description: Windows Server se rige por la Directiva de ciclo de vida moderno.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Standard
-  ms.openlocfilehash: ce5748c194d033b6c5dd88b476b07a4dfa402e09
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 10/19/2020
+  keywords: 
+  ms.openlocfilehash: cc8dd57a0773e9b67fd312e52d7f25bbb96ce10e
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939241"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162351"
 name: Windows Server
 summary: >+
   Windows Server se rige por la Directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
@@ -23,6 +23,9 @@ policyType: modern-on-prem
 supportDates:
   start: 10/17/2017
 releases:
+- version: Version 20H2
+  startDate: 10/20/2020
+  endDate: 05/10/2022
 - version: Version 2004
   startDate: 05/27/2020
   endDate: 12/14/2021
@@ -33,7 +36,7 @@ releases:
   startDate: 05/21/2019
   endDate: 12/08/2020
 - version: Version 1809
-  startDate: 11/13/2018
+  startDate: 10/02/2018
   endDate: 11/10/2020
 - version: Version 1803
   startDate: 04/30/2018
@@ -41,4 +44,4 @@ releases:
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Canales de mantenimiento de Windows Server: LTSC y SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Preguntas frecuentes sobre el ciclo de vida: productos de Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> La actualización de octubre de Windows 10 (versión 1809) se relanzó el 13 de noviembre de 2018. Las fechas de soporte técnico se ajustaron según corresponde.\n\n## <a name=\"editions\"></a>Ediciones \n* Datacenter\n* Estándar"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Canales de mantenimiento de Windows Server: LTSC y SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Preguntas frecuentes sobre el ciclo de vida: productos de Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Windows Server, versión 1809 fue relanzado el 13 de noviembre de 2018. Las fechas de soporte técnico se ajustaron según corresponde.\n\n## <a name=\"editions\"></a>Ediciones \n* Datacenter\n* Estándar"
