@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Host Integration Server 2006
-  description: Microsoft Host Integration Server 2006 se rige por la Directiva de ciclo de vida fijo.
+  description: Microsoft Host Integration Server 2006 se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: Developer,Standard
   ms.openlocfilehash: b7da52c555619a2d4222ae264140f646fb161913
@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933802"
 name: Microsoft Host Integration Server 2006
-summary: "Microsoft Host Integration Server 2006 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).\n\nEsto se cumple en las siguientes ediciones: Developer y Standard\n\n> [!IMPORTANT]\n> El soporte técnico para este producto ha finalizado. Consulte las instrucciones de migración a continuación. \n"
+summary: "Microsoft Host Integration Server 2006 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).\n\nSe aplica a las siguientes ediciones: Developer y Standard\n\n> [!IMPORTANT]\n> El soporte técnico para este producto ha finalizado. Consulte las instrucciones de migración a continuación. \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 04/12/2011
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Developer\n* Estándar"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Developer\n* Standard"

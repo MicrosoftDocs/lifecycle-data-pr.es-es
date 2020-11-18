@@ -15,7 +15,7 @@ summary: >+
   Windows Embedded 8 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Está disponible para las siguientes ediciones: Pro y Standard
+  Se aplica a las siguientes ediciones: Pro y Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Preguntas frecuentes sobre el ciclo de vida: productos de Windows](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Los clientes deben migrar a Windows Emdedded 8.1 para seguir siendo compatibles.\n\n## <a name=\"editions\"></a>Ediciones \n* Pro\n* Estándar"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Preguntas frecuentes sobre el ciclo de vida: productos de Windows](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Los clientes deben migrar a Windows Emdedded 8.1 para seguir siendo compatibles.\n\n## <a name=\"editions\"></a>Ediciones \n* Pro\n* Standard"

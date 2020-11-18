@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2012 R2
-  description: Windows Server 2012 R2 se rige por la Directiva de ciclo de vida fijo.
+  description: Windows Server 2012 R2 se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: Datacenter,Essentials,for Embedded Systems,Foundation,Standard
   ms.openlocfilehash: 42ac3c78b1d65c205a93a1041fdc4f029edec3f5
@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "939500"
 name: Windows Server 2012 R2
 summary: >+
-  Windows Server 2012 R2 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+  Windows Server 2012 R2 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto está disponible para las siguientes ediciones: Datacenter, Essentials, para Embedded Systems, Foundation y Standard
+  Se aplica a las siguientes ediciones: Datacenter, Essentials, para Embedded Systems, Foundation y Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> El soporte estándar y extendido para este producto se amplió para proporcionar a los clientes la escala de tiempo de transición del ciclo de vida estándar.\n\n## <a name=\"editions\"></a>Ediciones \n* Datacenter\n* Essentials\n* para Embedded Systems\n* Foundation\n* Estándar"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> El soporte estándar y extendido para este producto se amplió para proporcionar a los clientes la escala de tiempo de transición del ciclo de vida estándar.\n\n## <a name=\"editions\"></a>Ediciones \n* Datacenter\n* Essentials\n* para Embedded Systems\n* Foundation\n* Standard"

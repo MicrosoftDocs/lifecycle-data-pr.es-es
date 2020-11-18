@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Cloud Platform System
-  description: Cloud Platform System se rige por la Directiva de ciclo de vida fijo.
+  description: Cloud Platform System se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "932063"
 name: Cloud Platform System
 summary: >+
-  Cloud Platform System se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+  Cloud Platform System se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se cumple en las siguientes ediciones: Estándar
+  Se aplica a las siguientes ediciones: Standard
 
 products:
 - azure
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> El soporte técnico para Cloud Platform System se extiende como se muestra para proporcionar a todos los clientes la escala de tiempo de transición del ciclo de vida estándar.\n> [!NOTE]\n> Cloud Platform System Standard se lanzó el 18 de septiembre de 2017.\n\n## <a name=\"editions\"></a>Ediciones \n* Estándar"
+content: "\n\n> [!NOTE]\n> El soporte técnico para Cloud Platform System se extiende como se muestra para proporcionar a todos los clientes la escala de tiempo de transición del ciclo de vida estándar.\n> [!NOTE]\n> Cloud Platform System Standard se lanzó el 18 de septiembre de 2017.\n\n## <a name=\"editions\"></a>Ediciones \n* Standard"

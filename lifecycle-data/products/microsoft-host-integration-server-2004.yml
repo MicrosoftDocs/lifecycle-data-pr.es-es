@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1001888"
 name: Microsoft Host Integration Server 2004
-summary: "Microsoft Host Integration Server 2004 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).\n\nEstá disponible para las siguientes ediciones: Developer, Enterprise y Standard\n\n> [!IMPORTANT]\n> El soporte técnico para este producto ha finalizado. \n"
+summary: "Microsoft Host Integration Server 2004 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).\n\nSe aplica a las siguientes ediciones: Developer, Enterprise y Standard\n\n> [!IMPORTANT]\n> El soporte técnico para este producto ha finalizado. \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2004
   endDate: 07/14/2008
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Developer\n* Enterprise\n* Estándar"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Developer\n* Enterprise\n* Standard"

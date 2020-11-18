@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2012
-  description: Visual Studio 2012 se rige por la Directiva de ciclo de vida fijo.
+  description: Visual Studio 2012 se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions
   ms.openlocfilehash: 31ae5780a4e6f55abc3d232aafdd43fa70f32be2
@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "937502"
 name: Visual Studio 2012
 summary: >+
-  Visual Studio 2012 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+  Visual Studio 2012 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto está disponible para las siguientes ediciones: Agents, Community 2013, Express para Web, Express para Windows 8, Express para escritorio de Windows, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Herramientas remotas, Shell (integrado), Shell (aislado), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable y Web Tools Extensions
+  Se aplica a las siguientes ediciones: Agents, Community 2013, Express para Web, Express para Windows 8, Express para escritorio de Windows, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Herramientas remotas, Shell (integrado), Shell (aislado), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable y extensiones de Web Tools
 
 products:
 - vs

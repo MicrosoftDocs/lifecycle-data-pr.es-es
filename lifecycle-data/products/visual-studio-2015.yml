@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2015
-  description: Visual Studio 2015 se rige por la Directiva de ciclo de vida fijo.
+  description: Visual Studio 2015 se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: Agents,Community,Enterprise,ESM,Express for Web,Express for Windows 10,Express for Windows Desktop,Modeling SDK,Professional,PSM,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Test Professional,TPS,Visual C++ Redistributable
   ms.openlocfilehash: d993b7ac12edc9ad4c1c7d58f35c61a8c4c10a71
@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "937428"
 name: Visual Studio 2015
 summary: >+
-  Visual Studio 2015 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+  Visual Studio 2015 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto está disponible para las siguientes ediciones: Agents, Community, Enterprise, ESM, Express para Web, Express para Windows 10, Express para escritorio de Windows, SDK de modelado, Professional, PSM, Release Management, Herramientas remotas, SDK, Shell (integrado), Shell (aislado), Test Professional, TPS y Visual C++ Redistributable
+  Se aplica a las siguientes ediciones: Agents, Community, Enterprise, ESM, Express para Web, Express para Windows 10, Express para escritorio de Windows, SDK de modelado, Professional, PSM, Release Management, Herramientas remotas, SDK, Shell (integrado), Shell (aislado), Test Professional, TPS y Visual C++ Redistributable
 
 products:
 - vs
