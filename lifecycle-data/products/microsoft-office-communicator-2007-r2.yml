@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1001740"
 name: Microsoft Office Communicator 2007 R2
-summary: "Microsoft Office Communicator 2007 R2 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).\n\nEstá disponible para las siguientes ediciones: todas las aplicables y Phone\n\n> [!IMPORTANT]\n> El soporte técnico para este producto ha finalizado. Consulte las instrucciones de migración. \n"
+summary: "Microsoft Office Communicator 2007 R2 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).\n\nSe aplica a las siguientes ediciones: Todas aplicables y Phone\n\n> [!IMPORTANT]\n> El soporte técnico para este producto ha finalizado. Consulte las instrucciones de migración. \n"
 products:
 - office
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 03/19/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Todos aplicables\n* Phone"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Todas aplicables\n* Phone"

@@ -15,7 +15,7 @@ summary: >+
   Office XP se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto está disponible para las siguientes ediciones: Developer, Professional, Herramientas de corrección, Standard y Web Components
+  Se aplica a las siguientes ediciones: Developer, Professional, Herramientas de corrección, Standard y Web Components
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2001
   endDate: 12/31/2002
-content: "\n\n\n## <a name=\"editions\"></a>Ediciones \n* Developer\n* Professional\n* Herramientas de corrección\n* Estándar\n* Web Components"
+content: "\n\n\n## <a name=\"editions\"></a>Ediciones \n* Developer\n* Professional\n* Herramientas de corrección\n* Standard\n* Web Components"

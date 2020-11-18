@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2008
-  description: Windows Storage Server 2008 se rige por la Directiva de ciclo de vida fijo.
+  description: Windows Storage Server 2008 se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: Basic,Basic 32-Bit,Basic 64-bit,Basic Embedded,Basic Embedded 32-bit,Enterprise,Enterprise Embedded,Standard,Standard Embedded,Workgroup
   ms.openlocfilehash: 8953fec16d2e39e18ff29a4e7ad1f297888f0b75
@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "939056"
 name: Windows Storage Server 2008
 summary: >
-  Windows Storage Server 2008 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+  Windows Storage Server 2008 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto está disponible para las siguientes ediciones: Basic, Basic de 32 bits, Basic de 64 bits, Basic Embedded, Basic Embedded de 32 bits, Enterprise, Enterprise Embedded, Standard, Standard Embedded y Workgroup
+  Se aplica a las siguientes ediciones: Basic, Basic de 32 bits, Basic de 64 bits, Basic Embedded, Basic Embedded de 32 bits, Enterprise, Enterprise Embedded, Standard, Standard Embedded y Workgroup
 
 
   > [!IMPORTANT]
@@ -35,4 +35,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Información de actualizaciones de Server](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Basic\n* Basic de 32 bits\n* Basic de 64 bits\n* Basic Embedded\n* Basic Embedded de 32 bits\n* Enterprise\n* Enterprise Embedded\n* Estándar\n* Standard Embedded\n* Workgroup"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Información de actualizaciones de Server](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Basic\n* Basic de 32 bits\n* Basic de 64 bits\n* Basic Embedded\n* Basic Embedded de 32 bits\n* Enterprise\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Workgroup"

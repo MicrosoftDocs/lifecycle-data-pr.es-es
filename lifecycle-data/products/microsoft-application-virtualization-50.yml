@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Application Virtualization 5.0
-  description: Microsoft Application Virtualization 5.0 se rige por la Directiva de ciclo de vida fijo.
+  description: Microsoft Application Virtualization 5.0 se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: for Remote Desktop Services,for Terminal Services,for Windows Desktops
   ms.openlocfilehash: 9606d01862383fc90e328d1fe65da5151014db76
@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "935541"
 name: Microsoft Application Virtualization 5.0
 summary: >+
-  Microsoft Application Virtualization 5.0 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+  Microsoft Application Virtualization 5.0 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se cumple en las siguientes ediciones: for Remote Desktop Services, for Terminal Services y for Windows Desktops
+  Se aplica a las siguientes ediciones: para Servicios de Escritorio remoto, for Terminal Services y para escritorios de Windows
 
 products:
 - windows
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Información del producto](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* for Remote Desktop Services\n* for Terminal Services\n* para escritorios de Windows"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Información del producto](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* para Servicios de Escritorio remoto\n* for Terminal Services\n* para escritorios de Windows"

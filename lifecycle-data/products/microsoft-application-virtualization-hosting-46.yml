@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops
-  description: Microsoft Application Virtualization Hosting 4.6 para escritorio de Windows se rige por la Directiva de ciclo de vida fijo.
+  title: Microsoft Application Virtualization Hosting 4.6 para escritorios de Windows
+  description: Microsoft Application Virtualization Hosting 4.6 para escritorios de Windows se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
   ms.openlocfilehash: 8a32729ae5fbf7f57a14b6a6ec048c7a1f412a52
@@ -10,12 +10,12 @@ metadata:
   ms.contentlocale: es-ES
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935467"
-name: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops
+name: Microsoft Application Virtualization Hosting 4.6 para escritorios de Windows
 summary: >+
-  Microsoft Application Virtualization Hosting 4.6 para escritorio de Windows se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+  Microsoft Application Virtualization Hosting 4.6 para escritorios de Windows se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Esto se cumple en las siguientes ediciones: para escritorio de Windows
+  Se aplica a las siguientes ediciones: para escritorios de Windows
 
 products:
 - windows

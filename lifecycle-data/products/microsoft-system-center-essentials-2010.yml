@@ -15,7 +15,7 @@ summary: >+
   Microsoft System Center Essentials 2010 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Se aplica a las siguientes ediciones: aplicable a todo y wSQL
+  Se aplica a las siguientes ediciones: Todas aplicables y wSQL
 
 products:
 - msc
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/28/2010
   endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>Ediciones \n* Todos aplicables\n* wSQL"
+content: "\n\n\n## <a name=\"editions\"></a>Ediciones \n* Todas aplicables\n* wSQL"
