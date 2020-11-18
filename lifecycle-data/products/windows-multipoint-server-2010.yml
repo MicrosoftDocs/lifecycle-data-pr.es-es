@@ -15,7 +15,7 @@ summary: >+
   Windows MultiPoint Server 2010 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Está disponible para las siguientes ediciones: Academic y Standard
+  Se aplica a las siguientes ediciones: Académico y Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/13/2010
   endDate: 07/14/2020
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://aka.ms/AA1ovn4)\n* [Instrucciones de migración adicionales](/windows-server/get-started/installation-and-upgrade)\n* [Información del producto](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Académico\n* Estándar"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://aka.ms/AA1ovn4)\n* [Instrucciones de migración adicionales](/windows-server/get-started/installation-and-upgrade)\n* [Información del producto](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Académico\n* Standard"
