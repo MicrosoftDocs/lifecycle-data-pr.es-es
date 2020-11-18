@@ -15,7 +15,7 @@ summary: >+
   Windows Azure Pack (en Windows Server 2012 R2) se rige por la directiva [fija](/lifecycle/policies/fixed) de ciclo de vida.
 
 
-  Esto está disponible para las siguientes ediciones: en Windows Server 2012 R2
+  Se aplica a las siguientes ediciones: en Windows Server 2012 R2
 
 products:
 - windows
