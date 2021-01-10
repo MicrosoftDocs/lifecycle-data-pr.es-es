@@ -1,25 +1,25 @@
 ---
 title: Exportación de datos del ciclo de vida
 description: Exportar información del ciclo de vida del producto
-ms.date: 11/29/2020
+ms.date: 01/06/2021
 layout: ContentPage
-ms.openlocfilehash: 210af0cf60630cbdbf43847641022283aca78366
-ms.sourcegitcommit: 272dedcf92e644b57865e78c716f937b66e534c3
+ms.openlocfilehash: 4a27cd96ddaa1b3d128d9f1d711504d88c28e36e
+ms.sourcegitcommit: f24c8653f7fd67e5b3f9f41e17b47edcecb5856e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "1335902"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "1367581"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="4bc7e-103">Exportación de datos del ciclo de vida</span><span class="sxs-lookup"><span data-stu-id="4bc7e-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="f8f88-103">Exportación de datos del ciclo de vida</span><span class="sxs-lookup"><span data-stu-id="f8f88-103">Lifecycle data export</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="4bc7e-104">Exportar todos los productos</span><span class="sxs-lookup"><span data-stu-id="4bc7e-104">Export all products</span></span>
-<span data-ttu-id="4bc7e-105">Exporte los datos del ciclo de vida de todos los productos haciendo clic a continuación:</span><span class="sxs-lookup"><span data-stu-id="4bc7e-105">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="f8f88-104">Exportar todos los productos</span><span class="sxs-lookup"><span data-stu-id="f8f88-104">Export all products</span></span>
+<span data-ttu-id="f8f88-105">Exporte los datos del ciclo de vida de todos los productos haciendo clic a continuación:</span><span class="sxs-lookup"><span data-stu-id="f8f88-105">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="4bc7e-106">Exportar todos los productos</span><span class="sxs-lookup"><span data-stu-id="4bc7e-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="f8f88-106">Exportar todos los productos</span><span class="sxs-lookup"><span data-stu-id="f8f88-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="4bc7e-107">Exportar los productos por Familia y Grupo</span><span class="sxs-lookup"><span data-stu-id="4bc7e-107">Export products by Family and Group</span></span>
-<span data-ttu-id="4bc7e-108">Seleccione una Familia y, a continuación, un Grupo que exportar.</span><span class="sxs-lookup"><span data-stu-id="4bc7e-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="4bc7e-109">Nota: La exportación comenzará cuando se seleccione el valor Grupo.</span><span class="sxs-lookup"><span data-stu-id="4bc7e-109">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="f8f88-107">Exportar los productos por Familia y Grupo</span><span class="sxs-lookup"><span data-stu-id="f8f88-107">Export products by Family and Group</span></span>
+<span data-ttu-id="f8f88-108">Seleccione una Familia y, a continuación, un Grupo que exportar.</span><span class="sxs-lookup"><span data-stu-id="f8f88-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="f8f88-109">Nota: La exportación comenzará cuando se seleccione el valor Grupo.</span><span class="sxs-lookup"><span data-stu-id="f8f88-109">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Familia" title2="Grupo"]
 > - [(.NET | Todos)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='.NET'))
@@ -81,13 +81,12 @@ ms.locfileid: "1335902"
 > - [(Windows | Seguridad)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Security'))
 > - [(Windows | Servidor)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Server'))
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="4bc7e-170">Exportar productos ante de la fecha del fin de soporte</span><span class="sxs-lookup"><span data-stu-id="4bc7e-170">Export products by end of support date</span></span>
-<span data-ttu-id="4bc7e-171">Seleccione un año para ver los productos que alcanzarán el fin de soporte.</span><span class="sxs-lookup"><span data-stu-id="4bc7e-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="4bc7e-172">Nota: La exportación comenzará cuando se seleccione el valor Año.</span><span class="sxs-lookup"><span data-stu-id="4bc7e-172">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="f8f88-170">Exportar productos ante de la fecha del fin de soporte</span><span class="sxs-lookup"><span data-stu-id="f8f88-170">Export products by end of support date</span></span>
+<span data-ttu-id="f8f88-171">Seleccione un año para ver los productos que alcanzarán el fin de soporte.</span><span class="sxs-lookup"><span data-stu-id="f8f88-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="f8f88-172">Nota: La exportación comenzará cuando se seleccione el valor Año.</span><span class="sxs-lookup"><span data-stu-id="f8f88-172">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [Próximos 12 meses](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=12))
 > - [Próximos 6 meses](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=6))
-> - [2015](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2015))
 > - [2016](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2016))
 > - [2017](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2017))
 > - [2018](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2018))
