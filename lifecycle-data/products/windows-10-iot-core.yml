@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 IoT Core
   description: Windows 10 IoT Core se rige por la Directiva de ciclo de vida moderno.
-  ms.date: 10/16/2020
+  ms.date: 01/07/2021
   keywords: 
-  ms.openlocfilehash: 3893a58a054c3596d50f70244fe96b3bb5659df9
-  ms.sourcegitcommit: 3e26c892fea0b6f55cd4d050f1454019e9125ef9
+  ms.openlocfilehash: 0eb6508d3bae724e55598450d6aeb156ad727048
+  ms.sourcegitcommit: 699a750c1174c44e9aca20f79e837d8cd401de71
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 10/17/2020
-  ms.locfileid: "1158127"
+  ms.lasthandoff: 01/07/2021
+  ms.locfileid: "1369509"
 name: Windows 10 IoT Core
 summary: >
   Windows 10 IoT Core se rige por la Directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
@@ -18,7 +18,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Este producto se retira el 10 de noviembre de 2020. Para seguir recibiendo soporte técnico, migre a IoT Core Services.
+  > Este producto se retiró el 10 de noviembre de 2020. Para seguir recibiendo soporte técnico, migre a [IoT Core Services](https://docs.microsoft.com/windows-hardware/manufacture/iot/iotcoreservicesoverview?tabs=azure-portal).
 products:
 - windows
 policyType: modern-on-prem
