@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 Enterprise y Education
   description: Windows 10 Enterprise y Education se rige por la Directiva de ciclo de vida moderno.
-  ms.date: 10/09/2020
+  ms.date: 02/12/2021
   keywords: 
-  ms.openlocfilehash: aafaec4e3b02f433224ea51446b8c18f4bd0c031
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: 84edf77fb54cb13cb21b8a8ef6643267a3872af2
+  ms.sourcegitcommit: b85a6ac35e0af0e17a9ae767927273508a4f31f6
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162536"
+  ms.lasthandoff: 02/14/2021
+  ms.locfileid: "1449237"
 name: Windows 10 Enterprise y Education
 summary: >
   Windows 10 Enterprise y Education se rige por la Directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
@@ -20,7 +20,9 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Microsoft seguirá proporcionado soporte técnico como mínimo a un canal semianual de Windows 10 hasta el 14 de octubre de 2025.
+  > Microsoft seguirá proporcionando soporte técnico como mínimo para un lanzamiento del Canal semestral de Windows 10 hasta el 14 de octubre de 2025.
+
+  La siguiente tabla refleja las versiones publicadas hasta la fecha.
 products:
 - windows
 policyType: modern-on-prem
@@ -61,4 +63,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Información de producto](/windows/windows-10/)\n* [Preguntas frecuentes sobre el ciclo de vida: productos de Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> A menos que se aplacen, las actualizaciones de características subsiguientes del canal semianual de Windows 10 se pueden instalar antes de la fecha de finalización de soporte estándar indicada.\n\n## <a name=\"editions\"></a>Ediciones \n* Education\n* Enterprise"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Home y Pro](/lifecycle/products/windows-10-home-and-pro)\n* [Información de producto](/windows/windows-10/)\n* [Preguntas frecuentes sobre el ciclo de vida: productos de Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> A menos que se aplacen, las actualizaciones de características subsiguientes del canal semianual de Windows 10 se pueden instalar antes de la fecha de finalización de soporte estándar indicada.\n\n## <a name=\"editions\"></a>Ediciones \n* Education\n* Enterprise"
