@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft System Center 2012 R2 Configuration Manager
   description: Microsoft System Center 2012 R2 Configuration Manager se rige por la directiva de ciclo de vida fijo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 61515e636a9af310a2107c9505067fa551d26b15
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 03/12/2021
+  keywords: 
+  ms.openlocfilehash: b9a1c0fa5804c5929f39f72816e86e49c739d281
+  ms.sourcegitcommit: 8465b0fa45ee2c451d1f1eaf7be9a1544cdad17f
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863434"
+  ms.lasthandoff: 03/12/2021
+  ms.locfileid: "1462924"
 name: Microsoft System Center 2012 R2 Configuration Manager
 summary: >+
   Microsoft System Center 2012 R2 Configuration Manager se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
@@ -28,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Documentación para Configuration Manager](/mem/configmgr/core/misc/online-documentation)"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Documentación para Configuration Manager](/mem/configmgr/core/misc/online-documentation)\n* [Instrucciones para la migración](https://techcommunity.microsoft.com/t5/configuration-manager-blog/system-center-2012-configuration-manager-is-approaching-end-of/ba-p/1650899)"
