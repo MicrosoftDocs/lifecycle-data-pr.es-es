@@ -2,14 +2,14 @@
 metadata:
   title: Exchange Server 2013
   description: Exchange Server 2013 se rige por la Directiva de ciclo de vida fijo.
-  ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 4362a67d623b5d2b1c99600a31880e0a584137a5
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 03/30/2021
+  keywords: 
+  ms.openlocfilehash: 88cd46d7a3749f2db78a9091bd880cdcaf2c57df
+  ms.sourcegitcommit: ad4eb78cca397d384372a10fc71519bebd93c1b8
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "931323"
+  ms.lasthandoff: 04/01/2021
+  ms.locfileid: "1538121"
 name: Exchange Server 2013
 summary: >+
   Exchange Server 2013 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Directrices de mantenimiento](https://technet.microsoft.com/library/jj907309%28v)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Enterprise\n* Estándar"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Directrices de mantenimiento](/exchange/updates-for-exchange-2013-exchange-2013-help)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Enterprise\n* Estándar"
