@@ -2,14 +2,14 @@
 metadata:
   title: Windows Server 2008
   description: Windows Server 2008 se rige por la Directiva de ciclo de vida fijo.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Datacenter without Hyper-V,Enterprise,Enterprise without Hyper-V,for Itanium-Based Systems,Foundation,Standard,Standard without Hyper-V,Web
-  ms.openlocfilehash: 30b07c95bb7d37ab822e5e2238983fd70d918889
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 04/23/2021
+  keywords: 
+  ms.openlocfilehash: 9f958fbc26dddbf3e388c598e868b94eb1713541
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939537"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029856"
 name: Windows Server 2008
 summary: "Windows Server 2008 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed). \n\nEsto está disponible para las siguientes ediciones: Datacenter, Datacenter sin Hyper-V, Enterprise, Enterprise sin Hyper-V, para sistemas basados en Itanium, Foundation, Standard, Standard sin Hyper-V y Web\n\n> [!IMPORTANT]\n> El soporte técnico para este producto ha finalizado. Consulte las instrucciones de migración a continuación.\n"
 products:
@@ -20,10 +20,19 @@ supportDates:
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
+- version: Extended Security Update Year 3
+  startDate: 01/11/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2
+  startDate: 01/12/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1
+  startDate: 01/14/2020
+  endDate: 01/12/2021
 - version: Service Pack 2
   startDate: 04/29/2009
   endDate: 01/14/2020
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://aka.ms/AA1ovn4)\n* [Información de actualizaciones de Server](/windows-server/upgrade/upgrade-overview)\n* [Programa de actualizaciones de seguridad extendida (ESU)](/lifecycle/faq/extended-security-updates)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> En los tres años posteriores a la fecha de finalización del soporte técnico se podrán adquirir Actualizaciones de seguridad extendida (ESU) para las versiones Standard, Enterprise y Embedded de estas ediciones del producto a través de programas específicos de licencias por volumen. Póngase en contacto con su socio de Microsoft o equipo de cuenta para obtener más información. \n\nLanzamiento-------------------------------Fecha de inicio----Fecha de finalización\n\nActualización de seguridad extendida, tercer año---11/01/2022---10/01/2023\n\nActualización de seguridad extendida, segundo año---12/01/2021---11/01/2022\n\nActualización de seguridad extendida, primer año---14/01/2020---12/01/2021\n> [!NOTE]\n> Windows Server 2008 Foundation, publicado el 21 de mayo de 2009\n\n## <a name=\"editions\"></a>Ediciones \n* Datacenter\n* Datacenter sin Hyper-V\n* Enterprise\n* Enterprise sin Hyper-V\n* para sistemas basados en Itanium\n* Foundation\n* Estándar\n* Standard sin Hyper-V\n* Web"
+content: "> [!TIP]\n> *Hasta tres años después de la fecha de fin del soporte, se podrán adquirir actualizaciones de seguridad extendida (ESU) para las versiones Datacenter, Standard, Enterprise y Embedded de estas ediciones del producto a través de programas específicos de licencias por volumen. Póngase en contacto con su socio de Microsoft o equipo de cuenta para obtener más información. \n\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://aka.ms/AA1ovn4)\n* [Información de actualizaciones de Server](/windows-server/upgrade/upgrade-overview)\n* [Programa de actualizaciones de seguridad extendida (ESU)](/lifecycle/faq/extended-security-updates)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Windows Server 2008 Foundation, publicado el 21 de mayo de 2009\n\n## <a name=\"editions\"></a>Ediciones \n* Datacenter\n* Datacenter sin Hyper-V\n* Enterprise\n* Enterprise sin Hyper-V\n* para sistemas basados en Itanium\n* Foundation\n* Estándar\n* Standard sin Hyper-V\n* Web"

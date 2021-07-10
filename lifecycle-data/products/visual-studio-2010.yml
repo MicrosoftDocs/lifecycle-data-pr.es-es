@@ -2,20 +2,23 @@
 metadata:
   title: Visual Studio 2010
   description: Visual Studio 2010 se rige por la Directiva de ciclo de vida fijo.
-  ms.date: 01/08/2021
-  keywords: vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Tools for Office System 4.0 Runtime (VSTO),Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
-  ms.openlocfilehash: 3be7da8e44781d5d6f8224f368939d01c2aa791f
-  ms.sourcegitcommit: f421264e594745037c28e9666463fd92fd55fdec
+  ms.date: 05/28/2021
+  keywords: vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
+  ms.openlocfilehash: 3458cbccdbd3a27120cadd0dcc0df44834425297
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 01/08/2021
-  ms.locfileid: "1375267"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029967"
 name: Visual Studio 2010
 summary: >+
   Visual Studio 2010 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Se aplica a las siguientes ediciones: Agents, Todas, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Herramientas de rendimiento, Premium, Professional, Professional con MSDN, PSM, Remote Debugger, SDK, Shell (integrado), Shell (aislado), Team Agents, Team Explorer, Test Professional, Tools para Office System 4.0 Runtime (VSTO), Ultimate, Ultimate con MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express y SDK de visualización y modelado
+
+  Se aplica a las siguientes ediciones: Agents, Todas, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Herramientas de rendimiento, Premium, Professional, Professional con MSDN, PSM, Remote Debugger, SDK, Shell (integrado), Shell (aislado), Team Agents, Team Explorer, Test Professional, Ultimate, Ultimate con MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express y SDK de visualización y modelado
+
+
 
 products:
 - vs
@@ -31,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Agents\n* todas\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Herramientas de rendimiento\n* Premium\n* Professional\n* Professional con MSDN \n* PSM\n* Remote Debugger\n* SDK\n* Shell (integrado)\n* Shell (aislado)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Tools para Office System 4.0 Runtime (VSTO)\n* Ultimate\n* Ultimate con MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* SDK de visualización y modelado"
+content: "\n\n## <a name=\"links\"></a>Vínculos \n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> El runtime de Visual Studio 2010 Tools para Office (VSTO) se envía con varias versiones de Visual Studio y Microsoft Office y sigue el ciclo de vida del producto principal. También se puede descargar por separado, [aquí](https://www.microsoft.com/download/details.aspx?id=56961).\n\n\n## <a name=\"editions\"></a>Ediciones \n* Agents\n* todas\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Herramientas de rendimiento\n* Premium\n* Professional\n* Professional con MSDN \n* PSM\n* Remote Debugger\n* SDK\n* Shell (integrado)\n* Shell (aislado)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Ultimate\n* Ultimate con MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* SDK de visualización y modelado"
