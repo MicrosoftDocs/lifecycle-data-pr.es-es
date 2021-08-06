@@ -2,20 +2,23 @@
 metadata:
   title: Windows Server 2019
   description: Windows Server 2019 se rige por la Directiva de ciclo de vida fijo.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Essentials,Standard
-  ms.openlocfilehash: 8967355f6556b020b48bca6259870c05be45f09e
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 07/09/2021
+  keywords: 
+  ms.openlocfilehash: dbba3f3d791a3646dc46974ddf37f64c83207bed
+  ms.sourcegitcommit: 4e981a76c3185e8691faa3033ff05c685bba0999
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939352"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255345"
 name: Windows Server 2019
 summary: >+
   Windows Server 2019 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
+
   Esto se cumple en las siguientes ediciones: Datacenter, Essentials y Standard
+
+
 
 products:
 - windows
@@ -28,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Información del producto](/windows-server/get-started-19/whats-new-19)\n* [Actualización de la disponibilidad de Windows Server 2019](https://aka.ms/WSRelaunchBlog)\n* [Preguntas frecuentes sobre el ciclo de vida: productos de Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server 2019 y Windows Server, versión 1809 se volvieron a publicar el 13 de noviembre de 2018. Las fechas de soporte técnico se ajustaron según corresponde.\n\n## <a name=\"editions\"></a>Ediciones \n* Datacenter\n* Essentials\n* Estándar"
+content: "\n\n## <a name=\"links\"></a>Vínculos \n* [Información del producto](/windows-server/get-started-19/whats-new-19)\n* [Actualización de la disponibilidad de Windows Server 2019](https://aka.ms/WSRelaunchBlog)\n* [Preguntas frecuentes sobre el ciclo de vida: productos de Windows](/lifecycle/faq/windows)\n* [Ciclos de vida de mantenimiento de imágenes base de contenedor de Windows.](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Los contenedores lanzados con Windows Server 2019 siguen las mismas fechas de ciclo de vida.\n> [!NOTE]\n> Windows Server 2019 y Windows Server, versión 1809 se volvieron a publicar el 13 de noviembre de 2018. Las fechas de soporte técnico se ajustaron según corresponde.\n\n\n## <a name=\"editions\"></a>Ediciones \n* Datacenter\n* Essentials\n* Estándar"
