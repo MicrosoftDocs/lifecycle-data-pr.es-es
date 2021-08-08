@@ -4,18 +4,18 @@ metadata:
   description: Microsoft Connected Services Framework 3.0 se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/10/2020
   keywords: Billing Standard Business Event,Order Handling Standard Business Event,Server,Standard,Standard Server with Standard Business Events
-  ms.openlocfilehash: e9592f59a0c2be51336c7bcc16312cc0cf90686b
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.openlocfilehash: 8bfb813b4df3e2636f767d998859f3783686600b49280b02f24e151d7c85e35b
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1000001"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2485099"
 name: Microsoft Connected Services Framework 3.0
 summary: >+
   Microsoft Connected Services Framework 3.0 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Se aplica a las siguientes ediciones: Billing Standard Business Event, Order Handling Standard Business Event, Server, Standard, Standard Server with Standard Business Events
+  Esto está disponible para las siguientes ediciones: Billing Standard Business Event, Order Handling Standard Business Event, Server, Standard, Standard Server with Standard Business Events
 
 products:
 - connected-services-framework
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2006
   endDate: 07/12/2016
-content: "\n\n\n## <a name=\"editions\"></a>Ediciones \n* Billing Standard Business Event\n* Order Handling Standard Business Event\n* Server\n* Standard\n* Standard Server with Standard Business Events"
+content: "\n\n\n## <a name=\"editions\"></a>Ediciones \n* Billing Standard Business Event\n* Order Handling Standard Business Event\n* Servidor\n* Estándar\n* Standard Server with Standard Business Events"
