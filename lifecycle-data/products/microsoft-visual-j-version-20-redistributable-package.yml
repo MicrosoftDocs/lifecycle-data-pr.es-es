@@ -3,12 +3,12 @@ metadata:
   title: Paquete redistribuible de Microsoft Visual J# versión 2.0
   description: Paquete redistribuible de Microsoft Visual J# versión 2.0 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
-  ms.openlocfilehash: fa32b69860aec252b7d1068ad2e130700f9d0b92
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 7f2f73ca58d09d344d32e76e72270ec0bd8acf267ddcc4bba24ce01dc090113d
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "840356"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2498086"
 name: Paquete redistribuible de Microsoft Visual J# versión 2.0
 summary: >+
   Paquete redistribuible de Microsoft Visual J# versión 2.0 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
