@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Cliente/servidor de validación de identidad de Alacris
-  description: El cliente o servidor de validación de identidad de Alacris sigue la Directiva de ciclo de vida fijo.
+  title: Servidor/cliente de validación de identidad de Alacris
+  description: Alacris Identity Validation Server/Client se sigue a la Directiva de ciclo de vida fijo.
   ms.date: 09/10/2020
   keywords: 
-  ms.openlocfilehash: b5857ca1946f0997051c9c6113c86ee5933555d3
-  ms.sourcegitcommit: aad3374f5e2d7399cba4e705265ade76f11419d8
+  ms.openlocfilehash: 00fff8d37d6ee22056f5b7f51ddff373650e2ce59880f1eb5696447801a5dc78
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 09/21/2020
-  ms.locfileid: "1025390"
-name: Cliente/servidor de validación de identidad de Alacris
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2493202"
+name: Servidor/cliente de validación de identidad de Alacris
 summary: >
-  El cliente o servidor de validación de identidad de Alacris sigue la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed) .
+  Alacris Identity Validation Server/Client se sigue a la [Directiva de ciclo](/lifecycle/policies/fixed) de vida fijo.
 
 
 
