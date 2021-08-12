@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows XP
-  description: Windows XP se rige por la directiva de ciclo de vida fijo.
+  description: Windows XP se rige por la Directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: Home,Professional,Professional for Embedded Systems,Professional x64,Starter
-  ms.openlocfilehash: 170f3edab926203a3a5ff5573a613709588e974e
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 035c7cf7e0d224510a05a56848e61a2fbeb04306348d5ec9f69b948dd921d35f
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938797"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2510259"
 name: Windows XP
 summary: >
-  Windows XP se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+  Windows XP se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Se aplica a las siguientes ediciones: Home, Professional, Professional para Embedded Systems, Professional x64 y Starter
+  Esto está disponible para las siguientes ediciones: Home, Professional, Professional para sistemas incrustados, Professional x64 y Starter
 
 
   > [!IMPORTANT]
@@ -44,4 +44,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> La fecha de inicio de Microsoft Windows XP Professional x64 Edition fue el 24 de abril de 2005.\n\n## <a name=\"editions\"></a>Ediciones \n* Home\n* Professional\n* Professional para Embedded Systems\n* Professional x64\n* Starter"
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> La fecha de inicio de Microsoft Windows XP Professional x64 Edition fue el 24 de abril de 2005.\n\n## <a name=\"editions\"></a>Ediciones \n* Home\n* Professional\n* Professional for Embedded Systems\n* Professional x64\n* Starter"

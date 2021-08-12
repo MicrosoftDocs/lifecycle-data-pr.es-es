@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 2016 LTSB
-  description: Windows 10 2016 LTSB se rige por la directiva de ciclo de vida fijo.
+  description: Windows 10 2016 LTSB se rige por la Directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: Enterprise
-  ms.openlocfilehash: 040fad2c1269808928c0f239a64f575b98f458f6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 9b16ea02691f718f181186174f2f727dd80633b14833ee67383a25ddab70d63c
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938501"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2510703"
 name: Windows 10 2016 LTSB
 summary: >+
-  Windows 10 2016 LTSB se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+  Windows 10 2016 LTSB se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Se aplica a las siguientes ediciones: Enterprise
+  Esto está disponible para las siguientes ediciones: Enterprise
 
 products:
 - windows
