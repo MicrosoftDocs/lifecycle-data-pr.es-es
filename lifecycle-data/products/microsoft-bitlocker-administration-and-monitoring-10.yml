@@ -3,12 +3,12 @@ metadata:
   title: Microsoft BitLocker Administration and Monitoring 1.0
   description: Microsoft BitLocker Administration and Monitoring 1.0 se rige por la directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 57eba1e1f6926dc0bf600e61ea3db5c3eda1ec86
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: a5495ec3aa2870163b29535b26072574762b670112d1325f8d66b75b8a525907
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863660"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2511813"
 name: Microsoft BitLocker Administration and Monitoring 1.0
 summary: >+
   Microsoft BitLocker Administration and Monitoring 1.0 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
