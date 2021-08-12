@@ -4,18 +4,18 @@ metadata:
   description: Microsoft Visual FoxPro 8.0 Professional Edition se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: Professional
-  ms.openlocfilehash: f1a877392c50fc6e526869f7269b728b9dd727cd
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 649f23ede2dc07d76c78a7912662dc044edb8290883b255a61ee415318800cbc
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "929065"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2507595"
 name: Microsoft Visual FoxPro 8.0 Professional Edition
 summary: >+
   Microsoft Visual FoxPro 8.0 Professional Edition se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Se aplica a las siguientes ediciones: Professional
+  Esto se aplica a las siguientes ediciones: Professional
 
 products:
 - vs
