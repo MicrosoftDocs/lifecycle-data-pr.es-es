@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SDK de Kinect de Azure
-  description: El SDK de Azure Kinect sigue la Directiva moderna del ciclo de vida.
+  title: SDK Kinect Azure
+  description: Azure Kinect SDK se sigue a la Directiva de ciclo de vida moderno.
   ms.date: 07/28/2020
-  ms.openlocfilehash: cdaabc601933637a3d23f3738a98995a2966a5b5
-  ms.sourcegitcommit: aad3374f5e2d7399cba4e705265ade76f11419d8
+  ms.openlocfilehash: 087760544040bfc30d01d66794593f1182e50162cdfd999ec68c971abb80b27e
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 09/21/2020
-  ms.locfileid: "1025279"
-name: SDK de Kinect de Azure
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2496421"
+name: SDK Kinect Azure
 summary: >+
-  El SDK de Azure Kinect sigue la directiva [moderna](/lifecycle/policies/modern) del ciclo de vida.
+  Azure Kinect SDK se sigue a la [Directiva de ciclo de](/lifecycle/policies/modern) vida moderno.
 
 
 products:

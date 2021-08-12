@@ -3,12 +3,12 @@ metadata:
   title: Adxstudio Portals v6.x o anterior
   description: Adxstudio Portals v6.x o anterior se rige por la directiva de ciclo de vida fijo.
   ms.date: 08/28/2020
-  ms.openlocfilehash: d30568ac94980a8ea178e1971f3841f5093514fa
-  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
+  ms.openlocfilehash: 44eb5c1b40bd2377598190ccf40a6d9fc8499ff73a481011515437d1124b3453
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 08/28/2020
-  ms.locfileid: "924440"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2496976"
 name: Adxstudio Portals v6.x o anterior
 summary: "Adxstudio Portals v6.x o anterior se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed). \n\n\n"
 products:

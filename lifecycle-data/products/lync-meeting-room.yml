@@ -3,12 +3,12 @@ metadata:
   title: Sala de reuniones de Lync
   description: La sala de reuniones de Lync se rige por la directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 92fdfd4bb47c96e2fccf4ffa0bcf96a332a92a64
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 4acb3669325645b29b0509706a032c85f0ac5badd5863c7f2099f5b11c3cef77
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863488"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2519583"
 name: Sala de reuniones de Lync
 summary: "La sala de reuniones de Lync se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).\n\n\n> [!IMPORTANT]\n> El soporte técnico para este producto ha finalizado. Consulte las instrucciones de migración. \n"
 products:
