@@ -3,33 +3,42 @@ metadata:
   title: Microsoft Internet Security and Acceleration Server 2004
   description: Microsoft Internet Security and Acceleration Server 2004 se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: es-ES
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "933506"
+  keywords: 'Enterprise,Standard'
 name: Microsoft Internet Security and Acceleration Server 2004
-summary: "Microsoft Internet Security and Acceleration Server 2004 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).\n\nEsto se cumple en las siguientes ediciones: Enterprise y Standard\n\n> [!IMPORTANT]\n> El soporte técnico para este producto ha finalizado. \n"
+summary: |
+  Microsoft Internet Security and Acceleration Server 2004 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+
+  Esto se cumple en las siguientes ediciones: Enterprise y Standard
+
+  > [!IMPORTANT]
+  > El soporte técnico para este producto ha finalizado. 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 09/08/2004
   end: 04/13/2010
   extendedEnd: 04/14/2015
 releases:
-- version: Service Pack 3
-  startDate: 10/29/2007
-  endDate: 04/14/2015
-- version: Service Pack 2
-  startDate: 01/31/2006
-  endDate: 01/13/2009
-- version: Service Pack 1
-  startDate: 03/11/2005
-  endDate: 04/10/2007
-- version: Original Release
-  startDate: 09/08/2004
-  endDate: 03/11/2006
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Instrucciones para la migración](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Enterprise\n* Estándar"
+  - version: Service Pack 3
+    startDate: 10/29/2007
+    endDate: 04/14/2015
+  - version: Service Pack 2
+    startDate: 01/31/2006
+    endDate: 01/13/2009
+  - version: Service Pack 1
+    startDate: 03/11/2005
+    endDate: 04/10/2007
+  - version: Original Release
+    startDate: 09/08/2004
+    endDate: 03/11/2006
+content: |
+
+  ## <a name="links"></a>Vínculos 
+  * [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)
+  * [Instrucciones para la migración](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)
+
+
+  ## <a name="editions"></a>Ediciones 
+  * Enterprise
+  * Estándar

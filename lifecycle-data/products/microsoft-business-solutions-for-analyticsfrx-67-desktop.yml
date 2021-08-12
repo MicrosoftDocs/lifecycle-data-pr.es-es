@@ -3,26 +3,24 @@ metadata:
   title: 'Microsoft Business Solutions para Analytics: FRx 6.7 Escritorio'
   description: 'Microsoft Business Solutions para Analytics: FRx 6.7 Escritorio se rige por la directiva de ciclo de vida fijo.'
   ms.date: 07/28/2020
-  ms.openlocfilehash: ba731ed0c09140b17a3ebf628e7383065aa65714
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: es-ES
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "840860"
 name: 'Microsoft Business Solutions para Analytics: FRx 6.7 Escritorio'
-summary: >+
+summary: |+
   Microsoft Business Solutions para Analytics: FRx 6.7 Escritorio se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:
-- dynamics
+  - dynamics
 policyType: fixed
 supportDates:
   start: 05/30/2004
   end: 07/14/2009
   extendedEnd: 07/08/2014
 releases:
-- version: Original Release
-  startDate: 05/30/2004
-  endDate: 07/08/2014
-content: "\n\n> [!NOTE]\n> El soporte para FRx finaliza en la fecha indicada, a menos que se distribuya como un componente de un producto de Dynamics. Cuando se distribuya con un producto de Dynamics, las fechas del ciclo de vida de Dynamics reemplazan a las fechas de FRx."
+  - version: Original Release
+    startDate: 05/30/2004
+    endDate: 07/08/2014
+content: |+
+
+
+  > [!NOTE]
+  > El soporte para FRx finaliza en la fecha indicada, a menos que se distribuya como un componente de un producto de Dynamics. Cuando se distribuya con un producto de Dynamics, las fechas del ciclo de vida de Dynamics reemplazan a las fechas de FRx.
