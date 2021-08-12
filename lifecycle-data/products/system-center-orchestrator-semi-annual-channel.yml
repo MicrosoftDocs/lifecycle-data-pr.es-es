@@ -3,12 +3,12 @@ metadata:
   title: Canal semestral de System Center Orchestrator
   description: El canal semestral de System Center Orchestrator se rige por la directiva de ciclo de vida moderno.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9b854c8bacdf528bc85b87d07b03664a62fd04c2
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.openlocfilehash: de277b59d1e0acc8950a1366199747a3a3213c0c95f60a87219d48c8bc4789c2
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "872479"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2515735"
 name: Canal semestral de System Center Orchestrator
 summary: >
   El canal semestral de System Center Orchestrator se rige por la directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
