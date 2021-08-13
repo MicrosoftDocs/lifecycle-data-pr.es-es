@@ -3,36 +3,37 @@ metadata:
   title: Virtual PC 2004
   description: Virtual PC 2004 se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/10/2020
-  keywords: Express,Standard
-  ms.openlocfilehash: 858fa64b63de7edadffbc6d4514d1a9f7ea6e42a
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: es-ES
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1000887"
+  keywords: 'Express,Standard'
 name: Virtual PC 2004
-summary: >
+summary: |
   Virtual PC 2004 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
-
 
   Se aplica a las siguientes ediciones: Express y Standard
 
-
   > [!IMPORTANT]
-
   > El soporte técnico para este producto ha finalizado.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 01/20/2004
   end: 04/14/2009
   extendedEnd: 04/08/2014
 releases:
-- version: Service Pack 1
-  startDate: 08/30/2006
-  endDate: 04/08/2014
-- version: Original Release
-  startDate: 01/20/2004
-  endDate: 10/09/2007
-content: "> [!TIP]\n> Microsoft Virtual PC 2004 Express fue lanzado el 13 de abril de 2006.\n\n## <a name=\"links\"></a>Vínculos \n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Express\n* Estándar"
+  - version: Service Pack 1
+    startDate: 08/30/2006
+    endDate: 04/08/2014
+  - version: Original Release
+    startDate: 01/20/2004
+    endDate: 10/09/2007
+content: |
+  > [!TIP]
+  > Microsoft Virtual PC 2004 Express fue lanzado el 13 de abril de 2006.
+
+  ## <a name="links"></a>Vínculos 
+  * [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Ediciones 
+  * Express
+  * Estándar
