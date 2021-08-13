@@ -1,37 +1,54 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2012
-  description: Visual Studio 2012 se rige por la directiva de ciclo de vida fijo.
+  description: Visual Studio 2012 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
-  keywords: Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions
-  ms.openlocfilehash: 31ae5780a4e6f55abc3d232aafdd43fa70f32be2
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: es-ES
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937502"
+  keywords: 'Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions'
 name: Visual Studio 2012
-summary: >+
-  Visual Studio 2012 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+summary: |+
+  Visual Studio 2012 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
-
-  Se aplica a las siguientes ediciones: Agents, Community 2013, Express para Web, Express para Windows 8, Express para escritorio de Windows, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Herramientas remotas, Shell (integrado), Shell (aislado), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable y extensiones de Web Tools
+  Esto está disponible para las siguientes ediciones: Agents, Community 2013, Express para Web, Express para Windows 8, Express para escritorio de Windows, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Herramientas remotas, Shell (integrado), Shell (aislado), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable y Web Tools Extensions
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 10/31/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-- version: Update 5
-  startDate: 08/21/2015
-  endDate: 01/10/2023
-- version: Update 4
-  startDate: 11/12/2013
-  endDate: 10/08/2019
-- version: Original Release
-  startDate: 10/31/2012
-  endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Ciclo de vida y mantenimiento de los productos de Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Agents\n* Community 2013\n* Express para Web\n* Express para Windows 8\n* Express para escritorio de Windows\n* IntelliTrace Collector\n* Microsoft Azure Tools\n* Premium\n* Professional\n* Herramientas remotas\n* Shell (integrado)\n* Shell (aislado)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Extensiones de Web Tools"
+  - version: Update 5
+    startDate: 08/21/2015
+    endDate: 01/10/2023
+  - version: Update 4
+    startDate: 11/12/2013
+    endDate: 10/08/2019
+  - version: Original Release
+    startDate: 10/31/2012
+    endDate: 01/10/2023
+content: |
+
+  ## <a name="links"></a>Vínculos 
+  * [Ciclo de vida y mantenimiento de los productos de Visual Studio](/visualstudio/productinfo/vs-servicing-vs)
+
+
+  ## <a name="editions"></a>Ediciones 
+  * Agents
+  * Community 2013
+  * Express para Web
+  * Express para Windows 8
+  * Express para escritorio de Windows
+  * IntelliTrace Collector
+  * Microsoft Azure Tools
+  * Premium
+  * Professional
+  * Herramientas remotas
+  * Shell (integrado)
+  * Shell (aislado)
+  * SQL Server Data Tools
+  * Team Explorer
+  * Test Professional 2013
+  * Ultimate
+  * Visual C++ Redistributable
+  * Extensiones de Web Tools

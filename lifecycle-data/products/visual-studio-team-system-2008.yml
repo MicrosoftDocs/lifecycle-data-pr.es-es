@@ -1,38 +1,44 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team System 2008
-  description: Visual Studio Team System 2008 se rige por la directiva de ciclo de vida fijo.
+  description: Visual Studio Team System 2008 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 09/02/2020
-  keywords: All,Architecture,Database,Development,Team Explorer,Team Test Load Agent,TFS
-  ms.openlocfilehash: 41a7a602e0aea666c7da8593af19243a881ec064
-  ms.sourcegitcommit: 27cfc07314fb17289e3d7cad15c37b591d53621a
-  ms.translationtype: HT
-  ms.contentlocale: es-ES
-  ms.lasthandoff: 09/03/2020
-  ms.locfileid: "945314"
+  keywords: 'All,Architecture,Database,Development,Team Explorer,Team Test Load Agent,TFS'
 name: Visual Studio Team System 2008
-summary: >
-  Visual Studio Team System 2008 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+summary: |
+  Visual Studio Team System 2008 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
-
-  Se aplica a las siguientes ediciones: Todas, Architecture, Database, Development, Team Explorer, Team Test Load Agent y TFS
-
+  Esto se aplica a las siguientes ediciones: Todos, Architecture, Database, Development, Team Explorer, Team Test Load Agent y TFS
 
   > [!IMPORTANT]
-
   > El soporte técnico ha finalizado. Consulte las instrucciones de migración a continuación.
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 02/19/2008
   end: 04/09/2013
   extendedEnd: 04/10/2018
 releases:
-- version: Service Pack 1
-  startDate: 08/11/2008
-  endDate: 04/10/2018
-- version: Original Release
-  startDate: 02/19/2008
-  endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Instrucciones para la migración](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Todas\n* Architecture\n* Database\n* Development\n* Team Explorer\n* Team Test Load Agent\n* TFS"
+  - version: Service Pack 1
+    startDate: 08/11/2008
+    endDate: 04/10/2018
+  - version: Original Release
+    startDate: 02/19/2008
+    endDate: 10/13/2009
+content: |
+
+  ## <a name="links"></a>Vínculos 
+  * [Instrucciones para la migración](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)
+  * [Instrucciones para la migración](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)
+  * [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Ediciones 
+  * todas
+  * Arquitectura
+  * Database
+  * Desarrollo
+  * Team Explorer
+  * Team Test Load Agent
+  * TFS

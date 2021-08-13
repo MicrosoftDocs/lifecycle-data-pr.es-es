@@ -1,11 +1,13 @@
 ### YamlMime:ContentBrowser
 title: Buscar información sobre el ciclo de vida de los productos y servicios
 browseType: lifecycle
-summary: "\n> [!NOTE]\n> Exportar la información del ciclo de vida desde la página [Exportación del ciclo de vida](/lifecycle/products/export).\n\n\nLos ciclos de vida de Microsoft proporcionan directrices coherentes y predecibles para el soporte técnico a lo largo de la vida útil de un producto, lo que ayuda a los clientes a administrar sus inversiones y entornos de TI mientras planifican estratégicamente el futuro.\n\n\nLuego, busque en la lista de productos y servicios comerciales de Microsoft y seleccione el resultado para encontrar los plazos de soporte técnico y mantenimiento, las actualizaciones necesarias, la información de migración y los requisitos del sistema."
-metadata:
-  ms.openlocfilehash: c874ff14f0c8c755cda09d9e1580e196ae601e7e
-  ms.sourcegitcommit: adca90be401b37b1ccfe6a6ce3fe265bd2e1f0de
-  ms.translationtype: HT
-  ms.contentlocale: es-ES
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "943051"
+summary: |-
+
+  > [!NOTE]
+  > Exportar la información del ciclo de vida desde la página [Exportación del ciclo de vida](/lifecycle/products/export).
+
+
+  Los ciclos de vida de Microsoft proporcionan directrices coherentes y predecibles para el soporte técnico a lo largo de la vida útil de un producto, lo que ayuda a los clientes a administrar sus inversiones y entornos de TI mientras planifican estratégicamente el futuro.
+
+
+  Luego, busque en la lista de productos y servicios comerciales de Microsoft y seleccione el resultado para encontrar los plazos de soporte técnico y mantenimiento, las actualizaciones necesarias, la información de migración y los requisitos del sistema.
