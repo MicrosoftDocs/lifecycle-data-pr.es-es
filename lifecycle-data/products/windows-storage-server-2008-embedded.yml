@@ -1,31 +1,39 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2008 Embedded
-  description: Windows Storage Server 2008 Embedded se rige por la directiva de ciclo de vida fijo.
+  description: Windows Storage Server 2008 Embedded se rige por la Directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
-  keywords: 32 Bit,64 Bit,Basic,Basic 32-Bit,Enterprise,Standard,Workgroup
-  ms.openlocfilehash: 6615fb87d3cf9d0ad0dabec14b5cb3b2fb52b8df
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: es-ES
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939093"
+  keywords: '32 Bit,64 Bit,Basic,Basic 32-Bit,Enterprise,Standard,Workgroup'
 name: Windows Storage Server 2008 Embedded
-summary: >+
-  Windows Storage Server 2008 Embedded se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+summary: |+
+  Windows Storage Server 2008 Embedded se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
-
-  Se aplica a las siguientes ediciones: de 32 bits, de 64 bits, Basic, Basic de 32 bits, Enterprise, Standard y Workgroup
+  Esto está disponible para las siguientes ediciones: de 32 Bit, de 64 Bit, Basic, Basic de 32 bits, Enterprise, Standard y Workgroup
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 07/19/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Original Release
-  startDate: 07/19/2009
-  endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Este producto llegó al fin del soporte. Consulte las instrucciones de migración a continuación.\n\n## <a name=\"editions\"></a>Ediciones \n* de 32 bits\n* de 64 bits\n* Basic\n* Basic de 32 bits\n* Enterprise\n* Standard\n* Workgroup"
+  - version: Original Release
+    startDate: 07/19/2009
+    endDate: 07/12/2011
+content: |
+
+  ## <a name="links"></a>Vínculos 
+  * [Instrucciones para la migración](/archive/blogs/storageserver/announcing-windows-storage-server-2016)
+
+  > [!NOTE]
+  > Este producto llegó al fin del soporte. Consulte las instrucciones de migración a continuación.
+
+  ## <a name="editions"></a>Ediciones 
+  * 32 bits
+  * 64 bits
+  * Basic
+  * Basic de 32 bits
+  * Enterprise
+  * Estándar
+  * Workgroup

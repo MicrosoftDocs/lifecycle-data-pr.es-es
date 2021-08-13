@@ -4,23 +4,28 @@ metadata:
   description: Microsoft Office Communicator 2005 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 63747b4e26cc52df003704a5cda3a3bcd637a8c1
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: es-ES
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936281"
 name: Microsoft Office Communicator 2005
-summary: "Microsoft Office Communicator 2005 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).\n\nSe aplica a las siguientes ediciones: Standard\n\n> [!IMPORTANT]\n> El soporte técnico para este producto ha finalizado. \n"
+summary: |
+  Microsoft Office Communicator 2005 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+
+  Se aplica a las siguientes ediciones: Standard
+
+  > [!IMPORTANT]
+  > El soporte técnico para este producto ha finalizado. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 08/13/2005
   end: 10/12/2010
   extendedEnd: 10/13/2015
 releases:
-- version: Original Release
-  startDate: 08/13/2005
-  endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Ediciones \n* Estándar"
+  - version: Original Release
+    startDate: 08/13/2005
+    endDate: 10/13/2015
+content: |
+
+
+
+  ## <a name="editions"></a>Ediciones 
+  * Estándar
