@@ -3,25 +3,25 @@ metadata:
   title: Microsoft Forefront Client Security
   description: Microsoft Forefront Client Security se rige por la directiva de ciclo de vida fijo.
   ms.date: 08/28/2020
-  ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
-  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: HT
-  ms.contentlocale: es-ES
-  ms.lasthandoff: 08/28/2020
-  ms.locfileid: "924273"
 name: Microsoft Forefront Client Security
-summary: >+
+summary: |+
   Microsoft Forefront Client Security se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 08/02/2007
   extendedEnd: 07/14/2015
 releases:
-- version: Original Release
-  startDate: 08/02/2007
-  endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>Vínculos \n* [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Forefront Client Security se descontinuó el 14 de julio de 2015. Las actualizaciones de definiciones antimalware y antispyware ya no estarán disponibles después del fin de soporte de la versión del producto. Considere System Center Endpoint Protection como posible reemplazo."
+  - version: Original Release
+    startDate: 08/02/2007
+    endDate: 07/14/2015
+content: |+
+
+  ## <a name="links"></a>Vínculos 
+  * [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)
+
+  > [!NOTE]
+  > Forefront Client Security se descontinuó el 14 de julio de 2015. Las actualizaciones de definiciones antimalware y antispyware ya no estarán disponibles después del fin de soporte de la versión del producto. Considere System Center Endpoint Protection como posible reemplazo.

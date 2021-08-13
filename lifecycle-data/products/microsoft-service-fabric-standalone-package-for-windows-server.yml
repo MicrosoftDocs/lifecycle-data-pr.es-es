@@ -3,23 +3,20 @@ metadata:
   title: Paquete independiente de Service Fabric para Windows Server
   description: El paquete independiente de Service Fabric para Windows Server se rige por la Directiva de ciclo de vida moderno.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d1876355f78b6c35bded38d9b1cbd039d4f0cd91
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: es-ES
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863647"
 name: Paquete independiente de Service Fabric para Windows Server
-summary: >+
+summary: |+
   El paquete independiente de Service Fabric para Windows Server se rige por la Directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
 
 
 products:
-- windows
+  - windows
 policyType: modern-online
 supportDates:
   start: 09/26/2016
 releases:
-- version: Original Release
-  startDate: 09/26/2016
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Información de mantenimiento](/azure/service-fabric/service-fabric-support)"
+  - version: Original Release
+    startDate: 09/26/2016
+content: |+
+
+  ## <a name="links"></a>Vínculos 
+  * [Información de mantenimiento](/azure/service-fabric/service-fabric-support)
