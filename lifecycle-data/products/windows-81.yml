@@ -3,29 +3,35 @@ metadata:
   title: Windows 8.1
   description: Windows 8.1 se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/10/2020
-  keywords: Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL
-  ms.openlocfilehash: fdf53195e79000456e3d4009b2f71bbcd229ac88
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: es-ES
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002295"
+  keywords: 'Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL'
 name: Windows 8.1
-summary: >+
+summary: |+
   Windows 8.1 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
-
 
   Esto está disponible para las siguientes ediciones: Enterprise, Enterprise N, N, Pro con Media Center, Professional, Professional N y SL
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/13/2013
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-- version: Original Release
-  startDate: 11/13/2013
-  endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Preguntas frecuentes sobre el ciclo de vida: productos de Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Enterprise\n* Enterprise N\n* N\n* Pro con Media Center\n* Professional\n* Professional N\n* SL"
+  - version: Original Release
+    startDate: 11/13/2013
+    endDate: 01/10/2023
+content: |
+
+  ## <a name="links"></a>Vínculos 
+  * [Preguntas frecuentes sobre el ciclo de vida: productos de Windows](/lifecycle/faq/windows)
+
+
+  ## <a name="editions"></a>Ediciones 
+  * Enterprise
+  * Enterprise N
+  * N
+  * Pro con Media Center
+  * Professional
+  * Professional N
+  * SL
