@@ -3,26 +3,25 @@ metadata:
   title: Windows Server Update Services para Windows Server 2012 R2
   description: Windows Server Update Services para Windows Server 2012 R2 se rige por la Directiva de ciclo de vida de componentes.
   ms.date: 01/22/2021
-  keywords: 
-  ms.openlocfilehash: efa11337dbeba8601a1ef70ef003f709f286e6b6
-  ms.sourcegitcommit: cea6a4b7fe734aba8b534ecdef302cb56c5f7cca
-  ms.translationtype: HT
-  ms.contentlocale: es-ES
-  ms.lasthandoff: 01/23/2021
-  ms.locfileid: "1416767"
+  keywords: null
 name: Windows Server Update Services para Windows Server 2012 R2
-summary: >+
+summary: |+
   Windows Server Update Services para Windows Server 2012 R2 se rige por la Directiva de ciclo de vida de [componentes](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 11/25/2013
   end: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 11/25/2013
-  endDate: 10/10/2023
-content: "> [!TIP]\n> Este componente se rige por el ciclo de vida de su producto principal, Windows Server 2012 R2.\n\n## <a name=\"links\"></a>Vínculos \n* [Windows Server 2012 R2](/lifecycle/)"
+  - version: Original Release
+    startDate: 11/25/2013
+    endDate: 10/10/2023
+content: |+
+  > [!TIP]
+  > Este componente se rige por el ciclo de vida de su producto principal, Windows Server 2012 R2.
+
+  ## <a name="links"></a>Vínculos 
+  * [Windows Server 2012 R2](/lifecycle/)
