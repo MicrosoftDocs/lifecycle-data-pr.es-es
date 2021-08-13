@@ -1,40 +1,43 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 4.6 para escritorios de Windows
-  description: Microsoft Application Virtualization Hosting 4.6 para escritorios de Windows se rige por la directiva de ciclo de vida fijo.
+  title: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops
+  description: Microsoft Application Virtualization Hosting 4.6 para escritorio de Windows se rige por la Directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
-  ms.openlocfilehash: 8a32729ae5fbf7f57a14b6a6ec048c7a1f412a52
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: es-ES
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935467"
-name: Microsoft Application Virtualization Hosting 4.6 para escritorios de Windows
-summary: >+
-  Microsoft Application Virtualization Hosting 4.6 para escritorios de Windows se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+name: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops
+summary: |+
+  Microsoft Application Virtualization Hosting 4.6 para escritorio de Windows se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
-
-  Se aplica a las siguientes ediciones: para escritorios de Windows
+  Esto se cumple en las siguientes ediciones: para escritorio de Windows
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/27/2010
   end: 07/14/2015
   extendedEnd: 07/14/2020
 releases:
-- version: Service Pack 3
-  startDate: 12/02/2013
-  endDate: 07/14/2020
-- version: Service Pack 2
-  startDate: 10/01/2012
-  endDate: 01/13/2015
-- version: Service Pack 1
-  startDate: 01/26/2011
-  endDate: 10/08/2013
-- version: Original Release
-  startDate: 05/27/2010
-  endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Información sobre el producto y la migración](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Dado que el cliente de App-V 4.6 utiliza el servidor de App-V 4.5, este último seguirá recibiendo soporte técnico según las fechas del ciclo de vida de App-V 4.6 cuando se use con el cliente de App-V 4.6 compatible.\n\n## <a name=\"editions\"></a>Ediciones \n* para escritorios de Windows"
+  - version: Service Pack 3
+    startDate: 12/02/2013
+    endDate: 07/14/2020
+  - version: Service Pack 2
+    startDate: 10/01/2012
+    endDate: 01/13/2015
+  - version: Service Pack 1
+    startDate: 01/26/2011
+    endDate: 10/08/2013
+  - version: Original Release
+    startDate: 05/27/2010
+    endDate: 04/10/2012
+content: |
+
+  ## <a name="links"></a>Vínculos 
+  * [Información sobre el producto y la migración](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Dado que el cliente de App-V 4.6 utiliza el servidor de App-V 4.5, este último seguirá recibiendo soporte técnico según las fechas del ciclo de vida de App-V 4.6 cuando se use con el cliente de App-V 4.6 compatible.
+
+  ## <a name="editions"></a>Ediciones 
+  * para escritorios de Windows

@@ -3,36 +3,35 @@ metadata:
   title: Windows HPC Server 2008
   description: Windows HPC Server 2008 se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/10/2020
-  keywords: Standard,without Hyper-V
-  ms.openlocfilehash: ed96715e1adfcebc1837d68340bd186533fb30e9
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: es-ES
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002184"
+  keywords: 'Standard,without Hyper-V'
 name: Windows HPC Server 2008
-summary: >
+summary: |
   Windows HPC Server 2008 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
-
 
   Se aplica a las siguientes ediciones: Standard y sin Hyper-V
 
-
   > [!IMPORTANT]
-
   > El soporte técnico ha finalizado. Consulte las instrucciones de migración a continuación.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/29/2008
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Service Pack 2
-  startDate: 04/29/2009
-  endDate: 01/14/2020
-- version: Original Release
-  startDate: 12/30/2008
-  endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Estándar\n* sin Hyper-V"
+  - version: Service Pack 2
+    startDate: 04/29/2009
+    endDate: 01/14/2020
+  - version: Original Release
+    startDate: 12/30/2008
+    endDate: 07/12/2011
+content: |
+
+  ## <a name="links"></a>Vínculos 
+  * [Instrucciones para la migración](https://aka.ms/AA1ovn4)
+
+
+  ## <a name="editions"></a>Ediciones 
+  * Estándar
+  * sin Hyper-V

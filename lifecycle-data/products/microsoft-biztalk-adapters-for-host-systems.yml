@@ -3,26 +3,23 @@ metadata:
   title: Adaptadores Microsoft BizTalk para sistemas host
   description: Los adaptadores de Microsoft BizTalk para sistemas host se rigen por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 8511f6bc704fc691f71e2057ce4a72da3228f163
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: es-ES
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "840872"
 name: Adaptadores Microsoft BizTalk para sistemas host
-summary: >+
+summary: |+
   Los adaptadores de Microsoft BizTalk para sistemas host se rigen por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 01/27/2007
   end: 04/10/2012
   extendedEnd: 04/11/2017
 releases:
-- version: Original Release
-  startDate: 01/27/2007
-  endDate: 04/11/2017
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)"
+  - version: Original Release
+    startDate: 01/27/2007
+    endDate: 04/11/2017
+content: |+
+
+  ## <a name="links"></a>Vínculos 
+  * [Instrucciones para la migración](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)
