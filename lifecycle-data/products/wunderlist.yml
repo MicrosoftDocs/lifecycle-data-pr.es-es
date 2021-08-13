@@ -3,23 +3,25 @@ metadata:
   title: Wunderlist
   description: Wunderlist se rige por la Directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
-  ms.openlocfilehash: dd978a839e950577c0854ee914df4114d50a9865
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: es-ES
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863409"
 name: Wunderlist
-summary: "Wunderlist se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).\n\n\n> [!IMPORTANT]\n> El soporte técnico para este producto está sujeto a los términos de su adquisición. El soporte técnico para este producto ha finalizado. Consulte las instrucciones de migración a continuación. \n"
+summary: |
+  Wunderlist se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+
+
+  > [!IMPORTANT]
+  > El soporte técnico para este producto está sujeto a los términos de su adquisición. El soporte técnico para este producto ha finalizado. Consulte las instrucciones de migración a continuación. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 06/02/2015
   end: 05/06/2020
   extendedEnd: 05/06/2020
 releases:
-- version: Original Release
-  startDate: 06/02/2015
-  endDate: 05/06/2020
-content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"
+  - version: Original Release
+    startDate: 06/02/2015
+    endDate: 05/06/2020
+content: |+
+
+  ## <a name="links"></a>Vínculos 
+  * [Instrucciones para la migración](https://www.wunderlist.com/blog/join-us-on-our-new-journey)
