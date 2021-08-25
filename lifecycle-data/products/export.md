@@ -1,14 +1,14 @@
 ---
 title: Exportación de datos del ciclo de vida
 description: Exportar información del ciclo de vida del producto
-ms.date: 01/06/2021
+ms.date: 08/18/2021
 layout: ContentPage
-ms.openlocfilehash: bb0772b4fd406f9567737896de01daedeb25333b5d6846137f164c4ef86ed314
-ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+ms.openlocfilehash: 52ec8ddb6dc80160f33fc5f865708bf0791c4033
+ms.sourcegitcommit: e36d9992f5d1546c5f6d4cf073e73abfca182815
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "2498974"
+ms.lasthandoff: 08/18/2021
+ms.locfileid: "3101959"
 ---
 # <a name="lifecycle-data-export"></a>Exportación de datos del ciclo de vida
 
@@ -102,3 +102,4 @@ Seleccione un año para ver los productos que alcanzarán el fin de soporte. Not
 > - [2028](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2028))
 > - [2029](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2029))
 > - [2030](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2030))
+> - [2031](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2031))
