@@ -2,54 +2,40 @@
 metadata:
   title: Windows Server 2008 R2
   description: Windows Server 2008 R2 se rige por la Directiva de ciclo de vida fijo.
-  ms.date: 04/23/2021
-  keywords: null
+  ms.date: 08/31/2021
+  keywords: 
+  ms.openlocfilehash: 0457a4bed39d146651578578c7e76dbb60d45ac3
+  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
+  ms.translationtype: HT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 09/21/2021
+  ms.locfileid: "3460585"
 name: Windows Server 2008 R2
-summary: |
-  Windows Server 2008 R2 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
-
-  Esto está disponible para las siguientes ediciones: Datacenter, Enterprise, HPC Edition, sistemas basados en Itanium, Standard y Web
-
-  > [!IMPORTANT]
-  > El soporte técnico para este producto ha finalizado. Consulte las instrucciones de migración a continuación. 
+summary: "Windows Server 2008 R2 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).\n\n\nEsto está disponible para las siguientes ediciones: Datacenter, Enterprise, HPC Edition, sistemas basados en Itanium, Standard y Web\n\n\n> [!IMPORTANT]\n> El soporte técnico para este producto ha finalizado. Consulte las instrucciones de migración a continuación. \n\n"
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
   start: 10/22/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-  - version: Extended Security Update Year 3
-    startDate: 01/11/2022
-    endDate: 01/10/2023
-  - version: Extended Security Update Year 2
-    startDate: 01/12/2021
-    endDate: 01/11/2022
-  - version: Extended Security Update Year 1
-    startDate: 01/14/2020
-    endDate: 01/12/2021
-  - version: Service Pack 1
-    startDate: 02/22/2011
-    endDate: 01/14/2020
-  - version: Original Release
-    startDate: 10/22/2009
-    endDate: 04/09/2013
-content: |
-  > [!TIP]
-  > *Hasta tres años después de la fecha de fin del soporte, se podrán adquirir actualizaciones de seguridad extendida (ESU) para las versiones Datacenter, Standard, Enterprise y Embedded de estas ediciones del producto a través de programas específicos de licencias por volumen. Póngase en contacto con su socio de Microsoft o equipo de cuenta para obtener más información. 
-
-  ## <a name="links"></a>Vínculos 
-  * [Instrucciones para la migración](https://aka.ms/AA1ovn4)
-  * [Información de actualizaciones de Server](/windows-server/upgrade/upgrade-overview)
-  * [Programa de actualizaciones de seguridad extendida (ESU)](/lifecycle/faq/extended-security-updates)
-  * [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)
-
-
-  ## <a name="editions"></a>Ediciones 
-  * Datacenter
-  * Enterprise
-  * HPC Edition
-  * Sistemas basados en Itanium
-  * Estándar
-  * Web
+- version: Extended Security Update Year 4 (Azure only)
+  startDate: 01/11/2023
+  endDate: 01/09/2024
+- version: Extended Security Update Year 3
+  startDate: 01/12/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2
+  startDate: 01/13/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1
+  startDate: 01/14/2020
+  endDate: 01/12/2021
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "> [!TIP]\n> *Hasta tres años después de la fecha de fin del soporte, se podrán adquirir actualizaciones de seguridad extendida (ESU) para las versiones Datacenter, Standard, Enterprise y Embedded de estas ediciones del producto a través de programas específicos de licencias por volumen. Póngase en contacto con su socio de Microsoft o equipo de cuenta para obtener más información. \n\n\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://aka.ms/AA1ovn4)\n* [Información de actualizaciones de Server](/windows-server/upgrade/upgrade-overview)\n* [Programa de actualizaciones de seguridad extendida (ESU)](/lifecycle/faq/extended-security-updates)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n\n\n## <a name=\"editions\"></a>Ediciones \n* Datacenter\n* Enterprise\n* HPC Edition\n* Sistemas basados en Itanium\n* Estándar\n* Web"

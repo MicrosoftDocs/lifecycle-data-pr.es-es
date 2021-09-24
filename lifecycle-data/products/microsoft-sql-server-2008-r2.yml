@@ -2,64 +2,54 @@
 metadata:
   title: Microsoft SQL Server 2008 R2
   description: Microsoft SQL Server 2008 R2 se rige por la Directiva de ciclo de vida fijo.
-  ms.date: 04/23/2021
-  keywords: null
+  ms.date: 08/31/2021
+  keywords: 
+  ms.openlocfilehash: 8b01fd4da97f575b8fb19e16fd4aa1a221140af8
+  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
+  ms.translationtype: HT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 09/21/2021
+  ms.locfileid: "3460733"
 name: Microsoft SQL Server 2008 R2
-summary: |+
+summary: >+
   Microsoft SQL Server 2008 R2 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+
+
 
   Esto está disponible para las siguientes ediciones: Datacenter, Developer, Enterprise, Express, Express con Advanced Services, para Embedded Systems, Standard, Standard Edition para Pequeñas Empresas, Web y Workgroup
 
+
+
 products:
-  - sql-server
+- sql-server
 policyType: fixed
 supportDates:
   start: 07/20/2010
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-  - version: Extended Security Update Year 3
-    startDate: 07/14/2021
-    endDate: 07/12/2022
-  - version: Extended Security Update Year 2
-    startDate: 07/15/2020
-    endDate: 07/13/2021
-  - version: Extended Security Update Year 1
-    startDate: 07/09/2019
-    endDate: 07/14/2020
-  - version: Service Pack 3
-    startDate: 07/07/2014
-    endDate: 07/09/2019
-  - version: Service Pack 2
-    startDate: 07/26/2012
-    endDate: 10/13/2015
-  - version: Service Pack 1
-    startDate: 07/12/2011
-    endDate: 10/08/2013
-  - version: Original Release
-    startDate: 07/20/2010
-    endDate: 07/10/2012
-content: |
-  > [!TIP]
-  > *Hasta tres años después de la fecha de finalización del soporte, se podrán adquirir actualizaciones de seguridad extendidas (ESU) para las ediciones Datacenter, Standard, Enterprise y Embedded de este producto. Póngase en contacto con su socio de Microsoft o equipo de cuenta para obtener más información. 
-
-  ## <a name="links"></a>Vínculos 
-  * [Opciones de finalización de soporte técnico de SQL Server 2008 y Windows Server 2008](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)
-  * [Finalización de soporte de SQL Server](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)
-  * [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)
-  * [Programa de actualizaciones de seguridad extendida (ESU)](/lifecycle/faq/extended-security-updates)
-
-  > [!NOTE]
-  > SP2 será compatible hasta el 9/7/2019 únicamente para IA64. Consulte el blog SQL Release Services para obtener más información.
-
-  ## <a name="editions"></a>Ediciones 
-  * Datacenter
-  * Developer
-  * Enterprise
-  * Express
-  * Express with Advanced Services
-  * para Embedded Systems
-  * Estándar
-  * Standard Edition para Pequeñas Empresas
-  * Web
-  * Workgroup
+- version: Extended Security Update Year 4 (Azure only)
+  startDate: 07/13/2022
+  endDate: 07/11/2023
+- version: Extended Security Update Year 3
+  startDate: 07/14/2021
+  endDate: 07/12/2022
+- version: Extended Security Update Year 2
+  startDate: 07/15/2020
+  endDate: 07/13/2021
+- version: Extended Security Update Year 1
+  startDate: 07/09/2019
+  endDate: 07/14/2020
+- version: Service Pack 3
+  startDate: 07/07/2014
+  endDate: 07/09/2019
+- version: Service Pack 2
+  startDate: 07/26/2012
+  endDate: 10/13/2015
+- version: Service Pack 1
+  startDate: 07/12/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 07/20/2010
+  endDate: 07/10/2012
+content: "> [!TIP]\n> *Hasta tres años después de la fecha de finalización del soporte, se podrán adquirir actualizaciones de seguridad extendidas (ESU) para las ediciones Datacenter, Standard, Enterprise y Embedded de este producto. Póngase en contacto con su socio de Microsoft o equipo de cuenta para obtener más información. \n\n\n## <a name=\"links\"></a>Vínculos \n* [Opciones de finalización de soporte técnico de SQL Server 2008 y Windows Server 2008](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Finalización de soporte de SQL Server](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Programa de actualizaciones de seguridad extendida (ESU)](/lifecycle/faq/extended-security-updates)\n\n\n> [!NOTE]\n> SP2 será compatible hasta el 9/7/2019 únicamente para IA64. Consulte el blog SQL Release Services para obtener más información.\n\n\n## <a name=\"editions\"></a>Ediciones \n* Datacenter\n* Developer\n* Enterprise\n* Express\n* Express with Advanced Services\n* para Embedded Systems\n* Estándar\n* Standard Edition para Pequeñas Empresas\n* Web\n* Workgroup"

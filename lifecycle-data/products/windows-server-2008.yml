@@ -2,16 +2,16 @@
 metadata:
   title: Windows Server 2008
   description: Windows Server 2008 se rige por la Directiva de ciclo de vida fijo.
-  ms.date: 04/23/2021
+  ms.date: 08/31/2021
   keywords: 
-  ms.openlocfilehash: e410116c0c35fc739a87078ae69e1906d4d0f251e55218f96ffd7d1603fcfdd1
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 8d1c189ee825c9294e0e5161ded5a56a55526066
+  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2504635"
+  ms.lasthandoff: 09/21/2021
+  ms.locfileid: "3460659"
 name: Windows Server 2008
-summary: "Windows Server 2008 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed). \n\nEsto está disponible para las siguientes ediciones: Datacenter, Datacenter sin Hyper-V, Enterprise, Enterprise sin Hyper-V, para sistemas basados en Itanium, Foundation, Standard, Standard sin Hyper-V y Web\n\n> [!IMPORTANT]\n> El soporte técnico para este producto ha finalizado. Consulte las instrucciones de migración a continuación.\n"
+summary: "Windows Server 2008 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed). \n\n\nEsto está disponible para las siguientes ediciones: Datacenter, Datacenter sin Hyper-V, Enterprise, Enterprise sin Hyper-V, para sistemas basados en Itanium, Foundation, Standard, Standard sin Hyper-V y Web\n\n\n> [!IMPORTANT]\n> El soporte técnico para este producto ha finalizado. Consulte las instrucciones de migración a continuación.\n\n"
 products:
 - windows
 policyType: fixed
@@ -20,11 +20,14 @@ supportDates:
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
+- version: Extended Security Update Year 4 (Azure only)
+  startDate: 01/11/2023
+  endDate: 01/09/2024
 - version: Extended Security Update Year 3
-  startDate: 01/11/2022
+  startDate: 01/12/2022
   endDate: 01/10/2023
 - version: Extended Security Update Year 2
-  startDate: 01/12/2021
+  startDate: 01/13/2021
   endDate: 01/11/2022
 - version: Extended Security Update Year 1
   startDate: 01/14/2020
@@ -35,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "> [!TIP]\n> *Hasta tres años después de la fecha de fin del soporte, se podrán adquirir actualizaciones de seguridad extendida (ESU) para las versiones Datacenter, Standard, Enterprise y Embedded de estas ediciones del producto a través de programas específicos de licencias por volumen. Póngase en contacto con su socio de Microsoft o equipo de cuenta para obtener más información. \n\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://aka.ms/AA1ovn4)\n* [Información de actualizaciones de Server](/windows-server/upgrade/upgrade-overview)\n* [Programa de actualizaciones de seguridad extendida (ESU)](/lifecycle/faq/extended-security-updates)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Windows Server 2008 Foundation, publicado el 21 de mayo de 2009\n\n## <a name=\"editions\"></a>Ediciones \n* Datacenter\n* Datacenter sin Hyper-V\n* Enterprise\n* Enterprise sin Hyper-V\n* para sistemas basados en Itanium\n* Foundation\n* Estándar\n* Standard sin Hyper-V\n* Web"
+content: "> [!TIP]\n> *Hasta tres años después de la fecha de fin del soporte, se podrán adquirir actualizaciones de seguridad extendida (ESU) para las versiones Datacenter, Standard, Enterprise y Embedded de estas ediciones del producto a través de programas específicos de licencias por volumen. Póngase en contacto con su socio de Microsoft o equipo de cuenta para obtener más información. \n\n\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](https://aka.ms/AA1ovn4)\n* [Información de actualizaciones de Server](/windows-server/upgrade/upgrade-overview)\n* [Programa de actualizaciones de seguridad extendida (ESU)](/lifecycle/faq/extended-security-updates)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> Windows Server 2008 Foundation, publicado el 21 de mayo de 2009\n\n\n## <a name=\"editions\"></a>Ediciones \n* Datacenter\n* Datacenter sin Hyper-V\n* Enterprise\n* Enterprise sin Hyper-V\n* para sistemas basados en Itanium\n* Foundation\n* Estándar\n* Standard sin Hyper-V\n* Web"
