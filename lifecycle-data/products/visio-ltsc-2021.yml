@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visio LTSC 2021
+  description: Visio LTSC 2021 se rige por la directiva de ciclo de vida fijo.
+  ms.date: 09/16/2021
+  keywords: Office,Professional,Standard
+  ms.openlocfilehash: 1fd4f0c3a761f478f4dcc7b17be430dac2121755
+  ms.sourcegitcommit: 17be92666405b75359d58e4487bda40de53b13a7
+  ms.translationtype: HT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 09/17/2021
+  ms.locfileid: "3458015"
+name: Visio LTSC 2021
+summary: >+
+  Visio LTSC 2021 se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+
+
+
+  Esto se cumple en las siguientes ediciones: Profesional y Standard
+
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/16/2021
+  end: 10/13/2026
+releases:
+- version: Original Release
+  startDate: 09/16/2021
+  endDate: 10/13/2026
+content: "\n\n## <a name=\"links\"></a>Vínculos \n* [Requisitos del sistema](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n\n\n## <a name=\"editions\"></a>Ediciones \n* Professional\n* Estándar"

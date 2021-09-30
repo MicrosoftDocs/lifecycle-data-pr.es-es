@@ -2,21 +2,21 @@
 metadata:
   title: Visual Studio 2019
   description: Visual Studio 2019 se rige por la Directiva de ciclo de vida fijo.
-  ms.date: 08/16/2021
+  ms.date: 09/20/2021
   keywords: 
-  ms.openlocfilehash: c7e4ddffbe5d190d4a67d9537e35e9fcf95bce8c
-  ms.sourcegitcommit: 0757165840b353e73bd33bcc287aec0d191c39cf
+  ms.openlocfilehash: e23223d9d0a238c2d9784b25ab84a2195705951c
+  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 08/17/2021
-  ms.locfileid: "3099657"
+  ms.lasthandoff: 09/21/2021
+  ms.locfileid: "3460622"
 name: Visual Studio 2019
 summary: >+
   Visual Studio 2019 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 
-  Esto está disponible para las siguientes ediciones: Agents, Build Tools, Community, Enterprise, para Mac, Recopilador independiente de IntelliTrace, Herramientas de rendimiento, Professional, Herramientas remotas, Team Explorer y Visual C++ Redistributable
+  Esto está disponible para las siguientes ediciones: Community, Enterprise y Professional
 
 
 
@@ -43,4 +43,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n\n## <a name=\"links\"></a>Vínculos \n* [Anuncios de blog de Visual Studio](https://devblogs.microsoft.com/visualstudio/)\n* [Información de mantenimiento](/visualstudio/productinfo/vs-servicing-vs)\n* [Página de descarga de Visual Studio 2019](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Notas de la versión de Visual Studio 2019](/visualstudio/releases/2019/release-notes)\n\n\n\n\n## <a name=\"editions\"></a>Ediciones \n* Agents\n* Build Tools\n* Community\n* Enterprise\n* para Mac\n* Recopilador independiente de IntelliTrace\n* Herramientas de rendimiento\n* Professional\n* Herramientas remotas\n* Team Explorer\n* Visual C++ Redistributable"
+content: "\n\n## <a name=\"links\"></a>Vínculos \n* [Anuncios de blog de Visual Studio](https://devblogs.microsoft.com/visualstudio/)\n* [Información de mantenimiento](/visualstudio/productinfo/vs-servicing-vs)\n* [Página de descarga de Visual Studio 2019](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Notas de la versión de Visual Studio 2019](/visualstudio/releases/2019/release-notes)\n\n\n> [!NOTE]\n> Las versiones de Visual Studio 2019 de los siguientes componentes se envían y son compatibles como parte del ciclo de vida de Visual Studio 2019: Agents, Build Tools, Community, Enterprise, Recopilador independiente de IntelliTrace, Herramientas de rendimiento, Herramientas remotas, Team Explorer y Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Ediciones \n* Community\n* Enterprise\n* Professional"
