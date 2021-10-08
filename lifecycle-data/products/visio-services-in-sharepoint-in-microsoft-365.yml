@@ -2,17 +2,20 @@
 metadata:
   title: Servicios de Visio en SharePoint (en Microsoft 365)
   description: Servicios de Visio en SharePoint (en Microsoft 365) se rige por la directiva moderna de ciclo de vida.
-  ms.date: 11/02/2020
-  keywords: Vision Web Access
-  ms.openlocfilehash: d3175a0669977104cbc08ec010fd6e9e4dde6a40fa7c7985deb7d76c35548825
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 09/24/2021
+  keywords: visio web access
+  ms.openlocfilehash: 401d637ba61c4199dc7f2bf41bcb94f12cc8f505
+  ms.sourcegitcommit: 13c3f073f42c3ad6cb7096505d92851fb7872182
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2506559"
+  ms.lasthandoff: 09/29/2021
+  ms.locfileid: "3506819"
 name: Servicios de Visio en SharePoint (en Microsoft 365)
 summary: >+
   Servicios de Visio en SharePoint (en Microsoft 365) se rige por la directiva [moderna](/lifecycle/policies/modern) de ciclo de vida.
+
+
+
 
 
 products:
@@ -20,9 +23,8 @@ products:
 policyType: modern-online
 supportDates:
   start: 04/16/2010
-  end: 09/30/2021
 releases:
 - version: Original Release
   startDate: 04/16/2010
   endDate: 09/30/2020
-content: "\n\n> [!NOTE]\n> La fecha de retirada de Servicios de Visio en SharePoint Online (Visio Web Access) se ha ampliado del 30 de septiembre de 2020 al 30 de septiembre de 2021. Diríjase [aquí](https://techcommunity.microsoft.com/t5/visio-blog/visio-web-access-aka-visio-services-updates/ba-p/109541) para obtener más información."
+content: "\n\n## <a name=\"links\"></a>Vínculos \n* [Actualización de Visio Web Access (también llamado Visio Services)](https://techcommunity.microsoft.com/t5/visio-blog/visio-web-access-aka-visio-services-updates/ba-p/109541)"
