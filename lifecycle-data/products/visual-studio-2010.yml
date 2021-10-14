@@ -2,65 +2,36 @@
 metadata:
   title: Visual Studio 2010
   description: Visual Studio 2010 se rige por la Directiva de ciclo de vida fijo.
-  ms.date: 05/28/2021
-  keywords: 'vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK'
+  ms.date: 10/07/2021
+  keywords: vsto,Express for Web,Express for Windows Phone,Premium,Professional,Test Professional,Ultimate,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express
+  ms.openlocfilehash: eea7c383adbd91aeea6893503808cc7ec675ea8f
+  ms.sourcegitcommit: f740c7c0a548d726572fda7cefa9ec8b630a27c7
+  ms.translationtype: HT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 10/07/2021
+  ms.locfileid: "3510964"
 name: Visual Studio 2010
-summary: |+
+summary: >+
   Visual Studio 2010 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
-  Se aplica a las siguientes ediciones: Agents, Todas, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Herramientas de rendimiento, Premium, Professional, Professional con MSDN, PSM, Remote Debugger, SDK, Shell (integrado), Shell (aislado), Team Agents, Team Explorer, Test Professional, Ultimate, Ultimate con MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express y SDK de visualización y modelado
+
+  Esto está disponible para las siguientes ediciones: Express para Web, Express para Windows Phone, Premium, Professional, Test Professional, Ultimate, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
 
 
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 06/29/2010
   end: 07/14/2015
   extendedEnd: 07/14/2020
 releases:
-  - version: Service Pack 1
-    startDate: 03/08/2011
-    endDate: 07/14/2020
-  - version: Original Release
-    startDate: 06/29/2010
-    endDate: 04/10/2012
-content: |+
-
-
-  ## <a name="links"></a>Vínculos 
-  * [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)
-
-
-  > [!NOTE]
-  > El runtime de Visual Studio 2010 Tools para Office (VSTO) se envía con varias versiones de Visual Studio y Microsoft Office y sigue el ciclo de vida del producto principal. También se puede descargar por separado, [aquí](https://www.microsoft.com/download/details.aspx?id=56961).
-
-
-  ## <a name="editions"></a>Ediciones 
-  * Agents
-  * todas
-  * ASP .NET MVC 4
-  * Express
-  * F# 2.0 Runtime
-  * Lab Management
-  * Herramientas de rendimiento
-  * Premium
-  * Professional
-  * Professional con MSDN 
-  * PSM
-  * Remote Debugger
-  * SDK
-  * Shell (integrado)
-  * Shell (aislado)
-  * Team Agents
-  * Team Explorer
-  * Test Professional
-  * Ultimate
-  * Ultimate con MSDN
-  * Visual Basic Express
-  * Visual C# Express
-  * Visual C++ Express
-  * Visual Web Developer Express
-  * SDK de visualización y modelado
+- version: Service Pack 1
+  startDate: 03/08/2011
+  endDate: 07/14/2020
+- version: Original Release
+  startDate: 06/29/2010
+  endDate: 04/10/2012
+content: "\n\n## <a name=\"links\"></a>Vínculos \n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> Las versiones de Visual Studio 2010 de los siguientes componentes se envían y son compatibles como parte del ciclo de vida de Visual Studio 2010: Agents, All, ASP.NET MVC 4, F# 2.0 Runtime, VSTO Runtime, Lab Management, Herramientas de rendimiento, Professional con MSDN, PSM, Remote Debugger, SDK, Shell (integrado), Shell (aislado), Team Agents, Team Explorer, Ultimate con MSDN, SDK de visualización y modelado.\n\n\n## <a name=\"editions\"></a>Ediciones \n* Express para Web\n* Express para Windows Phone\n* Premium\n* Professional\n* Test Professional\n* Ultimate\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"
