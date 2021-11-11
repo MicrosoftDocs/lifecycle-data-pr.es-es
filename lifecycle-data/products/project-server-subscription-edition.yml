@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Project Server Edición de Suscripción
+  description: Project Server Edición de Suscripción se rige por la directiva de ciclo de vida moderno.
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 3775c728a11e4e8f85fd3866670d6ce7fcc5f808
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546874"
+name: Project Server Edición de Suscripción
+summary: >+
+  Project Server Edición de Suscripción se rige por la directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 11/02/2021
+releases:
+- version: Original Release
+  startDate: 11/02/2021
+content: "\n\n\n\n> [!NOTE]\n> Consulte la [documentación](https://docs.microsoft.com/project/project-server-2013-and-2016) del [producto y del](https://docs.microsoft.com/office/dev/add-ins/project/) desarrollador."
