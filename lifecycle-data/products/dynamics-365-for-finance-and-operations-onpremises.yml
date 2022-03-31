@@ -3,28 +3,26 @@ metadata:
   title: Dynamics 365 for Finance and Operations (local)
   description: Dynamics 365 for Finance and Operations (local) se rige por la directiva de ciclo de vida moderno.
   ms.date: 09/29/2020
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 1de32cdf1f7de625e3f3ca10fdc4e53154f3c7ef
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4141472"
 name: Dynamics 365 for Finance and Operations (local)
-summary: |+
+summary: >+
   Dynamics 365 for Finance and Operations (local) se rige por la directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
+
 
   Esto está disponible para las siguientes ediciones: Enterprise
 
 products:
-  - dynamics
+- dynamics
 policyType: modern-online
 supportDates:
-  start: 06/15/2017
+  start: 2017-06-15T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 06/15/2017
-content: |
-
-  ## <a name="links"></a>Vínculos 
-  * [Información de mantenimiento](/dynamics365/unified-operations/dev-itpro/migration-upgrade/on-prem-version-update-policy)
-  * [Características eliminadas u obsoletas](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)
-  * [Requisitos del sistema](https://ax.help.dynamics.com/wiki/browser-requirements/)
-
-
-  ## <a name="editions"></a>Ediciones 
-  * Enterprise
+- version: Original Release
+  startDate: 2017-06-15T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Información de mantenimiento](/dynamics365/unified-operations/dev-itpro/migration-upgrade/on-prem-version-update-policy)\n* [Características eliminadas u obsoletas](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)\n* [Requisitos del sistema](https://ax.help.dynamics.com/wiki/browser-requirements/)\n\n\n## <a name=\"editions\"></a>Ediciones \n* Enterprise"

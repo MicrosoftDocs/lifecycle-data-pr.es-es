@@ -3,12 +3,12 @@ metadata:
   title: Engyro Product Connector para Microsoft Operations Manager 2005
   description: Los conectores de productos Engyro para Microsoft Operations Manager 2005 se rigen por la directiva de ciclo de vida fijo.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 63c392008b83dfc04e38ee126c7b5474d448937d0ec8d22e2e8c0ec34e926479
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 16ae9b6a49c292b9ceaff02cf0e6a246de520850
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2490131"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4128152"
 name: Engyro Product Connector para Microsoft Operations Manager 2005
 summary: >+
   Los conectores de productos Engyro para Microsoft Operations Manager 2005 se rigen por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
@@ -18,11 +18,11 @@ products:
 - msc
 policyType: fixed
 supportDates:
-  start: 10/01/2007
-  end: 12/31/2010
-  extendedEnd: 01/13/2015
+  start: 2007-10-01T00:00:00.000-08:00
+  end: 2010-12-31T22:59:59.999-08:00
+  extendedEnd: 2015-01-13T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 10/01/2007
-  endDate: 01/13/2015
+  startDate: 2007-10-01T00:00:00.000-08:00
+  endDate: 2015-01-13T22:59:59.999-08:00
 content: ''

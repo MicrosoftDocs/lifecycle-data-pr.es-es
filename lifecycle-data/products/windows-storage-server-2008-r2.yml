@@ -4,12 +4,12 @@ metadata:
   description: Windows Storage Server 2008 R2 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
   keywords: Essentials,Standard
-  ms.openlocfilehash: 4daee683afcc609ab98daafc5a4f3d70c871fc37fe75821494316d44436c17bb
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 9630c81497f407a18c350c25442586469534a98e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2493535"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4134536"
 name: Windows Storage Server 2008 R2
 summary: >
   Windows Storage Server 2008 R2 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
@@ -25,14 +25,14 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 12/20/2010
-  end: 01/13/2015
-  extendedEnd: 01/14/2020
+  start: 2010-12-20T00:00:00.000-08:00
+  end: 2015-01-13T22:59:59.999-08:00
+  extendedEnd: 2020-01-14T22:59:59.999-08:00
 releases:
 - version: Service Pack 1
-  startDate: 02/22/2011
-  endDate: 01/14/2020
+  startDate: 2011-02-22T00:00:00.000-08:00
+  endDate: 2020-01-14T22:59:59.999-08:00
 - version: Original Release
-  startDate: 12/20/2010
-  endDate: 04/09/2013
+  startDate: 2010-12-20T00:00:00.000-08:00
+  endDate: 2013-04-09T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>Vínculos \n* [Información sobre la finalización del soporte](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [Instrucciones para la migración](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Preguntas frecuentes sobre las actualizaciones de seguridad extendidas](/lifecycle/faq/extended-security-updates)\n* [Información de actualizaciones de Server](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> La edición Essentials se publicó el 28 de junio de 2011.\n\n## <a name=\"editions\"></a>Ediciones \n* Essentials\n* Estándar"

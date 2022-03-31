@@ -3,35 +3,29 @@ metadata:
   title: Windows Storage Server 2012 R2
   description: Windows Storage Server 2012 R2 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
-  keywords: 'Essentials,Standard,Workgroup'
+  keywords: Essentials,Standard,Workgroup
+  ms.openlocfilehash: e79fd09b35275e280607e072d89625caa917d4f3
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4134479"
 name: Windows Storage Server 2012 R2
-summary: |+
+summary: >+
   Windows Storage Server 2012 R2 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+
 
   Esto se cumple en las siguientes ediciones: Essentials, Standard y Workgroup
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 11/25/2013
-  end: 10/09/2018
-  extendedEnd: 10/10/2023
+  start: 2013-11-25T00:00:00.000-08:00
+  end: 2018-10-09T22:59:59.999-08:00
+  extendedEnd: 2023-10-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 11/25/2013
-    endDate: 10/10/2023
-content: |
-
-  ## <a name="links"></a>Vínculos 
-  * [Instrucciones para la migración](/windows-server/upgrade/upgrade-2012r2-to-2019)
-
-  > [!NOTE]
-  > El soporte estándar y extendido para este producto se amplió para proporcionar a los clientes la escala de tiempo de transición del ciclo de vida estándar.
-  > [!NOTE]
-  > La fecha de inicio de la edición de Essentials es el 25 de septiembre de 2014. 
-
-  ## <a name="editions"></a>Ediciones 
-  * Essentials
-  * Estándar
-  * Workgroup
+- version: Original Release
+  startDate: 2013-11-25T00:00:00.000-08:00
+  endDate: 2023-10-10T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> El soporte estándar y extendido para este producto se amplió para proporcionar a los clientes la escala de tiempo de transición del ciclo de vida estándar.\n> [!NOTE]\n> La fecha de inicio de la edición de Essentials es el 25 de septiembre de 2014. \n\n## <a name=\"editions\"></a>Ediciones \n* Essentials\n* Estándar\n* Workgroup"
