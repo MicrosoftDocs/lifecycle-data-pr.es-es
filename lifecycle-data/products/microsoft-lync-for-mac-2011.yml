@@ -3,26 +3,26 @@ metadata:
   title: Microsoft Lync para Mac 2011
   description: Microsoft Lync para Mac 2011 se rige por la Directiva del ciclo de vida fijo.
   ms.date: 07/28/2020
+  ms.openlocfilehash: d7a65da42b035199050edfa3a9248cc085f0f727
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4139165"
 name: Microsoft Lync para Mac 2011
-summary: |+
+summary: >+
   Microsoft Lync para Mac 2011 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
 
 
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 12/09/2010
-  end: 10/10/2017
-  extendedEnd: 10/09/2018
+  start: 2010-12-09T00:00:00.000-08:00
+  end: 2017-10-10T22:59:59.999-08:00
+  extendedEnd: 2018-10-09T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 12/09/2010
-    endDate: 10/09/2018
-content: |+
-
-  ## <a name="links"></a>Vínculos 
-  * [Skype Empresarial para Mac](https://www.microsoft.com/download/details.aspx?id=54108)
-
-  > [!NOTE]
-  > La compatibilidad con Microsoft Lync para Mac 2011 se extiende como se muestra con el fin de proporcionar a todos los clientes una escala de tiempo de transición del ciclo de vida a Skype Empresarial para Mac.
+- version: Original Release
+  startDate: 2010-12-09T00:00:00.000-08:00
+  endDate: 2018-10-09T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Skype Empresarial para Mac](https://www.microsoft.com/download/details.aspx?id=54108)\n\n> [!NOTE]\n> La compatibilidad con Microsoft Lync para Mac 2011 se extiende como se muestra con el fin de proporcionar a todos los clientes una escala de tiempo de transición del ciclo de vida a Skype Empresarial para Mac."

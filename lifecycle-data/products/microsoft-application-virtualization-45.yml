@@ -3,41 +3,39 @@ metadata:
   title: Microsoft Application Virtualization 4.5
   description: Microsoft Application Virtualization 4.5 se rige por la Directiva de ciclo de vida fijo.
   ms.date: 09/01/2020
-  keywords: 'for Terminal Services,for Windows Desktops'
+  keywords: for Terminal Services,for Windows Desktops
+  ms.openlocfilehash: d70bed6b9c9e05d19efb27509f15e13fb8bf5735
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4108320"
 name: Microsoft Application Virtualization 4.5
-summary: |
+summary: >
   Microsoft Application Virtualization 4.5 se rige por la Directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+
 
   Esto está disponible para las siguientes ediciones: for Terminal Services y for Windows Desktops
 
+
   > [!IMPORTANT]
+
   > El soporte técnico para este producto ha finalizado. Consulte las instrucciones de migración a continuación.
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 11/23/2008
-  end: 01/14/2014
-  extendedEnd: 01/08/2019
+  start: 2008-11-23T00:00:00.000-08:00
+  end: 2014-01-14T22:59:59.999-08:00
+  extendedEnd: 2019-01-08T22:59:59.999-08:00
 releases:
-  - version: Service Pack 2
-    startDate: 08/15/2010
-    endDate: 01/08/2019
-  - version: Service Pack 1
-    startDate: 12/13/2009
-    endDate: 10/11/2011
-  - version: Original Release
-    startDate: 11/23/2008
-    endDate: 01/11/2011
-content: |
-
-  ## <a name="links"></a>Vínculos 
-  * [Instrucciones para la migración](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
-  * [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)
-
-  > [!NOTE]
-  > Dado que el cliente de App-V 4.6 utiliza el servidor de App-V 4.5, este último seguirá recibiendo soporte técnico según las fechas del ciclo de vida de App-V 4.6 cuando se use con el cliente de App-V 4.6 compatible.
-
-  ## <a name="editions"></a>Ediciones 
-  * for Terminal Services
-  * para escritorios de Windows
+- version: Service Pack 2
+  startDate: 2010-08-15T00:00:00.000-08:00
+  endDate: 2019-01-08T22:59:59.999-08:00
+- version: Service Pack 1
+  startDate: 2009-12-13T00:00:00.000-08:00
+  endDate: 2011-10-11T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2008-11-23T00:00:00.000-08:00
+  endDate: 2011-01-11T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Instrucciones para la migración](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Directiva del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Dado que el cliente de App-V 4.6 utiliza el servidor de App-V 4.5, este último seguirá recibiendo soporte técnico según las fechas del ciclo de vida de App-V 4.6 cuando se use con el cliente de App-V 4.6 compatible.\n\n## <a name=\"editions\"></a>Ediciones \n* for Terminal Services\n* para escritorios de Windows"

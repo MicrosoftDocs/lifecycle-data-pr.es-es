@@ -3,32 +3,26 @@ metadata:
   title: Aplicaciones de Microsoft 365
   description: Las aplicaciones de Microsoft 365 se rigen por la directiva de ciclo de vida moderno.
   ms.date: 04/07/2021
-  keywords: 'Office 365 Business,Office 365 ProPlus,for business,for enterprise'
+  keywords: Office 365 Business,Office 365 ProPlus,for business,for enterprise
+  ms.openlocfilehash: df188eeb73187be1007b85338632762e6c9153b7
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4155014"
 name: Aplicaciones de Microsoft 365
-summary: |+
+summary: >+
   Las aplicaciones de Microsoft 365 se rigen por la directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
+
 
   Se aplica a las siguientes ediciones: para negocios, para empresas
 
 products:
-  - office
+- office
 policyType: modern-online
 supportDates:
-  start: 09/22/2015
+  start: 2015-09-22T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 09/22/2015
-content: |
-
-  ## <a name="links"></a>Vínculos 
-  * [Versiones compatibles](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)
-  * [Requisitos del sistema](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)
-  * [Matriz de soporte de configuración de Office](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)
-  * [Guía de implementación de Aplicaciones de Microsoft 365](/DeployOffice/deployment-guide-microsoft-365-apps)
-
-  > [!NOTE]
-  > Aplicaciones de Microsoft 365 para empresas antes se llamaba Office 365 ProPlus. Aplicaciones de Microsoft 365 para negocios antes se llamaba Office 365 Empresa.
-
-  ## <a name="editions"></a>Ediciones 
-  * para negocios
-  * para empresas
+- version: Original Release
+  startDate: 2015-09-22T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Versiones compatibles](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)\n* [Requisitos del sistema](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Matriz de soporte de configuración de Office](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)\n* [Guía de implementación de Aplicaciones de Microsoft 365](/DeployOffice/deployment-guide-microsoft-365-apps)\n\n> [!NOTE]\n> Aplicaciones de Microsoft 365 para empresas antes se llamaba Office 365 ProPlus. Aplicaciones de Microsoft 365 para negocios antes se llamaba Office 365 Empresa.\n\n## <a name=\"editions\"></a>Ediciones \n* para negocios\n* para empresas"

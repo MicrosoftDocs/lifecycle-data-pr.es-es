@@ -3,22 +3,29 @@ metadata:
   title: Microsoft Antigen
   description: Microsoft Antigen se rige por la directiva de ciclo de vida fijo.
   ms.date: 09/10/2020
-  keywords: '9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager'
+  keywords: 9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager
+  ms.openlocfilehash: c649ed6ae2b9ba18e16929dea3b09d230f061028
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4155791"
 name: Microsoft Antigen
-summary: |+
+summary: >+
   Microsoft Antigen se rige por la directiva de ciclo de vida [fijo](/lifecycle/policies/fixed).
+
 
   Esto está disponible para las siguientes ediciones: 9.0 para Exchange, Enterprise Manager 9.0, para puertas de enlace SMTP y Administrador de correo no deseado
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 07/17/2006
-  end: 04/08/2014
-  extendedEnd: 12/31/2015
+  start: 2006-07-17T00:00:00.000-08:00
+  end: 2014-04-08T22:59:59.999-08:00
+  extendedEnd: 2015-12-31T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 07/17/2006
-    endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> El plan de desarrollo para los productos de seguridad bajo la marca Forefront ha cambiado.\_Este producto se interrumpe a partir del 31 de diciembre de 2015.\n\n## <a name=\"editions\"></a>Ediciones \n* 9.0 para Exchange\n* Enterprise Manager 9.0\n* para puertas de enlace SMTP\n* Administrador de correo no deseado\n"
+- version: Original Release
+  startDate: 2006-07-17T00:00:00.000-08:00
+  endDate: 2015-12-31T22:59:59.999-08:00
+content: "\n\n> [!NOTE]\n> El plan de desarrollo para los productos de seguridad bajo la marca Forefront ha cambiado. Este producto se interrumpe a partir del 31 de diciembre de 2015.\n\n## <a name=\"editions\"></a>Ediciones \n* 9.0 para Exchange\n* Enterprise Manager 9.0\n* para puertas de enlace SMTP\n* Administrador de correo no deseado\n"

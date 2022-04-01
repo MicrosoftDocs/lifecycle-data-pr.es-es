@@ -4,12 +4,12 @@ metadata:
   description: SharePoint Server Edición de Suscripción se rige por la directiva de ciclo de vida moderno.
   ms.date: 10/19/2021
   keywords: 
-  ms.openlocfilehash: 3e5e5eb0b969e8d18a37532e4b5750be288bcebf
-  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.openlocfilehash: b515d7ca4be8413a55707d64e6f3fedca9352e8e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 11/02/2021
-  ms.locfileid: "3546906"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4131260"
 name: Versión preliminar de SharePoint Server Edición de Suscripción
 summary: >+
   SharePoint Server Edición de Suscripción se rige por la directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
@@ -22,8 +22,8 @@ products:
 - office
 policyType: modern-on-prem
 supportDates:
-  start: 11/02/2021
+  start: 2021-11-02T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 11/02/2021
+  startDate: 2021-11-02T00:00:00.000-08:00
 content: "\n\n\n\n> [!NOTE]\n> Consulte la [documentación](https://docs.microsoft.com/sharepoint/sharepoint-server) del [producto y del](https://docs.microsoft.com/sharepoint/dev/) desarrollador."

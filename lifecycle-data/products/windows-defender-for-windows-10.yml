@@ -3,27 +3,26 @@ metadata:
   title: Windows Defender para Windows 10
   description: Windows Defender para Windows 10 se rige por la Directiva de ciclo de vida de componentes.
   ms.date: 04/28/2021
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 5bfc8d1203eee797bd6bc6146a64725cdcb7b061
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4118347"
 name: Windows Defender para Windows 10
-summary: |+
+summary: >+
   Windows Defender para Windows 10 se rige por la Directiva de ciclo de vida de [componentes](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-  - windows
+- windows
 policyType: component
 supportDates:
-  start: 07/29/2015
-  end: 10/14/2025
+  start: 2015-07-29T00:00:00.000-08:00
+  end: 2025-10-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 07/29/2015
-    endDate: 10/14/2025
-content: |+
-
-  ## <a name="links"></a>Vínculos 
-  * [Windows 10](/lifecycle/products/?terms=windows%2010)
-  * [Directrices de mantenimiento](/microsoft-365/security/defender-endpoint/manage-updates-baselines-microsoft-defender-antivirus?view=o365-worldwide#microsoft-defender-antivirus-platform-support)
-
-  > [!NOTE]
-  > Esta versión se conoce como un Componente que sigue el ciclo de vida de su producto principal, Windows 10.
+- version: Original Release
+  startDate: 2015-07-29T00:00:00.000-08:00
+  endDate: 2025-10-14T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Vínculos \n* [Windows 10](/lifecycle/products/?terms=windows%2010)\n* [Directrices de mantenimiento](/microsoft-365/security/defender-endpoint/manage-updates-baselines-microsoft-defender-antivirus?view=o365-worldwide#microsoft-defender-antivirus-platform-support)\n\n> [!NOTE]\n> Esta versión se conoce como un Componente que sigue el ciclo de vida de su producto principal, Windows 10."

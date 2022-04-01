@@ -1,13 +1,13 @@
 ---
 title: Productos cuyo soporte finaliza en 2026
 description: Descubra qué productos se retirarán, llegarán a la finalización del soporte o pasarán del soporte estándar al soporte extendido en 2026.
-ms.date: 11/03/2021
-ms.openlocfilehash: 7b0d2936cec825b1f029b1c891d36fea3ec916c0
-ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+ms.date: 03/09/2022
+ms.openlocfilehash: 8528b1bc53c7cf9550aa70eacbd8c389eb5fad8a
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "4029369"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117126"
 ---
 # <a name="products-ending-support-in-2026"></a>Productos cuyo soporte finaliza en 2026
 
@@ -35,7 +35,7 @@ Los siguientes productos y versiones, que se rigen por la [directiva fija](/life
 
 | Producto | Fin del soporte |
 | --- | --- |
-| [Advanced Threat Analytics 1.X](/lifecycle/products/advanced-threat-analytics-1x?branch=live)<br>[Aplicaciones de Dynamics 365 for Customer Engagement, versión 9 (actualización local)](/lifecycle/products/dynamics-365-for-customer-engagement-apps-version-9-onpremises-update?branch=live)<br>[Dynamics CRM 2016 (Dynamics 365)](/lifecycle/products/dynamics-crm-2016-dynamics-365?branch=live)<br>[Microsoft Identity Manager 2016](/lifecycle/products/microsoft-identity-manager-2016?branch=live)<br> | martes, 13 de enero de 2026 |
+| [Advanced Threat Analytics 1.X](/lifecycle/products/advanced-threat-analytics-1x?branch=live)<br>[Dynamics CRM 2016 (Dynamics 365)](/lifecycle/products/dynamics-crm-2016-dynamics-365?branch=live)<br>[Microsoft Identity Manager 2016](/lifecycle/products/microsoft-identity-manager-2016?branch=live)<br> | martes, 13 de enero de 2026 |
 | [Almacenamiento de datos paralelos de Microsoft SQL Server 2012 (Analytics Platform System)](/lifecycle/products/microsoft-sql-server-2012-parallel-data-warehouse-analytics-platform-system?branch=live)<br> | martes, 31 de marzo de 2026 |
 | [Dynamics C5 2016](/lifecycle/products/dynamics-c5-2016?branch=live)<br>[Dynamics NAV 2016](/lifecycle/products/dynamics-nav-2016?branch=live)<br>[Administración avanzada de directivas para grupo de Microsoft 4.0](/lifecycle/products/microsoft-advanced-group-policy-management-40?branch=live)<br>[Microsoft Application Virtualization 5.0](/lifecycle/products/microsoft-application-virtualization-50?branch=live)<br>[Microsoft Application Virtualization 5.1](/lifecycle/products/microsoft-application-virtualization-51?branch=live)<br>[Microsoft Application Virtualization Hosting 5.0 for Windows Desktops](/lifecycle/products/microsoft-application-virtualization-hosting-50?branch=live)<br>[Microsoft Application Virtualization Hosting 5.1 for Windows Desktops](/lifecycle/products/microsoft-application-virtualization-hosting-51?branch=live)<br>[Microsoft BitLocker Administration and Monitoring 2.5](/lifecycle/products/microsoft-bitlocker-administration-and-monitoring-25?branch=live)<br>[Microsoft Diagnostics and Recovery Toolset 10.0](/lifecycle/products/microsoft-diagnostics-and-recovery-toolset-100?branch=live)<br>[Virtualización de la experiencia de usuario (UE-V) 2.1](/lifecycle/products/user-experience-virtualization-uev-21?branch=live)<br> | 14 de abril de 2026 |
 | [Dynamics GP 2016](/lifecycle/products/dynamics-gp-2016?branch=live)<br>[Dynamics GP 2016 R2](/lifecycle/products/dynamics-gp-2016-r2?branch=live)<br>[InfoPath 2013](/lifecycle/products/infopath-2013?branch=live)<br>[Project Server 2016](/lifecycle/products/project-server-2016?branch=live)<br>[Project Server 2019](/lifecycle/products/project-server-2019?branch=live)<br>[SharePoint Designer 2013](/lifecycle/products/sharepoint-designer-2013?branch=live)<br>[SharePoint Server 2016](/lifecycle/products/sharepoint-server-2016?branch=live)<br>[SharePoint Server 2019](/lifecycle/products/sharepoint-server-2019?branch=live)<br>[SQL Server 2016](/lifecycle/products/sql-server-2016?branch=live)<br> | martes, 14 de julio de 2026 |
