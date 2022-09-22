@@ -2,14 +2,14 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 se rige por la directiva de ciclo de vida de componentes.
-  ms.date: 01/25/2022
-  keywords: IE
-  ms.openlocfilehash: 5086bcdf51ebfb0315c4f4660193adab3be31a4e
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 2022/05/19
+  keywords: navegador,IE,ie11
+  ms.openlocfilehash: f1a0ee829ae28cfd4b3b580a9c3d296bd822b4a5
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4114388"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518618"
 name: Internet Explorer 11
 summary: >+
   Internet Explorer 11 se rige por la directiva de ciclo de vida de [componentes](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
@@ -20,7 +20,7 @@ summary: >+
 
   > [!IMPORTANT]
 
-  > La aplicación de escritorio de Internet Explorer (IE) 11 dejará de ser compatible con el canal semestral de Windows 10 a partir del 15 de junio de 2022. Se recomienda a los clientes que se pasen a Microsoft Edge con el modo IE. El modo IE permite la compatibilidad con versiones anteriores y será compatible al menos hasta 2029. Además, Microsoft notificará la retirada del modo IE con un año de antelación. Haga clic [aquí](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) para obtener una lista de los sistemas operativos compatibles con Internet Explorer, incluidas las versiones afectadas por este anuncio.
+  > La aplicación de escritorio de Internet Explorer (IE) 11 dejó de recibir soporte en el Canal semestral de Windows 10 a partir del 15 de junio de 2022. Se recomienda a los clientes que se pasen a Microsoft Edge con el modo IE. El modo IE permite la compatibilidad con versiones anteriores y será compatible al menos hasta 2029. Además, Microsoft notificará la retirada del modo IE con un año de antelación. Haga clic [aquí](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) para obtener una lista de los sistemas operativos compatibles con Internet Explorer, incluidas las versiones afectadas por este anuncio.
 
 products:
 - internet-explorer

@@ -2,14 +2,14 @@
 metadata:
   title: Cliente clásico de Azure Information Protection
   description: El cliente clásico de Azure Information Protection se rige por la directiva de ciclo de vida moderno.
-  ms.date: 11/17/2021
+  ms.date: 2022/05/27
   keywords: 
-  ms.openlocfilehash: 440c0337f73f25c109b206264547034b1a4ece68
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: d316768b36d12f3ce3e4b70bcc7d0e26d4b432ca
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4157260"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518655"
 name: Cliente clásico de Azure Information Protection
 summary: >+
   El cliente clásico de Azure Information Protection se rige por la directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 2016-10-01T00:00:00.000-08:00
   endDate: 2021-03-31T22:59:59.999-08:00
-content: "\n\n## <a name=\"links\"></a>Vínculos \n* [Información de mantenimiento](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Instrucciones para la migración](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n\n> [!NOTE]\n> Para proporcionar una experiencia de cliente unificada y optimizada, el cliente de Azure Information Protection (clásico) y la administración de etiquetas en Azure Portal quedarán en desuso a partir del 31 de marzo de 2021. Este período de tiempo permite a todos los clientes actuales de Azure Information Protection realizar la transición a nuestra solución unificada de etiquetado mediante la plataforma de etiquetado unificado de Microsoft Information Protection."
+content: "\n\n## <a name=\"links\"></a>Vínculos \n* [Información de mantenimiento](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Instrucciones para la migración](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n\n> [!NOTE]\n> Para proporcionar una experiencia de cliente unificada y optimizada, el cliente de Azure Information Protection (clásico) y la administración de etiquetas en Azure Portal quedarán en desuso a partir del 31 de marzo de 2021. Este período de tiempo permite a todos los clientes actuales de Azure Information Protection realizar la transición a la plataforma de etiquetado unificado de Microsoft Purview Information Protection."

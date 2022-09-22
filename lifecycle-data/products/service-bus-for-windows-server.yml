@@ -2,22 +2,26 @@
 metadata:
   title: Service Bus para Windows Server
   description: Service Bus para Windows Server sigue la Directiva de ciclo de vida de componentes.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2d94e7c188c7164e0f7be80bc8eca33c3ede0edf
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 2022/03/24
+  keywords: 
+  ms.openlocfilehash: c8a4ac8dc6f815bcc7b2a8caeb9d42bb1bf2aa7e
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4147651"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518840"
 name: Service Bus para Windows Server
-summary: >
+summary: >+
   Service Bus para Windows Server se rige por la Directiva de ciclo de vida de [componentes](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
+
+
 
 
 
   > [!IMPORTANT]
 
-  > Si Service Bus 1.1 es un componente de SharePoint Server 2016 o SharePoint Server 2013, recibirá soporte técnico según las fechas de finalización de soporte técnico de la versión de SharePoint Server correspondiente.
+  > Service Bus 1.1 es un componente de SharePoint Server Subscription Edition, SharePoint Server 2019, SharePoint Server 2016 y SharePoint Server 2013, y se rige por el ciclo de vida de su producto principal.
+
 products:
 - windows
 policyType: component

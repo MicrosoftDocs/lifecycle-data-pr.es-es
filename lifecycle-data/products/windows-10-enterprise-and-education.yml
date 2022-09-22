@@ -2,21 +2,21 @@
 metadata:
   title: Windows 10 Enterprise y Education
   description: Windows 10 Enterprise y Education se rige por la Directiva de ciclo de vida moderno.
-  ms.date: 11/15/2021
+  ms.date: 09/09/2022
   keywords: 
-  ms.openlocfilehash: 753111f48f91c6e725fc0804de60cf4d0a9b23db
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: bc2a6f89cc2cdaaa6da73110ff83d37e6ede9bf6
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4130520"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519099"
 name: Windows 10 Enterprise y Education
 summary: >+
   Windows 10 Enterprise y Education se rige por la Directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
 
 
 
-  Esto está disponible para las siguientes ediciones: Education y Enterprise
+  Esto se aplica a las siguientes ediciones: Education, Enterprise, sesión múltiple de Enterprise
 
 
 
@@ -70,4 +70,4 @@ releases:
 - version: Version 1507
   startDate: 2015-07-29T00:00:00.000-08:00
   endDate: 2017-05-09T22:59:59.999-08:00
-content: "\n\n## <a name=\"links\"></a>Vínculos \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Información de producto](/windows/windows-10/)\n* [Preguntas frecuentes sobre el ciclo de vida: productos de Windows](/lifecycle/faq/windows)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Home y Pro](/lifecycle/products/windows-10-home-and-pro)\n\n\n> [!NOTE]\n> A menos que se aplacen, las actualizaciones de características subsiguientes de Windows 10 se pueden instalar antes de la fecha de finalización de soporte estándar indicada.\n\n\n## <a name=\"editions\"></a>Ediciones \n* Education\n* Enterprise"
+content: "\n\n## <a name=\"links\"></a>Vínculos \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Información de producto](/windows/windows-10/)\n* [Preguntas frecuentes sobre el ciclo de vida: productos de Windows](/lifecycle/faq/windows)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Home y Pro](/lifecycle/products/windows-10-home-and-pro)\n\n\n> [!NOTE]\n> A menos que se aplacen, las actualizaciones de características subsiguientes de Windows 10 se pueden instalar antes de la fecha de finalización de soporte estándar indicada.\n\n\n## <a name=\"editions\"></a>Ediciones \n* Education\n* Enterprise\n* Sesión múltiple de Enterprise"
