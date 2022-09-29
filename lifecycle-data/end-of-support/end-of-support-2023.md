@@ -1,13 +1,13 @@
 ---
 title: Productos cuyo soporte finaliza en 2023
 description: Descubra qué productos se retirarán, llegarán a la finalización del soporte o pasarán del soporte estándar al soporte extendido en 2023.
-ms.date: 09/13/2022
-ms.openlocfilehash: 14252d5922ab850dbdc90c4ef3a8d58cad40892f
-ms.sourcegitcommit: b88b4db4bcd8ffe5d63ffa23a2a518ac25a4f635
+ms.date: 09/21/2022
+ms.openlocfilehash: facaf412f81123ef165642fd5c6692dc121fe123
+ms.sourcegitcommit: 369efbff28148903c4c47e5d1ae453fcc2cc9ae6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "4521076"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526884"
 ---
 # <a name="products-ending-support-in-2023"></a>Productos cuyo soporte finaliza en 2023
 
@@ -36,13 +36,12 @@ Las siguientes versiones de productos, que se rigen por la [directiva moderna](/
 | Producto | Finalización del soporte técnico |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, versión 2107](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | jueves, 2 de febrero de 2023 |
-| [Microsoft Endpoint Configuration Manager, versión 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | domingo, 12 de febrero de 2023 |
 | [Dynamics 365 Business Central en el entorno local (directiva moderna), lanzamiento de versiones 2 de 2021, versión 19.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | miércoles, 12 de abril de 2023 |
 | [Windows 10 Enterprise y Education, versión 20H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, versión 20H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | martes, 9 de mayo de 2023 |
 | [Microsoft Endpoint Configuration Manager, versión 2111](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | jueves, 1 de junio de 2023 |
 | [Windows 10 Home y Pro, versión 21H2](/lifecycle/products/windows-10-home-and-pro?branch=live)<br> | martes, 13 de junio de 2023 |
 | [Microsoft Endpoint Configuration Manager, versión 2203](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | viernes, 6 de octubre de 2023 |
-| [Dynamics 365 Business Central en entorno local (directiva moderna), lanzamiento de versiones 1 de 2022, versión 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 IoT Home y Pro (versión 21H2), versión original (versión 21H2)](/lifecycle/products/windows-11-home-and-pro-version-21h2?branch=live)<br> | 10 de octubre de 2023 |
+| [Dynamics 365 Business Central en entorno local (directiva moderna), lanzamiento de versiones 1 de 2022, versión 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home y Pro, versión 21H2](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | 10 de octubre de 2023 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Productos que alcanzan la finalización del soporte

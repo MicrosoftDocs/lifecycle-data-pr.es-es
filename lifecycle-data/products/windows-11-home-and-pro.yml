@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 11 Home y Pro
+  description: Windows 11 Home y Pro se rige por la Directiva de ciclo de vida moderno.
+  ms.date: 09/15/2022
+  keywords: win11,Home,Pro,Pro Education,Pro for Workstations,SE
+  ms.openlocfilehash: 6a3600f3ab8bbb303af68313e97f39d75bcb8173
+  ms.sourcegitcommit: 271be77bfed364b789251cdc113296e7e7842cbb
+  ms.translationtype: HT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 09/20/2022
+  ms.locfileid: "4526421"
+name: Windows 11 Home y Pro
+summary: >+
+  Windows 11 Home y Pro se rige por la Directiva de ciclo de vida [moderno](/lifecycle/policies/modern).
+
+
+
+  Esto se aplica a las siguientes ediciones: Home, Pro, Pro Education, Pro for Workstations, SE
+
+
+
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 2021-10-04T00:00:00.000-08:00
+releases:
+- version: Version 22H2
+  startDate: 2022-09-20T00:00:00.000-08:00
+  endDate: 2024-10-14T22:59:59.999-08:00
+- version: Version 21H2
+  startDate: 2021-10-04T00:00:00.000-08:00
+  endDate: 2023-10-10T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Vínculos \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-overview)\n* [Preguntas frecuentes sobre el ciclo de vida: Windows](/lifecycle/faq/windows)\n* [Recursos de Windows adicionales](/windows/resources/)\n* [Windows 11 Enterprise y Education](/lifecycle/products/windows-11-enterprise-and-education-version-21h2)\n* [Windows 11 IoT Enterprise](/lifecycle/products/windows-11-iot-enterprise-version-21h2)\n\n\n\n\n## <a name=\"editions\"></a>Ediciones \n* Home\n* Pro\n* Pro Education\n* Pro for Workstations\n* SE"
